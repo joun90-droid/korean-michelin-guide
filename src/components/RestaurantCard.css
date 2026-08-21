@@ -1,0 +1,133 @@
+.restaurant-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+}
+
+.restaurant-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--border-strong);
+}
+
+.card-media {
+  position: relative;
+  height: 148px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.card-media::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    circle at 30% 20%,
+    rgba(255, 255, 255, 0.18),
+    transparent 55%
+  );
+}
+
+.card-initial {
+  font-family: var(--serif);
+  font-size: 56px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1;
+}
+
+.card-media-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(20, 16, 10, 0.55);
+  backdrop-filter: blur(4px);
+  padding: 5px 10px;
+  border-radius: 999px;
+}
+
+.card-media-badge .star-badge {
+  color: #fff;
+}
+
+.card-media-badge .bib-mark {
+  border-color: #fff;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.gradient-1 {
+  background: linear-gradient(135deg, #ac1c26, #5c0f16);
+}
+.gradient-2 {
+  background: linear-gradient(135deg, #7a2a1f, #2e1410);
+}
+.gradient-3 {
+  background: linear-gradient(135deg, #a9812f, #5c451a);
+}
+.gradient-4 {
+  background: linear-gradient(135deg, #4a3a2b, #1c150e);
+}
+.gradient-5 {
+  background: linear-gradient(135deg, #8e2f3c, #38141c);
+}
+
+.card-body {
+  padding: 16px 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.card-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.card-heading h3 {
+  font-size: 18px;
+}
+
+.card-name-en {
+  font-size: 11px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+}
+
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  color: var(--text-muted);
+}
+
+.card-desc {
+  font-size: 13.5px;
+  color: var(--text);
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-price {
+  margin-top: auto;
+  padding-top: 6px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--gold);
+}

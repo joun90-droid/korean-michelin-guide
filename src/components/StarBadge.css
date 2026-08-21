@@ -1,0 +1,39 @@
+.star-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  color: var(--accent);
+}
+
+.star-badge .star-icon {
+  width: 14px;
+  height: 14px;
+}
+
+.star-badge.lg .star-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.star-badge.bib {
+  gap: 6px;
+  color: var(--gold);
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.bib-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  background: var(--gold-soft);
+  border: 1px solid var(--gold);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--gold);
+}

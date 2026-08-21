@@ -1,0 +1,83 @@
+.map-page {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.map-page-header h1 {
+  font-size: 28px;
+  margin-bottom: 6px;
+}
+
+.map-page-header p {
+  color: var(--text-muted);
+  font-size: 14.5px;
+}
+
+.map-shell {
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.leaflet-container-custom {
+  height: min(600px, 65svh);
+  width: 100%;
+  background: var(--bg-sunken);
+}
+
+.map-pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px 999px 999px 2px;
+  transform: rotate(45deg);
+  background: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  font-size: 13px;
+  font-family: var(--sans);
+  border: 2px solid #fff;
+  box-shadow: var(--shadow-sm);
+}
+
+.map-pin.bib {
+  background: var(--gold);
+}
+
+.map-pin-label {
+  display: inline-block;
+  transform: rotate(-45deg);
+}
+
+.map-popup {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  min-width: 140px;
+}
+
+.map-popup strong {
+  font-size: 14px;
+  color: var(--text-h);
+}
+
+.map-popup span {
+  color: var(--text-muted);
+}
+
+.map-popup a {
+  margin-top: 4px;
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 12.5px;
+}
