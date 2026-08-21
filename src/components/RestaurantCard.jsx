@@ -5,18 +5,30 @@ import CuisineIcon from './CuisineIcon'
 import './RestaurantCard.css'
 
 export default function RestaurantCard({ restaurant }) {
-  const { id, name, nameEn, stars, ribbons, cuisine, region, priceRange, description } =
-    restaurant
+  const {
+    id,
+    name,
+    nameEn,
+    stars,
+    ribbons,
+    cuisine,
+    region,
+    area,
+    priceRange,
+    description,
+  } = restaurant
 
   return (
     <Link to={`/restaurant/${id}`} className="restaurant-card">
-      <div className={`card-media tier-${stars}`}>
+      <div className={`card-media tier-${stars ?? 'ribbon'}`}>
         <CuisineIcon cuisine={cuisine} className="card-cuisine-icon" />
 
         <div className="card-media-badges">
-          <span className="media-pill">
-            <StarBadge stars={stars} />
-          </span>
+          {stars && (
+            <span className="media-pill">
+              <StarBadge stars={stars} />
+            </span>
+          )}
           {ribbons && (
             <span className="media-pill ribbon">
               <BlueRibbonBadge ribbons={ribbons} />
@@ -32,7 +44,9 @@ export default function RestaurantCard({ restaurant }) {
         </div>
 
         <div className="card-meta">
-          <span>{region}</span>
+          <span>
+            {region} {area}
+          </span>
           <span className="dot" aria-hidden="true">
             ·
           </span>

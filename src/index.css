@@ -162,6 +162,9 @@ button {
 .tier-selected {
   background: linear-gradient(135deg, #445164 0%, #2b3240 55%, #171b23 100%);
 }
+.tier-ribbon {
+  background: linear-gradient(135deg, #2f5f8a 0%, #1e3d59 55%, #101f2e 100%);
+}
 
 .visually-hidden {
   position: absolute;

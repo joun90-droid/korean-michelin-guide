@@ -56,6 +56,10 @@
   background: var(--text-muted);
 }
 
+.map-pin.ribbon-only {
+  background: var(--ribbon);
+}
+
 .map-pin-label {
   display: inline-block;
   transform: rotate(-45deg);

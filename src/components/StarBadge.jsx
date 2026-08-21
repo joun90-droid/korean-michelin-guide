@@ -12,6 +12,8 @@ function StarIcon() {
 }
 
 export default function StarBadge({ stars, size = 'md' }) {
+  if (!stars) return null
+
   if (stars === 'bib') {
     return (
       <span className={`star-badge bib ${size}`}>

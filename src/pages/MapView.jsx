@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-import { divIcon } from 'leaflet'
+import { divIcon, latLngBounds } from 'leaflet'
 import { Link } from 'react-router-dom'
 import { restaurants } from '../data/restaurants'
 import StarBadge from '../components/StarBadge'
@@ -8,8 +8,8 @@ import BlueRibbonBadge from '../components/BlueRibbonBadge'
 import 'leaflet/dist/leaflet.css'
 import './MapView.css'
 
-const pinLabels = { bib: 'B', selected: 'S' }
-const pinClasses = { bib: 'bib', selected: 'selected' }
+const pinLabels = { bib: 'B', selected: 'S', ribbon: 'R' }
+const pinClasses = { bib: 'bib', selected: 'selected', ribbon: 'ribbon-only' }
 
 function makeIcon(stars) {
   const label = pinLabels[stars] ?? String(stars)
@@ -26,15 +26,20 @@ function makeIcon(stars) {
 export default function MapView() {
   const icons = useMemo(() => {
     const map = {}
-    for (const level of [3, 2, 1, 'bib', 'selected']) map[level] = makeIcon(level)
+    for (const level of [3, 2, 1, 'bib', 'selected', 'ribbon']) map[level] = makeIcon(level)
     return map
   }, [])
+
+  const bounds = useMemo(
+    () => latLngBounds(restaurants.map((r) => [r.lat, r.lng])),
+    [],
+  )
 
   return (
     <div className="map-page">
       <div className="map-page-header">
         <h1>지도로 보기</h1>
-        <p>서울 전역의 미슐랭 셀렉션 레스토랑 위치를 지도에서 확인하세요.</p>
+        <p>전국 미슐랭 셀렉션·블루리본 레스토랑 위치를 지도에서 확인하세요.</p>
         <div className="map-legend">
           <span>
             <i className="dot stars" />
@@ -50,15 +55,15 @@ export default function MapView() {
           </span>
           <span>
             <i className="dot ribbon" />
-            블루리본 수상
+            블루리본 단독
           </span>
         </div>
       </div>
 
       <div className="map-shell">
         <MapContainer
-          center={[37.5385, 127.0]}
-          zoom={12}
+          bounds={bounds}
+          boundsOptions={{ padding: [32, 32] }}
           scrollWheelZoom
           className="leaflet-container-custom"
         >
@@ -67,7 +72,11 @@ export default function MapView() {
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
           {restaurants.map((r) => (
-            <Marker key={r.id} position={[r.lat, r.lng]} icon={icons[r.stars]}>
+            <Marker
+              key={r.id}
+              position={[r.lat, r.lng]}
+              icon={icons[r.stars ?? 'ribbon']}
+            >
               <Popup>
                 <div className="map-popup">
                   <div className="map-popup-badges">
@@ -75,7 +84,9 @@ export default function MapView() {
                     <BlueRibbonBadge ribbons={r.ribbons} />
                   </div>
                   <strong>{r.name}</strong>
-                  <span>{r.region} · {r.cuisine}</span>
+                  <span>
+                    {r.region} {r.area} · {r.cuisine}
+                  </span>
                   <Link to={`/restaurant/${r.id}`}>상세보기 →</Link>
                 </div>
               </Popup>

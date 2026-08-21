@@ -89,6 +89,7 @@ export default function RestaurantDetail() {
     ribbons,
     cuisine,
     region,
+    area,
     address,
     phone,
     hours,
@@ -100,14 +101,14 @@ export default function RestaurantDetail() {
   } = restaurant
 
   const related = restaurants
-    .filter((r) => r.id !== id && (r.region === region || r.cuisine === cuisine))
+    .filter((r) => r.id !== id && (r.area === area || r.cuisine === cuisine))
     .slice(0, 3)
 
   const pinLabels = { bib: 'B', selected: 'S' }
   const pinIcon = divIcon({
     className: '',
     html: `<span class="map-pin"><span class="map-pin-label">${
-      pinLabels[stars] ?? stars
+      pinLabels[stars] ?? stars ?? 'R'
     }</span></span>`,
     iconSize: [30, 30],
     iconAnchor: [15, 30],
@@ -120,7 +121,7 @@ export default function RestaurantDetail() {
         목록으로
       </Link>
 
-      <div className={`detail-hero tier-${stars}`}>
+      <div className={`detail-hero tier-${stars ?? 'ribbon'}`}>
         <CuisineIcon cuisine={cuisine} className="detail-cuisine-icon" />
       </div>
 
@@ -165,7 +166,7 @@ export default function RestaurantDetail() {
           <div>
             <dt>·</dt>
             <dd>
-              {region} · {cuisine}
+              {region} {area} · {cuisine}
             </dd>
           </div>
         </dl>

@@ -31,7 +31,7 @@ export default function Home() {
       )
         return false
       if (q) {
-        const haystack = [r.name, r.nameEn, ...r.tags].join(' ').toLowerCase()
+        const haystack = [r.name, r.nameEn, r.area, ...r.tags].join(' ').toLowerCase()
         if (!haystack.includes(q)) return false
       }
       return true
@@ -39,7 +39,7 @@ export default function Home() {
 
     list = [...list].sort((a, b) => {
       if (filters.sort === 'name') return a.name.localeCompare(b.name, 'ko')
-      return starRank[b.stars] - starRank[a.stars]
+      return (starRank[b.stars] ?? 0) - (starRank[a.stars] ?? 0)
     })
 
     return list
@@ -48,11 +48,11 @@ export default function Home() {
   return (
     <div className="home-page">
       <section className="hero">
-        <p className="hero-eyebrow">MICHELIN GUIDE SEOUL — SAMPLE</p>
-        <h1>한국을 대표하는 미식의 정점을 만나보세요</h1>
+        <p className="hero-eyebrow">MICHELIN GUIDE · BLUE RIBBON — SAMPLE</p>
+        <h1>전국 방방곡곡의 미식을 한자리에서 만나보세요</h1>
         <p className="hero-sub">
-          미슐랭 스타·빕 구르망은 물론 스타 없이 가이드에 등재된 곳까지, 그리고
-          블루리본 서베이 수상 정보까지 함께 살펴보세요.
+          서울의 미슐랭 스타·빕 구르망부터, 부산·제주·대구 등 전국 각지의 블루리본
+          서베이 맛집까지 한눈에 살펴보세요.
         </p>
       </section>
 
