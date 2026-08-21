@@ -3,6 +3,8 @@ import { MapContainer, TileLayer, Marker } from 'react-leaflet'
 import { divIcon } from 'leaflet'
 import { getRestaurantById, restaurants } from '../data/restaurants'
 import StarBadge from '../components/StarBadge'
+import BlueRibbonBadge from '../components/BlueRibbonBadge'
+import CuisineIcon from '../components/CuisineIcon'
 import RestaurantCard from '../components/RestaurantCard'
 import 'leaflet/dist/leaflet.css'
 import './RestaurantDetail.css'
@@ -84,6 +86,7 @@ export default function RestaurantDetail() {
     name,
     nameEn,
     stars,
+    ribbons,
     cuisine,
     region,
     address,
@@ -92,7 +95,6 @@ export default function RestaurantDetail() {
     priceRange,
     tags,
     description,
-    accent,
     lat,
     lng,
   } = restaurant
@@ -101,10 +103,11 @@ export default function RestaurantDetail() {
     .filter((r) => r.id !== id && (r.region === region || r.cuisine === cuisine))
     .slice(0, 3)
 
+  const pinLabels = { bib: 'B', selected: 'S' }
   const pinIcon = divIcon({
     className: '',
     html: `<span class="map-pin"><span class="map-pin-label">${
-      stars === 'bib' ? 'B' : stars
+      pinLabels[stars] ?? stars
     }</span></span>`,
     iconSize: [30, 30],
     iconAnchor: [15, 30],
@@ -117,13 +120,16 @@ export default function RestaurantDetail() {
         목록으로
       </Link>
 
-      <div className={`detail-hero ${accent}`}>
-        <span className="detail-initial">{name.slice(0, 1)}</span>
+      <div className={`detail-hero tier-${stars}`}>
+        <CuisineIcon cuisine={cuisine} className="detail-cuisine-icon" />
       </div>
 
       <div className="detail-header">
         <div>
-          <StarBadge stars={stars} size="lg" />
+          <div className="detail-badges">
+            <StarBadge stars={stars} size="lg" />
+            <BlueRibbonBadge ribbons={ribbons} size="lg" />
+          </div>
           <h1>{name}</h1>
           <p className="detail-name-en">{nameEn}</p>
         </div>

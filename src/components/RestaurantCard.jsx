@@ -1,17 +1,27 @@
 import { Link } from 'react-router-dom'
 import StarBadge from './StarBadge'
+import BlueRibbonBadge from './BlueRibbonBadge'
+import CuisineIcon from './CuisineIcon'
 import './RestaurantCard.css'
 
 export default function RestaurantCard({ restaurant }) {
-  const { id, name, nameEn, stars, cuisine, region, priceRange, description, accent } =
+  const { id, name, nameEn, stars, ribbons, cuisine, region, priceRange, description } =
     restaurant
 
   return (
     <Link to={`/restaurant/${id}`} className="restaurant-card">
-      <div className={`card-media ${accent}`}>
-        <span className="card-initial">{name.slice(0, 1)}</span>
-        <div className="card-media-badge">
-          <StarBadge stars={stars} />
+      <div className={`card-media tier-${stars}`}>
+        <CuisineIcon cuisine={cuisine} className="card-cuisine-icon" />
+
+        <div className="card-media-badges">
+          <span className="media-pill">
+            <StarBadge stars={stars} />
+          </span>
+          {ribbons && (
+            <span className="media-pill ribbon">
+              <BlueRibbonBadge ribbons={ribbons} />
+            </span>
+          )}
         </div>
       </div>
 

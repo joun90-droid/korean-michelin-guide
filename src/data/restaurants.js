@@ -1,4 +1,4 @@
-// 샘플 데이터입니다. 실제 최신 미슐랭 가이드 등재 정보와 다를 수 있습니다.
+// 샘플 데이터입니다. 실제 최신 미슐랭 가이드·블루리본 서베이 등재 정보와 다를 수 있습니다.
 export const REGIONS = [
   '전체',
   '강남',
@@ -20,12 +20,16 @@ export const CUISINES = [
   '중식',
 ]
 
+// 등급 필터 — 미슐랭 스타/빕 구르망/가이드 등재(무스타)에 더해
+// 미슐랭과 별개로 운영되는 블루리본 서베이 수상 여부도 필터할 수 있게 한다.
 export const STAR_LEVELS = [
   { value: '전체', label: '전체' },
   { value: 3, label: '★★★' },
   { value: 2, label: '★★' },
   { value: 1, label: '★' },
   { value: 'bib', label: 'Bib Gourmand' },
+  { value: 'selected', label: '가이드 등재' },
+  { value: 'ribbon', label: '블루리본' },
 ]
 
 export const restaurants = [
@@ -34,6 +38,7 @@ export const restaurants = [
     name: '가온',
     nameEn: 'Gaon',
     stars: 3,
+    ribbons: 3,
     cuisine: '한식',
     region: '강남',
     address: '서울 강남구 도산대로 317',
@@ -43,7 +48,6 @@ export const restaurants = [
     tags: ['파인다이닝', '한식 코스', '프라이빗룸'],
     description:
       '전통 한식의 격식과 현대적 플레이팅을 결합한 파인다이닝. 제철 식재료를 활용한 계절 코스로 한국 궁중 요리의 정수를 재해석한다.',
-    accent: 'gradient-1',
     lat: 37.5222,
     lng: 127.0398,
   },
@@ -52,6 +56,7 @@ export const restaurants = [
     name: '밍글스',
     nameEn: 'Mingles',
     stars: 2,
+    ribbons: 3,
     cuisine: '한식',
     region: '청담',
     address: '서울 강남구 도산대로67길 19',
@@ -61,7 +66,6 @@ export const restaurants = [
     tags: ['모던 한식', '와인 페어링'],
     description:
       '전통 한식 재료와 발효 기술을 서구식 조리법과 섞어(mingle) 새로운 미식 언어를 제안하는 모던 한식 레스토랑.',
-    accent: 'gradient-2',
     lat: 37.5241,
     lng: 127.0413,
   },
@@ -70,6 +74,7 @@ export const restaurants = [
     name: '라연',
     nameEn: 'La Yeon',
     stars: 3,
+    ribbons: 3,
     cuisine: '한식',
     region: '강남',
     address: '서울 중구 동호로 249 (신라호텔 23층)',
@@ -79,7 +84,6 @@ export const restaurants = [
     tags: ['호텔 다이닝', '한강뷰', '반가 음식'],
     description:
       '조선시대 반가 음식의 격조를 현대적으로 계승한 호텔 파인다이닝. 남산 전망과 함께 즐기는 궁중식 코스가 특징.',
-    accent: 'gradient-3',
     lat: 37.5556,
     lng: 127.0072,
   },
@@ -88,6 +92,7 @@ export const restaurants = [
     name: '정식당',
     nameEn: 'Jungsik',
     stars: 2,
+    ribbons: 2,
     cuisine: '모던',
     region: '청담',
     address: '서울 강남구 선릉로159길 18',
@@ -97,7 +102,6 @@ export const restaurants = [
     tags: ['모던 코리안', '뉴욕 자매점'],
     description:
       '한식 재료를 프렌치 기법으로 재구성한 모던 코리안의 대표주자. 뉴욕에도 자매 레스토랑을 운영하는 글로벌 다이닝 브랜드.',
-    accent: 'gradient-4',
     lat: 37.5238,
     lng: 127.0447,
   },
@@ -106,6 +110,7 @@ export const restaurants = [
     name: '권숙수',
     nameEn: 'Kwonsooksoo',
     stars: 1,
+    ribbons: 2,
     cuisine: '한식',
     region: '강남',
     address: '서울 강남구 압구정로80길 37',
@@ -115,7 +120,6 @@ export const restaurants = [
     tags: ['약선 요리', '한방 재료'],
     description:
       '한의학적 배합 원리를 요리에 접목한 약선 한식 다이닝. 계절 약재와 제철 식재료의 조화를 중시한다.',
-    accent: 'gradient-5',
     lat: 37.5274,
     lng: 127.0287,
   },
@@ -124,6 +128,7 @@ export const restaurants = [
     name: '온지음',
     nameEn: 'Onjium',
     stars: 1,
+    ribbons: 3,
     cuisine: '한식',
     region: '종로',
     address: '서울 종로구 계동길 96-11',
@@ -133,7 +138,6 @@ export const restaurants = [
     tags: ['궁중요리', '한옥', '전통주 페어링'],
     description:
       '한옥 공간에서 전통 조리법을 고증해 재현하는 궁중·반가 음식 연구 기반 레스토랑. 전통주 페어링도 함께 제공.',
-    accent: 'gradient-1',
     lat: 37.5807,
     lng: 126.9858,
   },
@@ -142,6 +146,7 @@ export const restaurants = [
     name: '스와니예',
     nameEn: 'Soigné',
     stars: 2,
+    ribbons: 2,
     cuisine: '프렌치',
     region: '한남',
     address: '서울 용산구 이태원로54길 3',
@@ -151,7 +156,6 @@ export const restaurants = [
     tags: ['프렌치 파인다이닝', '한남동'],
     description:
       '프렌치 클래식 기법에 한국적 감성을 더한 창작 코스 요리. 섬세한 소스 워크와 계절감이 돋보이는 접시 구성.',
-    accent: 'gradient-2',
     lat: 37.5361,
     lng: 127.0016,
   },
@@ -169,7 +173,6 @@ export const restaurants = [
     tags: ['제철 식재료', '오픈 키친'],
     description:
       '오픈 키친에서 셰프의 조리 과정을 직접 감상할 수 있는 한식 다이닝. 매일 바뀌는 제철 식재료 중심의 오마카세형 코스.',
-    accent: 'gradient-3',
     lat: 37.5165,
     lng: 127.0392,
   },
@@ -178,6 +181,7 @@ export const restaurants = [
     name: '한식공간',
     nameEn: 'Hansikgonggan',
     stars: 1,
+    ribbons: 1,
     cuisine: '한식',
     region: '청담',
     address: '서울 강남구 압구정로60길 21',
@@ -187,7 +191,6 @@ export const restaurants = [
     tags: ['한식 코스', '갤러리형 공간'],
     description:
       '갤러리를 연상시키는 미니멀한 공간에서 선보이는 정갈한 한식 코스. 담음새와 그릇 조화에 각별히 신경 쓴다.',
-    accent: 'gradient-4',
     lat: 37.5259,
     lng: 127.0378,
   },
@@ -196,6 +199,7 @@ export const restaurants = [
     name: '스시 조',
     nameEn: 'Sushi Jo',
     stars: 1,
+    ribbons: 3,
     cuisine: '오마카세',
     region: '청담',
     address: '서울 강남구 압구정로46길 39',
@@ -205,7 +209,6 @@ export const restaurants = [
     tags: ['스시 오마카세', '카운터석'],
     description:
       '엄선된 제철 어종을 사용하는 카운터 오마카세. 셰프와 마주보고 즐기는 정통 에도마에 스타일 스시 코스.',
-    accent: 'gradient-5',
     lat: 37.5271,
     lng: 127.0432,
   },
@@ -214,6 +217,7 @@ export const restaurants = [
     name: '을지면옥',
     nameEn: 'Eulji Myeonok',
     stars: 'bib',
+    ribbons: 2,
     cuisine: '한식',
     region: '을지로',
     address: '서울 중구 충무로14길 2',
@@ -223,7 +227,6 @@ export const restaurants = [
     tags: ['평양냉면', '노포', '가성비'],
     description:
       '수십 년 전통의 평양냉면 노포. 슴슴한 육수와 메밀 면발의 정직한 맛으로 오랜 시간 사랑받아 온 을지로 대표 맛집.',
-    accent: 'gradient-1',
     lat: 37.5641,
     lng: 126.9944,
   },
@@ -241,7 +244,6 @@ export const restaurants = [
     tags: ['숯불구이', '가성비', '단체석'],
     description:
       '연탄과 숯불을 함께 사용해 굽는 돼지갈비 맛집. 두툼한 고기와 은은한 불향으로 현지인들에게 꾸준히 사랑받는 곳.',
-    accent: 'gradient-2',
     lat: 37.5445,
     lng: 127.0559,
   },
@@ -259,9 +261,63 @@ export const restaurants = [
     tags: ['중식', '짜장면', '탕수육'],
     description:
       '수타면을 직접 뽑아내는 전통 중식당. 진한 불맛의 짜장면과 바삭한 탕수육으로 여의도 직장인들의 단골 맛집.',
-    accent: 'gradient-3',
     lat: 37.5253,
     lng: 126.9243,
+  },
+  // 미슐랭 스타나 빕 구르망은 받지 않았지만 미슐랭 가이드에 등재(선정)된 레스토랑
+  {
+    id: 'mongno',
+    name: '몽로',
+    nameEn: 'Mongno',
+    stars: 'selected',
+    ribbons: 2,
+    cuisine: '한식',
+    region: '종로',
+    address: '서울 종로구 수표로28길 33',
+    priceRange: '1인 40,000원 내외',
+    phone: '02-742-6339',
+    hours: '매일 17:30–24:00',
+    tags: ['한식 이자카야', '익선동', '가이드 등재'],
+    description:
+      '익선동 한옥에서 전통 안주를 현대적으로 재해석해 내는 한식 주점. 스타는 없지만 미슐랭 가이드에 꾸준히 이름을 올리는 곳.',
+    lat: 37.5721,
+    lng: 126.9908,
+  },
+  {
+    id: 'woolaeoak',
+    name: '우래옥',
+    nameEn: 'Woo Lae Oak',
+    stars: 'selected',
+    ribbons: 3,
+    cuisine: '한식',
+    region: '을지로',
+    address: '서울 중구 창경궁로 62-29',
+    priceRange: '1인 20,000원 내외',
+    phone: '02-2265-0151',
+    hours: '월~토 11:30–21:30 (일요일 휴무)',
+    tags: ['평양냉면', '노포', '가이드 등재'],
+    description:
+      '1946년부터 이어온 평양냉면 원조 노포 중 하나. 별은 없지만 미슐랭 가이드와 블루리본 서베이 모두에서 꾸준히 언급되는 서울의 고전.',
+    lat: 37.5664,
+    lng: 126.9989,
+  },
+  {
+    id: 'sanwoollim',
+    name: '산울림1992',
+    nameEn: 'Sanwoollim 1992',
+    stars: 'selected',
+    ribbons: 1,
+    cuisine: '한식',
+    region: '종로',
+    address: '서울 종로구 자하문로12길 18',
+    priceRange: '코스 60,000원 ~ 90,000원',
+    phone: '02-736-9963',
+    hours: '화~일 11:30–21:00 (월요일 휴무)',
+    tags: ['가정식', '서촌', '가이드 등재'],
+    description:
+      '서촌 골목의 가정식 백반집. 화려하지 않지만 정직한 손맛으로 미슐랭 가이드에 이름을 올린 동네 맛집.',
+    lat: 37.5807,
+    lng: 126.9691,
   },
 ]
 

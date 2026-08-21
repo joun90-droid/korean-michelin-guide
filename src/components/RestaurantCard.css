@@ -16,6 +16,10 @@
   border-color: var(--border-strong);
 }
 
+.restaurant-card:hover .card-cuisine-icon {
+  transform: scale(1.06);
+}
+
 .card-media {
   position: relative;
   height: 148px;
@@ -23,6 +27,22 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
+  isolation: isolate;
+}
+
+/* fine diagonal hairline texture for a more crafted, less flat surface */
+.card-media::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.05) 0px,
+    rgba(255, 255, 255, 0.05) 1px,
+    transparent 1px,
+    transparent 10px
+  );
+  z-index: 0;
 }
 
 .card-media::after {
@@ -30,54 +50,55 @@
   position: absolute;
   inset: 0;
   background: radial-gradient(
-    circle at 30% 20%,
-    rgba(255, 255, 255, 0.18),
+    circle at 22% 18%,
+    rgba(255, 255, 255, 0.22),
     transparent 55%
   );
+  z-index: 0;
 }
 
-.card-initial {
-  font-family: var(--serif);
-  font-size: 56px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.85);
-  line-height: 1;
+.card-cuisine-icon {
+  position: relative;
+  z-index: 1;
+  width: 46px;
+  height: 46px;
+  color: rgba(255, 255, 255, 0.88);
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.25));
+  transition: transform 0.3s ease;
 }
 
-.card-media-badge {
+.card-media-badges {
   position: absolute;
+  z-index: 2;
   top: 12px;
   right: 12px;
-  background: rgba(20, 16, 10, 0.55);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+.media-pill {
+  display: inline-flex;
+  background: rgba(15, 12, 8, 0.5);
   backdrop-filter: blur(4px);
   padding: 5px 10px;
   border-radius: 999px;
 }
 
-.card-media-badge .star-badge {
+.media-pill .star-badge {
   color: #fff;
 }
 
-.card-media-badge .bib-mark {
-  border-color: #fff;
+.media-pill .bib-mark,
+.media-pill .selected-mark {
+  border-color: rgba(255, 255, 255, 0.7);
   color: #fff;
   background: rgba(255, 255, 255, 0.15);
 }
 
-.gradient-1 {
-  background: linear-gradient(135deg, #ac1c26, #5c0f16);
-}
-.gradient-2 {
-  background: linear-gradient(135deg, #7a2a1f, #2e1410);
-}
-.gradient-3 {
-  background: linear-gradient(135deg, #a9812f, #5c451a);
-}
-.gradient-4 {
-  background: linear-gradient(135deg, #4a3a2b, #1c150e);
-}
-.gradient-5 {
-  background: linear-gradient(135deg, #8e2f3c, #38141c);
+.media-pill.ribbon .ribbon-badge {
+  color: #bfe0ff;
 }
 
 .card-body {

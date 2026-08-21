@@ -37,3 +37,25 @@
   font-weight: 700;
   color: var(--gold);
 }
+
+.star-badge.selected {
+  gap: 6px;
+  color: var(--text-muted);
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.selected-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  background: var(--bg-sunken);
+  border: 1px solid var(--border-strong);
+  font-size: 9px;
+  color: var(--text-muted);
+}

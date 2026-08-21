@@ -23,6 +23,17 @@ export default function StarBadge({ stars, size = 'md' }) {
     )
   }
 
+  if (stars === 'selected') {
+    return (
+      <span className={`star-badge selected ${size}`}>
+        <span className="selected-mark" aria-hidden="true">
+          ◆
+        </span>
+        가이드 등재
+      </span>
+    )
+  }
+
   return (
     <span className={`star-badge ${size}`} aria-label={`미슐랭 ${stars}스타`}>
       {Array.from({ length: stars }).map((_, i) => (

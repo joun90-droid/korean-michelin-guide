@@ -30,18 +30,52 @@
 }
 
 .detail-hero {
+  position: relative;
   height: 220px;
   border-radius: var(--radius-lg);
   display: flex;
   align-items: center;
   justify-content: center;
   box-shadow: var(--shadow-md);
+  overflow: hidden;
+  isolation: isolate;
 }
 
-.detail-initial {
-  font-family: var(--serif);
-  font-size: 96px;
-  color: rgba(255, 255, 255, 0.85);
+.detail-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.05) 0px,
+    rgba(255, 255, 255, 0.05) 1px,
+    transparent 1px,
+    transparent 10px
+  );
+  z-index: 0;
+}
+
+.detail-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 22% 18%, rgba(255, 255, 255, 0.2), transparent 55%);
+  z-index: 0;
+}
+
+.detail-cuisine-icon {
+  position: relative;
+  z-index: 1;
+  width: 76px;
+  height: 76px;
+  color: rgba(255, 255, 255, 0.88);
+  filter: drop-shadow(0 3px 8px rgba(0, 0, 0, 0.3));
+}
+
+.detail-badges {
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
 .detail-header {

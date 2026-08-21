@@ -14,6 +14,8 @@
   --accent-border: rgba(172, 28, 38, 0.35);
   --gold: #a9812f;
   --gold-soft: rgba(169, 129, 47, 0.12);
+  --ribbon: #2f5f8a;
+  --ribbon-soft: rgba(47, 95, 138, 0.1);
 
   --shadow-sm: 0 1px 2px rgba(28, 24, 18, 0.06);
   --shadow-md:
@@ -57,6 +59,8 @@
   --accent-border: rgba(226, 85, 92, 0.4);
   --gold: #d4ac52;
   --gold-soft: rgba(212, 172, 82, 0.14);
+  --ribbon: #6fa3d6;
+  --ribbon-soft: rgba(111, 163, 214, 0.16);
 
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
   --shadow-md: 0 6px 16px -4px rgba(0, 0, 0, 0.45), 0 2px 6px -2px rgba(0, 0, 0, 0.3);
@@ -81,6 +85,8 @@
     --accent-border: rgba(226, 85, 92, 0.4);
     --gold: #d4ac52;
     --gold-soft: rgba(212, 172, 82, 0.14);
+    --ribbon: #6fa3d6;
+    --ribbon-soft: rgba(111, 163, 214, 0.16);
 
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
     --shadow-md:
@@ -137,6 +143,24 @@ button {
 ::selection {
   background: var(--accent-soft);
   color: var(--accent-h);
+}
+
+/* 등급별 배경 — 색만으로 등급을 바로 가늠할 수 있도록 통일된 팔레트를 사용한다.
+   카드 미디어와 상세 페이지 히어로가 함께 사용한다. */
+.tier-3 {
+  background: linear-gradient(135deg, #b3222c 0%, #6f151c 55%, #3c0c11 100%);
+}
+.tier-2 {
+  background: linear-gradient(135deg, #93283a 0%, #5c1826 55%, #300d15 100%);
+}
+.tier-1 {
+  background: linear-gradient(135deg, #7a4b2a 0%, #4a2c18 55%, #26160c 100%);
+}
+.tier-bib {
+  background: linear-gradient(135deg, #ad8636 0%, #6e521f 55%, #3a2a10 100%);
+}
+.tier-selected {
+  background: linear-gradient(135deg, #445164 0%, #2b3240 55%, #171b23 100%);
 }
 
 .visually-hidden {

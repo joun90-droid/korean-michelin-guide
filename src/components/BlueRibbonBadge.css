@@ -1,0 +1,16 @@
+.ribbon-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  color: var(--ribbon);
+}
+
+.ribbon-badge .ribbon-icon {
+  width: 13px;
+  height: 13px;
+}
+
+.ribbon-badge.lg .ribbon-icon {
+  width: 18px;
+  height: 18px;
+}
