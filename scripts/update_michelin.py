@@ -46,6 +46,7 @@ CSV_FALLBACK = (
 )
 
 KST = timezone(timedelta(hours=9))
+HANGUL = re.compile(r"[가-힣]")
 
 CUISINE_MAP = [
     (r"한식|korean", "한식"),
@@ -55,6 +56,32 @@ CUISINE_MAP = [
     (r"중식|chinese", "중식"),
     (r"모던|modern|contemporary|creative|innovative|fusion", "모던"),
 ]
+
+
+def looks_korean(text: str) -> bool:
+    return bool(HANGUL.search(text or ""))
+
+
+def to_korean(text: str) -> str:
+    text = (text or "").strip()
+    if not text or looks_korean(text):
+        return text
+    try:
+        from deep_translator import GoogleTranslator
+
+        pieces = re.split(r"(?<=[.!?])\s+", text)
+        out = []
+        for piece in pieces:
+            piece = piece.strip()
+            if not piece:
+                continue
+            ko = GoogleTranslator(source="en", target="ko").translate(piece[:450])
+            out.append(ko if ko else piece)
+        joined = " ".join(out).strip()
+        return joined if looks_korean(joined) else text
+    except Exception as exc:
+        print(f"[translate skip] {exc}")
+        return text
 
 
 def slugify(text: str) -> str:
@@ -213,6 +240,8 @@ def enrich(row: dict[str, Any]) -> dict[str, Any]:
     row["naverMapUrl"] = naver_search_url(name, address)
     row["naverDirectionsUrl"] = naver_directions_url(lat, lng, name)
     row["bookingUrl"] = row.get("bookingUrl") or row.get("websiteUrl") or row["catchtableUrl"]
+    if row.get("description"):
+        row["description"] = to_korean(row["description"])
     summary = (row.get("description") or "").strip()
     if summary:
         sentences = re.split(r"(?<=[.。])\s+", summary)
@@ -503,8 +532,10 @@ def merge(scraped: list[dict[str, Any]], existing: list[dict[str, Any]]) -> list
                         )
             if prev.get("hours"):
                 merged["hours"] = prev["hours"]
-            if prev.get("ribbons"):
-                merged["ribbons"] = prev["ribbons"]
+            if looks_korean(prev.get("description") or "") and not looks_korean(merged.get("description") or ""):
+                merged["description"] = prev["description"]
+                if prev.get("summary"):
+                    merged["summary"] = prev["summary"]
             merged["id"] = prev["id"]
             merged["name"] = prev.get("name") or merged["name"]
             row = enrich(merged)
