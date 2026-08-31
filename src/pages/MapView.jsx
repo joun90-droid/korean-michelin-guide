@@ -31,7 +31,10 @@ export default function MapView() {
   }, [])
 
   const bounds = useMemo(
-    () => latLngBounds(restaurants.map((r) => [r.lat, r.lng])),
+    () =>
+      latLngBounds(
+        restaurants.filter((r) => r.lat != null && r.lng != null).map((r) => [r.lat, r.lng]),
+      ),
     [],
   )
 
@@ -71,7 +74,9 @@ export default function MapView() {
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          {restaurants.map((r) => (
+          {restaurants
+            .filter((r) => r.lat != null && r.lng != null)
+            .map((r) => (
             <Marker
               key={r.id}
               position={[r.lat, r.lng]}

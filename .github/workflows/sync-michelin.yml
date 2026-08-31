@@ -1,0 +1,52 @@
+name: Sync Michelin data
+
+on:
+  schedule:
+    - cron: "0 18 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install crawler deps
+        run: pip install -r scripts/requirements.txt
+
+      - name: Crawl and write restaurants.json
+        run: python scripts/update_michelin.py
+
+      - name: Commit updated catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/restaurants.json public/sitemap.xml public/robots.txt
+          git diff --staged --quiet && echo "No catalog changes" && exit 0
+          git commit -m "chore: sync Michelin KR restaurant catalog"
+          git push
+
+      - uses: actions/setup-node@v4
+        if: github.event_name == 'workflow_dispatch'
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Optional Firebase deploy
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: |
+          if [ -z "$FIREBASE_TOKEN" ]; then echo "Skip Firebase (no FIREBASE_TOKEN)"; exit 0; fi
+          npm ci
+          npm run build
+          npx firebase-tools deploy --only hosting --non-interactive --token "$FIREBASE_TOKEN"

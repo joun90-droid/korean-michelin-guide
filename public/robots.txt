@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michelin-guide-kr.web.app/sitemap.xml

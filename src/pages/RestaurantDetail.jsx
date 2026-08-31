@@ -6,6 +6,7 @@ import StarBadge from '../components/StarBadge'
 import BlueRibbonBadge from '../components/BlueRibbonBadge'
 import CuisineIcon from '../components/CuisineIcon'
 import RestaurantCard from '../components/RestaurantCard'
+import SeoHead, { buildRestaurantJsonLd, starLabel } from '../components/seo/SeoHead'
 import 'leaflet/dist/leaflet.css'
 import './RestaurantDetail.css'
 
@@ -114,8 +115,17 @@ export default function RestaurantDetail() {
     iconAnchor: [15, 30],
   })
 
+  const jsonLd = buildRestaurantJsonLd(restaurant)
+
   return (
     <div className="detail-page">
+      <SeoHead
+        title={`${name} | ${starLabel(stars)} | 한국 미쉐린 가이드`}
+        description={(restaurant.summary || description || `${name} ${address}`).slice(0, 160)}
+        path={`/restaurant/${id}`}
+        type="article"
+        jsonLd={jsonLd}
+      />
       <Link to="/" className="back-link">
         <BackIcon />
         목록으로
@@ -135,7 +145,7 @@ export default function RestaurantDetail() {
           <p className="detail-name-en">{nameEn}</p>
         </div>
         <div className="detail-tags">
-          {tags.map((t) => (
+          {(tags || []).map((t) => (
             <span key={t} className="tag">
               {t}
             </span>
@@ -144,6 +154,20 @@ export default function RestaurantDetail() {
       </div>
 
       <p className="detail-desc">{description}</p>
+
+      <div className="detail-actions">
+        {restaurant.catchtableUrl && (
+          <a href={restaurant.catchtableUrl} target="_blank" rel="noreferrer">
+            캐치테이블 실시간 예약
+          </a>
+        )}
+        {restaurant.naverDirectionsUrl && (
+          <a href={restaurant.naverDirectionsUrl} target="_blank" rel="noreferrer">
+            네이버 지도 길찾기
+          </a>
+        )}
+        {phone && <a href={`tel:${phone}`}>전화 걸기</a>}
+      </div>
 
       <div className="detail-grid">
         <dl className="info-list">
@@ -157,7 +181,7 @@ export default function RestaurantDetail() {
           </div>
           <div>
             <dt>{infoIcons.phone}전화</dt>
-            <dd>{phone}</dd>
+            <dd>{phone ? <a href={`tel:${phone}`}>{phone}</a> : '정보 없음'}</dd>
           </div>
           <div>
             <dt>{infoIcons.price}가격대</dt>
@@ -171,22 +195,24 @@ export default function RestaurantDetail() {
           </div>
         </dl>
 
-        <div className="detail-map">
-          <MapContainer
-            center={[lat, lng]}
-            zoom={15}
-            scrollWheelZoom={false}
-            dragging={false}
-            zoomControl={false}
-            className="leaflet-container-custom"
-          >
-            <TileLayer
-              attribution='&copy; OpenStreetMap contributors'
-              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-            />
-            <Marker position={[lat, lng]} icon={pinIcon} />
-          </MapContainer>
-        </div>
+        {lat != null && lng != null ? (
+          <div className="detail-map">
+            <MapContainer
+              center={[lat, lng]}
+              zoom={15}
+              scrollWheelZoom={false}
+              dragging={false}
+              zoomControl={false}
+              className="leaflet-container-custom"
+            >
+              <TileLayer
+                attribution='&copy; OpenStreetMap contributors'
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+              />
+              <Marker position={[lat, lng]} icon={pinIcon} />
+            </MapContainer>
+          </div>
+        ) : null}
       </div>
 
       {related.length > 0 && (
