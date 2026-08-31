@@ -16,7 +16,7 @@ export default function OutboundButtons({ restaurant, compact = false, className
       onClick={(e) => e.stopPropagation()}
     >
       <a
-        href={catchtableWebUrl(restaurant.name, restaurant.catchtableShop)}
+        href={catchtableWebUrl(restaurant)}
         rel="noopener noreferrer"
         onClick={(e) => openCatchtable(e, restaurant)}
       >

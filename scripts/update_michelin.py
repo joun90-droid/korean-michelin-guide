@@ -554,6 +554,25 @@ def main() -> None:
             print(f"[warn] csv fallback failed: {exc}")
             scraped = []
     rows = merge(scraped, existing)
+    try:
+        import importlib.util
+
+        spec = importlib.util.spec_from_file_location(
+            "resolve_catchtable", Path(__file__).with_name("resolve_catchtable.py")
+        )
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        for row in rows:
+            if row.get("catchtableShop"):
+                continue
+            alias = mod.resolve_one(row)
+            if alias:
+                row["catchtableShop"] = alias
+                row["catchtableUrl"] = mod.shop_url(alias)
+                row["bookingUrl"] = mod.shop_url(alias)
+            time.sleep(0.25)
+    except Exception as exc:
+        print(f"[warn] catchtable shop resolve skipped: {exc}")
     payload = {
         "updatedAt": datetime.now(KST).isoformat(timespec="seconds"),
         "source": "michelin-guide",
