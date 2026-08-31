@@ -1,0 +1,64 @@
+.outbound-btns {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+  padding: 0 12px 12px;
+}
+
+.outbound-btns a,
+.outbound-disabled {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12.5px;
+  font-weight: 700;
+  padding: 9px 10px;
+  border-radius: 10px;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.outbound-btns a:nth-child(1) {
+  background: var(--accent);
+  color: #fff;
+}
+
+.outbound-btns a:nth-child(2) {
+  background: var(--ribbon-soft);
+  color: var(--ribbon);
+}
+
+.outbound-btns a:nth-child(3) {
+  background: var(--gold-soft);
+  color: var(--gold);
+}
+
+.outbound-disabled {
+  background: var(--bg-sunken);
+  color: var(--text-muted);
+}
+
+.outbound-btns.compact {
+  padding: 8px 0 0;
+  min-width: 180px;
+}
+
+.detail-actions.outbound-btns {
+  padding: 0;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.detail-actions.outbound-btns a {
+  padding: 11px 12px;
+  border-radius: 12px;
+  font-size: 13px;
+}
+
+.detail-actions.outbound-btns a:nth-child(2) {
+  background: var(--ribbon);
+  color: #fff;
+}
+
+.detail-actions.outbound-btns a:nth-child(3) {
+  background: var(--gold);
+  color: #fff;
+}

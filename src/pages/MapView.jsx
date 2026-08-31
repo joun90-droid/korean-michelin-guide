@@ -4,7 +4,7 @@ import { divIcon, latLngBounds } from 'leaflet'
 import { Link } from 'react-router-dom'
 import { restaurants } from '../data/restaurants'
 import StarBadge from '../components/StarBadge'
-import BlueRibbonBadge from '../components/BlueRibbonBadge'
+import OutboundButtons from '../components/restaurant/outbound-buttons'
 import 'leaflet/dist/leaflet.css'
 import './MapView.css'
 
@@ -93,6 +93,7 @@ export default function MapView() {
                     {r.region} {r.area} · {r.cuisine}
                   </span>
                   <Link to={`/restaurant/${r.id}`}>상세보기 →</Link>
+                  <OutboundButtons restaurant={r} compact />
                 </div>
               </Popup>
             </Marker>

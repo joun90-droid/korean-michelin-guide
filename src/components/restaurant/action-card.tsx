@@ -1,13 +1,9 @@
 import { Link } from 'react-router-dom'
-import './action-card.css'
 import StarBadge from '../StarBadge'
 import BlueRibbonBadge from '../BlueRibbonBadge'
 import CuisineIcon from '../CuisineIcon'
-
-function stop(e) {
-  e.preventDefault()
-  e.stopPropagation()
-}
+import OutboundButtons from './outbound-buttons'
+import './action-card.css'
 
 export default function ActionCard({ restaurant }) {
   const {
@@ -22,9 +18,6 @@ export default function ActionCard({ restaurant }) {
     priceRange,
     summary,
     description,
-    catchtableUrl,
-    naverDirectionsUrl,
-    phone,
     greenStar,
   } = restaurant
 
@@ -59,21 +52,7 @@ export default function ActionCard({ restaurant }) {
           <p className="action-price">{priceRange || '가격 문의'}</p>
         </div>
       </Link>
-      <div className="action-btns">
-        <a href={catchtableUrl} target="_blank" rel="noreferrer" onClick={stop}>
-          캐치테이블 실시간 예약
-        </a>
-        <a href={naverDirectionsUrl} target="_blank" rel="noreferrer" onClick={stop}>
-          네이버 지도 길찾기
-        </a>
-        {phone ? (
-          <a href={`tel:${phone}`} onClick={stop}>
-            전화 걸기
-          </a>
-        ) : (
-          <span className="action-disabled">전화 정보 없음</span>
-        )}
-      </div>
+      <OutboundButtons restaurant={restaurant} />
     </article>
   )
 }
