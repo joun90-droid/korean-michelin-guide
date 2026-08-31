@@ -57,7 +57,7 @@ function enrich(r) {
       ? `https://app.catchtable.co.kr/ct/shop/${encodeURIComponent(r.catchtableShop)}`
       : r.catchtableUrl?.includes('/ct/shop/')
         ? r.catchtableUrl
-        : `https://app.catchtable.co.kr/ct/search/total?keyword=${q(r.name)}&isKeywordSearchOpen=true`,
+        : `https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=${q(r.name)}&keywordSearch=${q(r.name)}`,
     naverMapUrl: r.naverMapUrl || `https://map.naver.com/p/search/${q(`${r.name} ${r.address || ''}`)}`,
     naverDirectionsUrl:
       r.naverDirectionsUrl ||

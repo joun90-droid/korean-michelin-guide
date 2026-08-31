@@ -26,6 +26,15 @@ export function telHref(phone) {
   return `tel:${digits}`
 }
 
+export function catchtableSearchUrl(name) {
+  const q = encodeURIComponent(name || '')
+  return (
+    `https://app.catchtable.co.kr/ct/map/search-map?showTabs=true` +
+    `&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION` +
+    `&keyword=${q}&keywordSearch=${q}`
+  )
+}
+
 export function catchtableWebUrl(restaurant) {
   const alias = restaurant?.catchtableShop
   if (alias) {
@@ -34,8 +43,8 @@ export function catchtableWebUrl(restaurant) {
   if (restaurant?.catchtableUrl?.includes('/ct/shop/')) {
     return restaurant.catchtableUrl
   }
-  const q = encodeURIComponent(restaurant?.name || restaurant || '')
-  return `https://app.catchtable.co.kr/ct/search/total?keyword=${q}&isKeywordSearchOpen=true`
+  const name = restaurant?.name || restaurant || ''
+  return catchtableSearchUrl(name)
 }
 
 export function naverWebUrl({ lat, lng, name, address }) {

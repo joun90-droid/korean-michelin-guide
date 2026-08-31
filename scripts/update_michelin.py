@@ -139,9 +139,11 @@ def parse_price_krw(price: str) -> tuple[str, int | None]:
 
 
 def catchtable_url(name: str) -> str:
+    q = quote(name)
     return (
-        "https://app.catchtable.co.kr/ct/search/total"
-        f"?keyword={quote(name)}&isKeywordSearchOpen=true"
+        "https://app.catchtable.co.kr/ct/map/search-map"
+        f"?showTabs=true&bottomSheetHeightType=PARTIAL_MAP"
+        f"&serviceType=INTEGRATION&keyword={q}&keywordSearch={q}"
     )
 
 
