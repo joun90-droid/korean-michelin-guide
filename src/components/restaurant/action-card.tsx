@@ -3,9 +3,10 @@ import StarBadge from '../StarBadge'
 import BlueRibbonBadge from '../BlueRibbonBadge'
 import CuisineIcon from '../CuisineIcon'
 import OutboundButtons from './outbound-buttons'
+import { useLibrary } from '../../hooks/useLibrary'
 import './action-card.css'
 
-export default function ActionCard({ restaurant }) {
+export default function ActionCard({ restaurant, compact = false }) {
   const {
     id,
     name,
@@ -19,12 +20,24 @@ export default function ActionCard({ restaurant }) {
     summary,
     description,
     greenStar,
+    distanceKm,
+    score,
   } = restaurant
+  const { isSaved, toggleSave } = useLibrary()
+  const saved = isSaved(id)
 
   const blurb = summary || description || ''
 
   return (
-    <article className="action-card">
+    <article className={`action-card ${compact ? 'compact' : ''}`}>
+      <button
+        type="button"
+        className={`save-btn ${saved ? 'on' : ''}`}
+        aria-label={saved ? '찜 해제' : '찜하기'}
+        onClick={() => toggleSave(id)}
+      >
+        ♥
+      </button>
       <Link to={`/restaurant/${id}`} className="action-card-main">
         <div className={`action-media tier-${stars ?? 'ribbon'}`}>
           <CuisineIcon cuisine={cuisine} className="card-cuisine-icon" />
@@ -49,7 +62,11 @@ export default function ActionCard({ restaurant }) {
             {region} {area} · {cuisine}
           </p>
           <p className="action-summary">{blurb}</p>
-          <p className="action-price">{priceRange || '가격 문의'}</p>
+          <p className="action-price">
+            {priceRange || '가격 문의'}
+            {distanceKm != null ? ` · ${distanceKm < 1 ? `${Math.round(distanceKm * 1000)}m` : `${distanceKm.toFixed(1)}km`}` : ''}
+            {score ? ` · ${score}pt` : ''}
+          </p>
         </div>
       </Link>
       <OutboundButtons restaurant={restaurant} />

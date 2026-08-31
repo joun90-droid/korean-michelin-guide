@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
 import { MapContainer, TileLayer, Marker } from 'react-leaflet'
 import { divIcon } from 'leaflet'
@@ -9,6 +10,7 @@ import OutboundButtons from '../components/restaurant/outbound-buttons'
 import ActionCard from '../components/restaurant/action-card'
 import { telHref } from '../lib/outbound'
 import SeoHead, { buildRestaurantJsonLd, starLabel } from '../components/seo/SeoHead'
+import { useLibrary } from '../hooks/useLibrary'
 import 'leaflet/dist/leaflet.css'
 import './RestaurantDetail.css'
 
@@ -82,6 +84,11 @@ const infoIcons = {
 export default function RestaurantDetail() {
   const { id } = useParams()
   const restaurant = getRestaurantById(id)
+  const { remember, isSaved, toggleSave } = useLibrary()
+
+  useEffect(() => {
+    if (restaurant?.id) remember(restaurant.id)
+  }, [restaurant, remember])
 
   if (!restaurant) return <Navigate to="/" replace />
 
@@ -146,12 +153,21 @@ export default function RestaurantDetail() {
           <h1>{name}</h1>
           <p className="detail-name-en">{nameEn}</p>
         </div>
-        <div className="detail-tags">
-          {(tags || []).map((t) => (
-            <span key={t} className="tag">
-              {t}
-            </span>
-          ))}
+        <div className="detail-side">
+          <button
+            type="button"
+            className={`detail-save ${isSaved(id) ? 'on' : ''}`}
+            onClick={() => toggleSave(id)}
+          >
+            {isSaved(id) ? '찜됨' : '찜하기'}
+          </button>
+          <div className="detail-tags">
+            {(tags || []).map((t) => (
+              <span key={t} className="tag">
+                {t}
+              </span>
+            ))}
+          </div>
         </div>
       </div>
 

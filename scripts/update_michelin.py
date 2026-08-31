@@ -187,6 +187,14 @@ def infer_flags(row: dict[str, Any]) -> dict[str, Any]:
         amenities.append("under-100k")
     if wine:
         amenities.append("wine")
+    star_pts = {3: 60, 2: 48, 1: 36, "bib": 28, "selected": 16}.get(stars, 8)
+    row["score"] = (
+        star_pts
+        + (12 if row.get("catchtableShop") else 0)
+        + (5 if row.get("greenStar") else 0)
+        + (2 if row.get("phone") else 0)
+        + int(row.get("ribbons") or 0)
+    )
     row["occasions"] = occasions
     row["amenities"] = amenities
     if row.get("greenStar"):

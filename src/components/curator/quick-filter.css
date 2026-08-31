@@ -4,8 +4,10 @@
   gap: 10px;
   padding: 16px 20px;
   background: var(--bg-elevated);
+  backdrop-filter: blur(16px);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
 }
 
 .quick-row {
@@ -40,7 +42,7 @@
 }
 
 .quick-chip.on {
-  background: var(--accent);
-  border-color: var(--accent);
+  background: linear-gradient(135deg, var(--accent), var(--gold));
+  border-color: transparent;
   color: #fff;
 }

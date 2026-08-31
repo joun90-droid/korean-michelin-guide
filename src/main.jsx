@@ -3,11 +3,14 @@ import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
 import './index.css'
 import App from './App.jsx'
+import { LibraryProvider } from './hooks/useLibrary.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
-      <App />
+      <LibraryProvider>
+        <App />
+      </LibraryProvider>
     </BrowserRouter>
   </StrictMode>,
 )

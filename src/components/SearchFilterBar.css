@@ -5,6 +5,7 @@
   gap: 12px;
   padding: 18px 24px;
   background: var(--bg-elevated);
+  backdrop-filter: blur(16px);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-sm);
@@ -96,8 +97,8 @@
 }
 
 .chip.active {
-  background: var(--accent);
-  border-color: var(--accent);
+  background: linear-gradient(135deg, var(--accent), var(--gold));
+  border-color: transparent;
   color: #fff;
 }
 

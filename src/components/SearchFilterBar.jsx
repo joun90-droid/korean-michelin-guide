@@ -62,6 +62,8 @@ export default function SearchFilterBar({ filters, onChange, resultCount }) {
           aria-label="정렬"
         >
           <option value="stars">별점 높은 순</option>
+          <option value="score">추천 점수 순</option>
+          <option value="nearby">가까운 순</option>
           <option value="name">이름순</option>
         </select>
       </div>

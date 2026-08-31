@@ -1,4 +1,5 @@
 import catalog from '../../public/data/restaurants.json'
+import { hashSeed } from '../lib/ranking'
 
 export const REGIONS = ['전체', '서울', '부산', '제주', '대구', '인천', '경기']
 
@@ -59,11 +60,12 @@ function enrich(r) {
         ? r.catchtableUrl
         : `https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=${q(r.name)}&keywordSearch=${q(r.name)}`,
     naverMapUrl: r.naverMapUrl || `https://map.naver.com/p/search/${q(`${r.name} ${r.address || ''}`)}`,
-    naverDirectionsUrl:
-      r.naverDirectionsUrl ||
-      (r.lat != null
-        ? `https://map.naver.com/p/directions/-/-/${r.lng},${r.lat},${q(r.name)}/walk?c=15.00,0,0,0,dh`
-        : `https://map.naver.com/p/search/${q(r.name)}`),
+    score:
+      ({ 3: 60, 2: 48, 1: 36, bib: 28, selected: 16 }[r.stars] ?? 8) +
+      (r.catchtableShop ? 12 : 0) +
+      (r.greenStar ? 5 : 0) +
+      (r.phone ? 2 : 0) +
+      Number(r.ribbons || 0),
   }
 }
 
@@ -71,4 +73,13 @@ export const restaurants = (catalog.restaurants || []).map(enrich)
 
 export function getRestaurantById(id) {
   return restaurants.find((r) => r.id === id)
+}
+
+export function dailyPicks(list = restaurants, n = 3) {
+  const day = new Date().toISOString().slice(0, 10)
+  return [...list]
+    .map((r) => ({ r, k: (hashSeed(`${day}:${r.id}`) % 400) + r.score }))
+    .sort((a, b) => b.k - a.k)
+    .slice(0, n)
+    .map((x) => x.r)
 }

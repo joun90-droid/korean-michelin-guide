@@ -4,6 +4,7 @@ import Footer from './components/Footer'
 import Home from './pages/Home'
 import MapView from './pages/MapView'
 import RestaurantDetail from './pages/RestaurantDetail'
+import Saved from './pages/Saved'
 import NotFound from './pages/NotFound'
 import { useTheme } from './hooks/useTheme'
 
@@ -17,6 +18,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/map" element={<MapView />} />
+          <Route path="/saved" element={<Saved />} />
           <Route path="/restaurant/:id" element={<RestaurantDetail />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

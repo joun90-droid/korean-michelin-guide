@@ -1,9 +1,10 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import SearchFilterBar from '../components/SearchFilterBar'
 import QuickFilter, { matchesQuickFilters } from '../components/curator/quick-filter'
 import ActionCard from '../components/restaurant/action-card'
 import SeoHead from '../components/seo/SeoHead'
-import { restaurants } from '../data/restaurants'
+import { dailyPicks, restaurants } from '../data/restaurants'
+import { haversineKm } from '../lib/ranking'
 import './Home.css'
 
 const initialFilters = {
@@ -19,6 +20,26 @@ const starRank = { 3: 3, 2: 2, 1: 1, bib: 0.5, selected: 0.25 }
 export default function Home() {
   const [filters, setFilters] = useState(initialFilters)
   const [quick, setQuick] = useState([])
+  const [here, setHere] = useState(null)
+  const [geoError, setGeoError] = useState('')
+
+  useEffect(() => {
+    if (filters.sort !== 'nearby') return
+    if (!navigator.geolocation) {
+      setGeoError('이 브라우저는 위치 정보를 지원하지 않습니다.')
+      return
+    }
+    setGeoError('')
+    navigator.geolocation.getCurrentPosition(
+      (pos) => setHere({ lat: pos.coords.latitude, lng: pos.coords.longitude }),
+      () => setGeoError('위치 권한이 없어 서울 시청 기준으로 가까운 순을 보여줍니다.'),
+      { enableHighAccuracy: false, timeout: 8000 },
+    )
+  }, [filters.sort])
+
+  const origin = here || { lat: 37.5665, lng: 126.978 }
+
+  const picks = useMemo(() => dailyPicks(restaurants, 3), [])
 
   const filtered = useMemo(() => {
     const q = filters.query.trim().toLowerCase()
@@ -28,11 +49,7 @@ export default function Home() {
       if (filters.region !== '전체' && r.region !== filters.region) return false
       if (filters.cuisine !== '전체' && r.cuisine !== filters.cuisine) return false
       if (filters.stars === 'ribbon' && !r.ribbons) return false
-      if (
-        filters.stars !== '전체' &&
-        filters.stars !== 'ribbon' &&
-        r.stars !== filters.stars
-      )
+      if (filters.stars !== '전체' && filters.stars !== 'ribbon' && r.stars !== filters.stars)
         return false
       if (q) {
         const haystack = [r.name, r.nameEn, r.area, ...(r.tags || [])].join(' ').toLowerCase()
@@ -43,11 +60,28 @@ export default function Home() {
 
     list = [...list].sort((a, b) => {
       if (filters.sort === 'name') return a.name.localeCompare(b.name, 'ko')
+      if (filters.sort === 'score') return (b.score || 0) - (a.score || 0)
+      if (filters.sort === 'nearby') {
+        const da =
+          a.lat == null ? 9999 : haversineKm(origin.lat, origin.lng, a.lat, a.lng)
+        const db =
+          b.lat == null ? 9999 : haversineKm(origin.lat, origin.lng, b.lat, b.lng)
+        return da - db
+      }
       return (starRank[b.stars] ?? 0) - (starRank[a.stars] ?? 0)
     })
 
     return list
-  }, [filters, quick])
+  }, [filters, quick, origin.lat, origin.lng])
+
+  const withDistance =
+    filters.sort === 'nearby'
+      ? filtered.map((r) => ({
+          ...r,
+          distanceKm:
+            r.lat == null ? null : haversineKm(origin.lat, origin.lng, r.lat, r.lng),
+        }))
+      : filtered
 
   return (
     <div className="home-page">
@@ -57,11 +91,24 @@ export default function Home() {
         path="/"
       />
       <section className="hero">
-        <p className="hero-eyebrow">MICHELIN GUIDE KR · AUTO-UPDATED</p>
-        <h1>3초 만에 고르는 오늘의 미쉐린</h1>
+        <div className="hero-glow" aria-hidden="true" />
+        <p className="hero-eyebrow">MICHELIN GUIDE KR · DAILY CURATION</p>
+        <h1>오늘 어디 갈지, 한 화면에서</h1>
         <p className="hero-sub">
-          상견례, 기념일, 비즈니스, 가성비 — 태그를 누르면 바로 맞는 테이블만 남습니다.
+          목적 태그와 랭킹 점수로 걸러 보고, 가까운 곳·오늘의 픽까지 바로 예약하세요.
         </p>
+      </section>
+
+      <section className="picks-strip" aria-label="오늘의 픽">
+        <div className="picks-head">
+          <h2>오늘의 픽</h2>
+          <p>날짜마다 바뀌는 추천 세 곳입니다.</p>
+        </div>
+        <div className="picks-row">
+          {picks.map((r) => (
+            <ActionCard key={r.id} restaurant={r} compact />
+          ))}
+        </div>
       </section>
 
       <QuickFilter selected={quick} onChange={setQuick} />
@@ -71,10 +118,11 @@ export default function Home() {
         onChange={setFilters}
         resultCount={filtered.length}
       />
+      {geoError ? <p className="geo-hint">{geoError}</p> : null}
 
-      {filtered.length > 0 ? (
+      {withDistance.length > 0 ? (
         <div className="restaurant-grid">
-          {filtered.map((r) => (
+          {withDistance.map((r) => (
             <ActionCard key={r.id} restaurant={r} />
           ))}
         </div>

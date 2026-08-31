@@ -40,6 +40,7 @@ export default function Header({ theme, onToggleTheme }) {
             목록
           </NavLink>
           <NavLink to="/map">지도</NavLink>
+          <NavLink to="/saved">저장</NavLink>
         </nav>
 
         <button
