@@ -1,9 +1,11 @@
 import { useMemo } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { divIcon, latLngBounds } from 'leaflet'
 import { Link } from 'react-router-dom'
-import { restaurants } from '../data/restaurants'
+import { matchesGuide, restaurants } from '../data/restaurants'
 import StarBadge from '../components/StarBadge'
+import BlueRibbonBadge from '../components/BlueRibbonBadge'
 import OutboundButtons from '../components/restaurant/outbound-buttons'
 import 'leaflet/dist/leaflet.css'
 import './MapView.css'
@@ -24,19 +26,19 @@ function makeIcon(stars) {
 }
 
 export default function MapView() {
+  const [params] = useSearchParams()
+  const guide = params.get('guide') || 'all'
+  const list = useMemo(() => restaurants.filter((r) => matchesGuide(r, guide)), [guide])
   const icons = useMemo(() => {
     const map = {}
     for (const level of [3, 2, 1, 'bib', 'selected', 'ribbon']) map[level] = makeIcon(level)
     return map
   }, [])
 
-  const bounds = useMemo(
-    () =>
-      latLngBounds(
-        restaurants.filter((r) => r.lat != null && r.lng != null).map((r) => [r.lat, r.lng]),
-      ),
-    [],
-  )
+  const bounds = useMemo(() => {
+    const pts = list.filter((r) => r.lat != null && r.lng != null).map((r) => [r.lat, r.lng])
+    return pts.length ? latLngBounds(pts) : latLngBounds([[33.2, 126.2], [38.6, 129.6]])
+  }, [list])
 
   return (
     <div className="map-page">
@@ -74,7 +76,7 @@ export default function MapView() {
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          {restaurants
+          {list
             .filter((r) => r.lat != null && r.lng != null)
             .map((r) => (
             <Marker

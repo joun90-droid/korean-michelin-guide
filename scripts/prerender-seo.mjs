@@ -19,7 +19,7 @@ function starLabel(stars) {
 }
 
 function inject(r) {
-  const title = `${r.name} | ${starLabel(r.stars)} | 한국 미쉐린 가이드`
+  const title = `${r.name} | ${starLabel(r.stars)} | 영재추천 맛집가이드`
   const desc = (r.summary || r.description || `${r.name} ${r.address}`).slice(0, 160)
   const url = `${SITE}/restaurant/${r.id}`
   const ld = {

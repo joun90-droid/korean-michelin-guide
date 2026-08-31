@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import ActionCard from '../components/restaurant/action-card'
 import SeoHead from '../components/seo/SeoHead'
-import { restaurants } from '../data/restaurants'
+import { SITE_NAME, restaurants } from '../data/restaurants'
 import { useLibrary } from '../hooks/useLibrary'
 import './Home.css'
 
@@ -13,8 +13,8 @@ export default function Saved() {
   return (
     <div className="home-page">
       <SeoHead
-        title="저장한 레스토랑 | 한국 미쉐린 가이드"
-        description="찜한 미쉐린 레스토랑과 최근 본 목록을 한곳에서 다시 열어보세요."
+        title={`저장한 레스토랑 | ${SITE_NAME}`}
+        description="찜한 맛집과 최근 본 목록을 한곳에서 다시 열어보세요."
         path="/saved"
       />
       <section className="hero hero-compact">

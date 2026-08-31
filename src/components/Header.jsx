@@ -1,4 +1,5 @@
-import { NavLink } from 'react-router-dom'
+import { Link, NavLink, useLocation, useSearchParams } from 'react-router-dom'
+import { GUIDE_TABS, SITE_NAME, SITE_NAME_EN, guideCounts } from '../data/restaurants'
 import './Header.css'
 
 function SunIcon() {
@@ -23,22 +24,35 @@ function MoonIcon() {
   )
 }
 
+const counts = guideCounts()
+
 export default function Header({ theme, onToggleTheme }) {
+  const { pathname } = useLocation()
+  const [params] = useSearchParams()
+  const guide = pathname === '/' ? params.get('guide') || 'all' : ''
+
   return (
     <header className="site-header">
       <div className="site-header-inner">
-        <NavLink to="/" className="brand">
-          <span className="brand-mark">가</span>
+        <Link to="/" className="brand">
+          <span className="brand-mark">영</span>
           <span className="brand-text">
-            <strong>한국 미슐랭 가이드</strong>
-            <em>Korean Michelin Guide</em>
+            <strong>{SITE_NAME}</strong>
+            <em>{SITE_NAME_EN}</em>
           </span>
-        </NavLink>
+        </Link>
 
         <nav className="site-nav" aria-label="주요 메뉴">
-          <NavLink to="/" end>
-            목록
-          </NavLink>
+          {GUIDE_TABS.map((tab) => {
+            const to = tab.id === 'all' ? '/' : `/?guide=${tab.id}`
+            const on = pathname === '/' && guide === tab.id
+            return (
+              <Link key={tab.id} to={to} className={on ? 'active' : ''} aria-current={on ? 'page' : undefined}>
+                {tab.label}
+                <span className="nav-count">{counts[tab.id]}</span>
+              </Link>
+            )
+          })}
           <NavLink to="/map">지도</NavLink>
           <NavLink to="/saved">저장</NavLink>
         </nav>

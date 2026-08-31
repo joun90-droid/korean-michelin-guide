@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
 import { MapContainer, TileLayer, Marker } from 'react-leaflet'
 import { divIcon } from 'leaflet'
-import { getRestaurantById, restaurants } from '../data/restaurants'
+import { SITE_NAME, getRestaurantById, restaurants } from '../data/restaurants'
 import StarBadge from '../components/StarBadge'
 import BlueRibbonBadge from '../components/BlueRibbonBadge'
 import CuisineIcon from '../components/CuisineIcon'
@@ -129,7 +129,7 @@ export default function RestaurantDetail() {
   return (
     <div className="detail-page">
       <SeoHead
-        title={`${name} | ${starLabel(stars)} | 한국 미쉐린 가이드`}
+        title={`${name} | ${starLabel(stars)} | ${SITE_NAME}`}
         description={(restaurant.summary || description || `${name} ${address}`).slice(0, 160)}
         path={`/restaurant/${id}`}
         type="article"

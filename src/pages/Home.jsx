@@ -1,9 +1,10 @@
 import { useEffect, useMemo, useState } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import SearchFilterBar from '../components/SearchFilterBar'
 import QuickFilter, { matchesQuickFilters } from '../components/curator/quick-filter'
 import ActionCard from '../components/restaurant/action-card'
 import SeoHead from '../components/seo/SeoHead'
-import { dailyPicks, restaurants } from '../data/restaurants'
+import { SITE_NAME, dailyPicks, matchesGuide, restaurants } from '../data/restaurants'
 import { haversineKm } from '../lib/ranking'
 import './Home.css'
 
@@ -18,10 +19,16 @@ const initialFilters = {
 const starRank = { 3: 3, 2: 2, 1: 1, bib: 0.5, selected: 0.25 }
 
 export default function Home() {
+  const [searchParams] = useSearchParams()
+  const guide = searchParams.get('guide') || 'all'
   const [filters, setFilters] = useState(initialFilters)
   const [quick, setQuick] = useState([])
   const [here, setHere] = useState(null)
   const [geoError, setGeoError] = useState('')
+
+  useEffect(() => {
+    setFilters((f) => ({ ...f, stars: '전체' }))
+  }, [guide])
 
   useEffect(() => {
     if (filters.sort !== 'nearby') return
@@ -39,12 +46,13 @@ export default function Home() {
 
   const origin = here || { lat: 37.5665, lng: 126.978 }
 
-  const picks = useMemo(() => dailyPicks(restaurants, 3), [])
+  const catalog = useMemo(() => restaurants.filter((r) => matchesGuide(r, guide)), [guide])
+  const picks = useMemo(() => dailyPicks(catalog.length ? catalog : restaurants, 3), [catalog])
 
   const filtered = useMemo(() => {
     const q = filters.query.trim().toLowerCase()
 
-    let list = restaurants.filter((r) => {
+    let list = catalog.filter((r) => {
       if (!matchesQuickFilters(r, quick)) return false
       if (filters.region !== '전체' && r.region !== filters.region) return false
       if (filters.cuisine !== '전체' && r.cuisine !== filters.cuisine) return false
@@ -72,7 +80,7 @@ export default function Home() {
     })
 
     return list
-  }, [filters, quick, origin.lat, origin.lng])
+  }, [filters, quick, origin.lat, origin.lng, catalog])
 
   const withDistance =
     filters.sort === 'nearby'
@@ -86,16 +94,16 @@ export default function Home() {
   return (
     <div className="home-page">
       <SeoHead
-        title="한국 미쉐린 가이드 | 상황별 3초 큐레이션"
-        description="서울·부산 미쉐린 스타·빕 구르망·그린스타 레스토랑을 목적·조건 태그로 바로 고르고, 캐치테이블·네이버 지도로 바로 예약하세요."
+        title={`${SITE_NAME} | 미슐랭 · 블루리본 · 가이드 등재`}
+        description="영재가 고른 미슐랭 스타·빕 구르망·스타 없는 가이드 등재·블루리본 맛집을 탭으로 나눠 보고 바로 예약하세요."
         path="/"
       />
       <section className="hero">
         <div className="hero-glow" aria-hidden="true" />
-        <p className="hero-eyebrow">MICHELIN GUIDE KR · DAILY CURATION</p>
-        <h1>오늘 어디 갈지, 한 화면에서</h1>
+        <p className="hero-eyebrow">YOUNGJAE PICKS · MICHELIN · BLUE RIBBON</p>
+        <h1>영재추천 맛집가이드</h1>
         <p className="hero-sub">
-          목적 태그와 랭킹 점수로 걸러 보고, 가까운 곳·오늘의 픽까지 바로 예약하세요.
+          미슐랭 스타부터 스타 없는 가이드 등재, 블루리본까지 한곳에서 고르세요.
         </p>
       </section>
 

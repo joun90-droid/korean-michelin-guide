@@ -16,6 +16,27 @@ export const STAR_LEVELS = [
 ]
 
 export const SITE_URL = 'https://michelin-guide-kr.web.app'
+export const SITE_NAME = '영재추천 맛집가이드'
+export const SITE_NAME_EN = 'Youngjae Picks'
+
+export const GUIDE_TABS = [
+  { id: 'all', label: '전체' },
+  { id: 'michelin', label: '미슐랭' },
+  { id: 'selected', label: '가이드 등재' },
+  { id: 'ribbon', label: '블루리본' },
+]
+
+export function isMichelinListed(r) {
+  return r.stars === 1 || r.stars === 2 || r.stars === 3 || r.stars === 'bib' || r.stars === 'selected'
+}
+
+export function matchesGuide(r, guide) {
+  if (!guide || guide === 'all') return true
+  if (guide === 'michelin') return isMichelinListed(r)
+  if (guide === 'selected') return r.stars === 'selected'
+  if (guide === 'ribbon') return Boolean(r.ribbons)
+  return true
+}
 
 function q(s) {
   return encodeURIComponent(s || '')
@@ -73,6 +94,15 @@ export const restaurants = (catalog.restaurants || []).map(enrich)
 
 export function getRestaurantById(id) {
   return restaurants.find((r) => r.id === id)
+}
+
+export function guideCounts(list = restaurants) {
+  return {
+    all: list.length,
+    michelin: list.filter(isMichelinListed).length,
+    selected: list.filter((r) => r.stars === 'selected').length,
+    ribbon: list.filter((r) => Boolean(r.ribbons)).length,
+  }
 }
 
 export function dailyPicks(list = restaurants, n = 3) {

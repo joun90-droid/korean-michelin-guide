@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { SITE_URL } from '../../data/restaurants'
+import { SITE_NAME, SITE_URL } from '../../data/restaurants'
 
 export function starLabel(stars) {
   if (stars === 3) return '미쉐린 3스타'
@@ -76,7 +76,7 @@ export default function SeoHead({
     upsertMeta('property', 'og:type', type)
     upsertMeta('property', 'og:url', url)
     upsertMeta('property', 'og:locale', 'ko_KR')
-    upsertMeta('property', 'og:site_name', '한국 미쉐린 가이드')
+    upsertMeta('property', 'og:site_name', SITE_NAME)
     upsertMeta('property', 'og:image', `${SITE_URL}/favicon.svg`)
     upsertMeta('name', 'twitter:card', 'summary_large_image')
     upsertMeta('name', 'twitter:title', title)
