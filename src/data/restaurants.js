@@ -53,7 +53,9 @@ function enrich(r) {
     summary,
     occasions,
     amenities,
-    catchtableUrl: r.catchtableUrl || `https://app.catchtable.co.kr/ct/search?keyword=${q(r.name)}`,
+    catchtableUrl: r.catchtableUrl?.includes('/ct/search/total')
+      ? r.catchtableUrl
+      : `https://app.catchtable.co.kr/ct/search/total?keyword=${q(r.name)}&isKeywordSearchOpen=true`,
     naverMapUrl: r.naverMapUrl || `https://map.naver.com/p/search/${q(`${r.name} ${r.address || ''}`)}`,
     naverDirectionsUrl:
       r.naverDirectionsUrl ||

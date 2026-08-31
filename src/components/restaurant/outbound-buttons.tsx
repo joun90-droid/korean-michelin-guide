@@ -16,9 +16,9 @@ export default function OutboundButtons({ restaurant, compact = false, className
       onClick={(e) => e.stopPropagation()}
     >
       <a
-        href={catchtableWebUrl(restaurant.name)}
+        href={catchtableWebUrl(restaurant.name, restaurant.catchtableShop)}
         rel="noopener noreferrer"
-        onClick={(e) => openCatchtable(e, restaurant.name)}
+        onClick={(e) => openCatchtable(e, restaurant)}
       >
         캐치테이블 실시간 예약
       </a>

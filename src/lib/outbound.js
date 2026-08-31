@@ -26,8 +26,12 @@ export function telHref(phone) {
   return `tel:${digits}`
 }
 
-export function catchtableWebUrl(name) {
-  return `https://app.catchtable.co.kr/ct/search?keyword=${encodeURIComponent(name || '')}`
+export function catchtableWebUrl(name, shopAlias) {
+  if (shopAlias) {
+    return `https://app.catchtable.co.kr/ct/shop/${encodeURIComponent(shopAlias)}`
+  }
+  const q = encodeURIComponent(name || '')
+  return `https://app.catchtable.co.kr/ct/search/total?keyword=${q}&isKeywordSearchOpen=true`
 }
 
 export function naverWebUrl({ lat, lng, name, address }) {
@@ -50,18 +54,22 @@ function openWithFallback(appUrl, webUrl, storeUrl) {
   }, 900)
 }
 
-export function openCatchtable(event, name) {
+export function openCatchtable(event, restaurantOrName) {
   event?.preventDefault()
   event?.stopPropagation()
-  const web = catchtableWebUrl(name)
+  const name =
+    typeof restaurantOrName === 'string' ? restaurantOrName : restaurantOrName?.name
+  const alias =
+    typeof restaurantOrName === 'string' ? '' : restaurantOrName?.catchtableShop || ''
+  const web = catchtableWebUrl(name, alias)
   if (isAndroid()) {
     go(
-      `intent://search?keyword=${encodeURIComponent(name || '')}#Intent;scheme=catchtable;package=${CT_PKG};S.browser_fallback_url=${encodeURIComponent(web)};end`,
+      `intent://ct/search/total?keyword=${encodeURIComponent(name || '')}#Intent;scheme=https;authority=app.catchtable.co.kr;package=${CT_PKG};S.browser_fallback_url=${encodeURIComponent(web)};end`,
     )
     return
   }
   if (isIOS()) {
-    openWithFallback(`catchtable://search?keyword=${encodeURIComponent(name || '')}`, web, CT_IOS)
+    go(web)
     return
   }
   window.open(web, '_blank', 'noopener,noreferrer')

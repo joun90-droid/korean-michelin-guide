@@ -139,7 +139,10 @@ def parse_price_krw(price: str) -> tuple[str, int | None]:
 
 
 def catchtable_url(name: str) -> str:
-    return f"https://app.catchtable.co.kr/ct/search?keyword={quote(name)}"
+    return (
+        "https://app.catchtable.co.kr/ct/search/total"
+        f"?keyword={quote(name)}&isKeywordSearchOpen=true"
+    )
 
 
 def naver_search_url(name: str, address: str) -> str:
