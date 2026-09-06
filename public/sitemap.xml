@@ -103,6 +103,7 @@
   <url><loc>https://michelin-guide-kr.web.app/restaurant/niurou-mian-guan-zi</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/oilje</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/okdol-heyonok</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/okdolhyunok</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/okdongsik</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/oreno-ramen</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/pili-pili</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -131,6 +132,7 @@
   <url><loc>https://michelin-guide-kr.web.app/restaurant/a-laise</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/aelgerizm</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/au-bouillon</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/bawi</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/bistrot-de-yountville</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/bium</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/bongmilga</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -155,6 +157,7 @@
   <url><loc>https://michelin-guide-kr.web.app/restaurant/eonyang-bulgogi-busanjip</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/eutteum-iroribata</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/fuje</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/geodae-dwaeji-gukbap</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/gom-ba-wie</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/goobok-mandu</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/good-morning-hongkong</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -185,15 +188,18 @@
   <url><loc>https://michelin-guide-kr.web.app/restaurant/lessence</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/loignon</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/lee-buk-bang</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/liman</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/liman-istanbul</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/manao</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mater</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/matsuzaki</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/meerok-super</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mimi-myeonga</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/moment-local</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/moulin</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mr-ahns-craft-makgeolli</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mugunghwa</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/muguok</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mukjung</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/muutto-anatolian-tapas-bar</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/myeongdong-kyoja</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -232,11 +238,13 @@
   <url><loc>https://michelin-guide-kr.web.app/restaurant/toc-toc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/toh-lim</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/tooru</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/trattoria-romagna</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/ultra-bite</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/unaju</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/yakitori-haegong</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/yakitori-kiyu</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/yakitori-mook</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/yangkyungoak</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/yongkangzzie</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/yoon-haeundae-galbi</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/yulling</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
