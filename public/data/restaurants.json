@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:58:07+09:00",
+  "updatedAt": "2026-09-14T05:14:35+09:00",
   "source": "michelin-guide",
   "count": 279,
   "restaurants": [
@@ -24,7 +24,7 @@
       "description": "전통 한식의 격식과 현대적 플레이팅을 결합한 파인다이닝. 제철 식재료를 활용한 계절 코스로 한국 궁중 요리의 정수를 재해석한다.",
       "lat": 37.5222,
       "lng": 127.0398,
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/6gaon_boramae",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=%EA%B0%80%EC%98%A8&keywordSearch=%EA%B0%80%EC%98%A8",
       "naverMapUrl": "https://map.naver.com/p/search/%EA%B0%80%EC%98%A8%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%8F%84%EC%82%B0%EB%8C%80%EB%A1%9C%20317",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0398,37.5222,%EA%B0%80%EC%98%A8/walk?c=15.00,0,0,0,dh",
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/6gaon_boramae",
@@ -37,7 +37,7 @@
       "amenities": [
         "private-room"
       ],
-      "score": 65,
+      "score": 77,
       "catchtableShop": "6gaon_boramae"
     },
     {
@@ -66,9 +66,9 @@
       "lng": 127.04426,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mingles",
       "websiteUrl": "https://www.restaurant-mingles.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/mingles",
+      "bookingUrl": "https://www.restaurant-mingles.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/mingles",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=%EB%B0%8D%EA%B8%80%EC%8A%A4&keywordSearch=%EB%B0%8D%EA%B8%80%EC%8A%A4",
       "naverMapUrl": "https://map.naver.com/p/search/%EB%B0%8D%EA%B8%80%EC%8A%A4%202F%2C%2019%20Dosan-daero%2067-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006016%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04426,37.52535,%EB%B0%8D%EA%B8%80%EC%8A%A4/walk?c=15.00,0,0,0,dh",
       "summary": "따뜻한 톤과 현대 예술 작품, 세련된 식기로 포인트를 준 Mingles는 우아한 미니멀리즘을 구현하며 창문을 통해 잔잔한 녹색 전망을 감상할 수 있습니다. 강민구 셰프는 한국의 요리 철학을 현대적인 시음 형식으로 매끄럽게 엮어 제철 재료를 사용하여 지나치게 화려하기보다는 층층이 있고 미묘한 맛을 만들어냅니다. 건어물과 야채, 과일의 감칠맛이 농축된 오랜 시간 끓여낸 '밍링팟', 된장, 간장, 고추장을 재해석한 프랑스풍 디저트 '장트리오' 등 셰프의 혁신적인 한국식 발효식품이 돋보인다.",
@@ -80,8 +80,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "mingles"
+      ]
     },
     {
       "id": "evett",
@@ -111,9 +110,9 @@
       "lng": 127.0362,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/evett",
       "websiteUrl": "https://www.restaurantevett.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/evett",
+      "bookingUrl": "https://www.restaurantevett.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/evett",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Evett&keywordSearch=Evett",
       "naverMapUrl": "https://map.naver.com/p/search/Evett%2010-5%20Dosan-daero%2045-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006021%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0362,37.52334,Evett/walk?c=15.00,0,0,0,dh",
       "summary": "조셉 리저우드(Joseph Lidgerwood) 셰프는 채집을 예술로 승화시켜 전통 메주를 직접 만들고 자신만의 소스를 만듭니다. 그에게는 평범하거나 남용되는 성분이란 존재하지 않는다. 크림과 멸치 달고나, 흑마늘을 가득 넣은 그의 시그니처 메주 도넛은 감칠맛과 발효의 깊이를 한 차원 더 끌어올립니다.",
@@ -125,8 +124,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "evett"
+      ]
     },
     {
       "id": "mitou",
@@ -157,9 +155,9 @@
       "lng": 127.04502,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mitou",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/mitou",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mitou&keywordSearch=Mitou",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/mitou",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mitou&keywordSearch=Mitou",
       "naverMapUrl": "https://map.naver.com/p/search/Mitou%2024%20Dosan-daero%2070-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006064%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04502,37.52206,Mitou/walk?c=15.00,0,0,0,dh",
       "summary": "미토우에서는 권영운 셰프와 김보미 셰프의 기량과 독창성을 신선한 제철 재료로 만든 정통 일본 요리를 통해 선보입니다. 닭고기, 계란, 쌀, 야채는 권셰프의 가족 농장에서 신중하게 조달되어 일관된 품질을 보장합니다. 이러한 노력의 정점인 요리에는 셰프들이 공유하는 성실함, 자제력, 헌신이라는 가치가 반영되어 있으며, 이는 지속적인 요리 기술 추구를 통해 형성되었습니다.",
@@ -170,8 +168,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "mitou"
+      ]
     },
     {
       "id": "mosu",
@@ -199,9 +196,9 @@
       "lng": 126.99615,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mosu",
       "websiteUrl": "https://mosuseoul.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/tempmosuseoul",
+      "bookingUrl": "https://mosuseoul.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/tempmosuseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mosu&keywordSearch=Mosu",
       "naverMapUrl": "https://map.naver.com/p/search/Mosu%204%20Hoenamu-ro%2041-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004344%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.99615,37.54115,Mosu/walk?c=15.00,0,0,0,dh",
       "summary": "Mosu는 각 접시에 상상력, 정확성, 균형을 제공합니다. 예측할 수 없는 맛과 흥미로운 질감이 끊임없는 즐거움을 선사합니다. 전복 타코, 참깨 두부, 우엉 타르트 등 시그니처 요리가 만족스럽고, 사워도우가 특히 맛있으며, 생선 요리도 고급스럽게 구성되어 있습니다.",
@@ -213,8 +210,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "tempmosuseoul"
+      ]
     },
     {
       "id": "restaurant-allen",
@@ -289,9 +285,9 @@
       "lng": 127.01903,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soigne",
       "websiteUrl": "https://soigneseoul.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/soigneseoul",
+      "bookingUrl": "https://soigneseoul.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/soigneseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Soign%C3%A9&keywordSearch=Soign%C3%A9",
       "naverMapUrl": "https://map.naver.com/p/search/Soign%C3%A9%20%23201%2C%202F%2C%20Sinsa%20square%2C%20652%20Gangnam-daero%2C%20Gangnam-gu%2C%20Seoul%2C%2006027%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.01903,37.51933,Soign%C3%A9/walk?c=15.00,0,0,0,dh",
       "summary": "Soigné는 변화하는 계절을 반영하고 각 재료에 생기를 불어넣는 시식 메뉴로 유명합니다. 오너 셰프 이준(Jun Lee)은 한국의 감성과 현대적인 기술을 결합하여 자신의 목소리로 표현된 요리를 만들어냅니다. 그의 시그니처 메뉴인 '에피소드' 메뉴는 소개부터 결론까지, 그리고 속도감 있는 요리 공연처럼 고전적인 이야기처럼 전개됩니다.",
@@ -303,8 +299,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "soigneseoul"
+      ]
     },
     {
       "id": "sosuheon",
@@ -332,9 +327,9 @@
       "lng": 126.9634,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sosuheon",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/sosuheon",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sosuheon&keywordSearch=Sosuheon",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/sosuheon",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sosuheon&keywordSearch=Sosuheon",
       "naverMapUrl": "https://map.naver.com/p/search/Sosuheon%208%20Mallijae-ro%2021-gil%2C%20Jung-gu%2C%20Seoul%2C%2004500%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.9634,37.55294,Sosuheon/walk?c=15.00,0,0,0,dh",
       "summary": "서울의 현대적인 스카이라인과 나란히 놓인 전통 한옥에 박경재 셰프의 소수헌이 있습니다. 고요한 환경은 도시로부터의 우아한 휴식을 제공합니다. 8인용 카운터에서 자신감 넘치는 셰프가 조용히 집중해서 초밥을 준비하는 모습을 지켜볼 수 있습니다.",
@@ -343,8 +338,7 @@
         "parents",
         "date"
       ],
-      "amenities": [],
-      "catchtableShop": "sosuheon"
+      "amenities": []
     },
     {
       "id": "alla-prima",
@@ -373,9 +367,9 @@
       "lng": 127.02602,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/alla-prima",
       "websiteUrl": "https://www.allaprima.co.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/allaprima",
+      "bookingUrl": "https://www.allaprima.co.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/allaprima",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=alla%20prima&keywordSearch=alla%20prima",
       "naverMapUrl": "https://map.naver.com/p/search/alla%20prima%2013%20Hakdong-ro%2017-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006045%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.02602,37.51346,alla%20prima/walk?c=15.00,0,0,0,dh",
       "summary": "알라 프리마는 재료 본연의 맛을 그대로 유지하고, 허브와 야채의 균형이 매혹적인 향을 더해줍니다. 시음 메뉴는 지나치게 복잡하거나 위협적이지 않고 독창적입니다. 넓은 카운터는 주방의 생동감 넘치는 에너지를 가장 잘 보여주며, 차분하고 클래식한 분위기와 은은한 조명을 갖춘 다이닝룸은 디테일 하나도 놓치지 않고 정말 편안한 식사를 제공합니다.",
@@ -389,8 +383,7 @@
         "private-room",
         "parking",
         "wine"
-      ],
-      "catchtableShop": "allaprima"
+      ]
     },
     {
       "id": "kwonsooksoo",
@@ -418,9 +411,9 @@
       "lng": 127.04355,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kwonsooksoo",
       "websiteUrl": "https://www.kwonsooksoo.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/kwonsooksoo",
+      "bookingUrl": "https://www.kwonsooksoo.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/kwonsooksoo",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=%EA%B6%8C%EC%88%99%EC%88%98&keywordSearch=%EA%B6%8C%EC%88%99%EC%88%98",
       "naverMapUrl": "https://map.naver.com/p/search/%EA%B6%8C%EC%88%99%EC%88%98%204F%2C%2037%20Apgujeong-ro%2080-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006016%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04355,37.52437,%EA%B6%8C%EC%88%99%EC%88%98/walk?c=15.00,0,0,0,dh",
       "summary": "현대적인 기술과 한국 전통이 만나는 미니멀한 공간에 자리한 이 레스토랑은 조용하고 매력적인 식사 경험을 제공합니다. 20년의 경험을 바탕으로 한식 제철 재료의 순수하고 섬세한 맛을 강조하는 셰프입니다. 식사는 한국의 전통주와 함께 정교하게 손질된 간단한 음식으로 시작되며, 이어서 세련된 '독상' 스타일로 제공되는 메인 코스가 이어집니다.",
@@ -432,8 +425,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "kwonsooksoo"
+      ]
     },
     {
       "id": "la-yeon",
@@ -465,9 +457,9 @@
       "lng": 127.00517,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/la-yeon",
       "websiteUrl": "https://www.shilla.net/seoul/index.do",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/layeon",
+      "bookingUrl": "https://www.shilla.net/seoul/index.do",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/layeon",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=%EB%9D%BC%EC%97%B0&keywordSearch=%EB%9D%BC%EC%97%B0",
       "naverMapUrl": "https://map.naver.com/p/search/%EB%9D%BC%EC%97%B0%2023F%2C%20Shilla%20Hotel%2C%20249%20Dongho-ro%2C%20Jung-gu%2C%20Seoul%2C%2004605%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00517,37.555813,%EB%9D%BC%EC%97%B0/walk?c=15.00,0,0,0,dh",
       "summary": "신라호텔 23층 라연의 위치에서는 멋진 전망을 보장하지만, 음식의 질은 접시에서 시선을 떼지 않게 해줍니다. 한국 요리의 오랜 전통을 취하고 익숙한 맛과 질감을 손상시키지 않으면서 업데이트하는 요리에는 섬세함과 가벼움이 있습니다. 아삭아삭한 붉은 숭어부터 부드러운 숯불구이 한우 불고기까지 주방에서는 복잡함을 거부하고 깨끗하고 정확한 맛에 중점을 둡니다.",
@@ -480,8 +472,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "layeon"
+      ]
     },
     {
       "id": "soigne",
@@ -503,7 +494,7 @@
       "description": "프렌치 클래식 기법에 한국적 감성을 더한 창작 코스 요리. 섬세한 소스 워크와 계절감이 돋보이는 접시 구성.",
       "lat": 37.5361,
       "lng": 127.0016,
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/soigneseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=%EC%8A%A4%EC%99%80%EB%8B%88%EC%98%88&keywordSearch=%EC%8A%A4%EC%99%80%EB%8B%88%EC%98%88",
       "naverMapUrl": "https://map.naver.com/p/search/%EC%8A%A4%EC%99%80%EB%8B%88%EC%98%88%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EC%9D%B4%ED%83%9C%EC%9B%90%EB%A1%9C54%EA%B8%B8%203",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0016,37.5361,%EC%8A%A4%EC%99%80%EB%8B%88%EC%98%88/walk?c=15.00,0,0,0,dh",
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/soigneseoul",
@@ -513,7 +504,7 @@
         "date"
       ],
       "amenities": [],
-      "score": 52,
+      "score": 64,
       "catchtableShop": "soigneseoul"
     },
     {
@@ -543,9 +534,9 @@
       "lng": 127.041069,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jungsik511965",
       "websiteUrl": "https://www.jungsik.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/jungsik",
+      "bookingUrl": "https://www.jungsik.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/jungsik",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=%EC%A0%95%EC%8B%9D%EB%8B%B9&keywordSearch=%EC%A0%95%EC%8B%9D%EB%8B%B9",
       "naverMapUrl": "https://map.naver.com/p/search/%EC%A0%95%EC%8B%9D%EB%8B%B9%2011%20Seolleung-ro%20158-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006014%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.041069,37.525584,%EC%A0%95%EC%8B%9D%EB%8B%B9/walk?c=15.00,0,0,0,dh",
       "summary": "서울과 뉴욕 레스토랑을 운영하고 있는 임정식 셰프는 자신만의 혁신적인 감각으로 한식을 세계에 소개한 공로를 인정받았습니다. 그가 가장 잘하는 일은 김밥, 비빔밥과 같은 친숙한 것에서 영감을 얻어 혁신적이면서도 완전히 정통적인 것을 창조하는 것입니다. 전복부터 오리까지 주요 재료를 사용하여 인상적인 반찬으로 시작하는 세트 메뉴를 구성합니다.",
@@ -557,8 +548,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "jungsik"
+      ]
     },
     {
       "id": "7th-door",
@@ -585,9 +575,9 @@
       "lng": 127.05429,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/7th-door",
       "websiteUrl": "https://www.7thdoor.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/7th_door",
+      "bookingUrl": "https://www.7thdoor.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/7th_door",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=7th%20Door&keywordSearch=7th%20Door",
       "naverMapUrl": "https://map.naver.com/p/search/7th%20Door%204F%2C%2041%20Hakdong-ro%2097-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006072%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.05429,37.52237,7th%20Door/walk?c=15.00,0,0,0,dh",
       "summary": "김대춘 셰프의 요리는 시간이 지날수록 다양해지고 깊어진다. 이 레스토랑의 메뉴는 그가 추구하는 요리 방향을 구체화하고 있는데, 이는 그의 현대적인 한식 준비 덕분입니다. 한식의 기본인 발효와 숙성을 주제로 셰프가 정성과 전문성을 바탕으로 재료를 손질합니다.",
@@ -595,8 +585,7 @@
       "occasions": [
         "date"
       ],
-      "amenities": [],
-      "catchtableShop": "7th_door"
+      "amenities": []
     },
     {
       "id": "bicena",
@@ -626,9 +615,9 @@
       "lng": 127.10253,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bicena",
       "websiteUrl": "https://www.bicena.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/bicena",
+      "bookingUrl": "https://www.bicena.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/bicena",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Bicena&keywordSearch=Bicena",
       "naverMapUrl": "https://map.naver.com/p/search/Bicena%2081F%2C%20Lotte%20World%20Tower%2C%20300%20Olympic-ro%2C%20Songpa-gu%2C%20Seoul%2C%2005551%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.10253,37.5126,Bicena/walk?c=15.00,0,0,0,dh",
       "summary": "경상도 출신인 셰프는 고향의 재료와 요리 전통을 자랑스럽게 선보입니다. 흥미로운 계절 메뉴는 한국의 음식 문화를 반영하여 식사하는 사람들이 한국의 아름다움을 경험할 수 있도록 안내합니다. 육즙이 풍부하고 풍미 가득한 삼겹살과 한 달간 하우스 드라이한 한우 등심 등 고기 요리는 셰프의 특선 요리입니다.",
@@ -641,8 +630,7 @@
       "amenities": [
         "private-room",
         "parking"
-      ],
-      "catchtableShop": "bicena"
+      ]
     },
     {
       "id": "collage",
@@ -670,9 +658,9 @@
       "lng": 127.03099,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/collage",
       "websiteUrl": "https://ananti.kr/ko/ganm/GN0703",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/collage",
+      "bookingUrl": "https://ananti.kr/ko/ganm/GN0703",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/collage",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Collage&keywordSearch=Collage",
       "naverMapUrl": "https://map.naver.com/p/search/Collage%202F%2C%20Ananti%20at%20Gangnam%2C%2011%20Nonhyeon-ro%20136-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006051%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03099,37.51619,Collage/walk?c=15.00,0,0,0,dh",
       "summary": "콜라주라는 시각 예술 기법처럼, 노진성 셰프는 재료에 대한 폭넓은 이해를 바탕으로 다양한 맛의 균형을 이루는 요리를 만들어냅니다. 재료 본연의 맛과 진한 소스의 조화로운 조화를 통해 그의 세련된 요리 실력이 풍부하게 표현됩니다. 그는 현지의 제철 식재료와 발효 기술을 결합해 전통 프랑스 요리에 현대적이고 다양한 느낌을 더합니다.",
@@ -682,8 +670,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "collage"
+      ]
     },
     {
       "id": "eatanic-garden",
@@ -714,9 +701,9 @@
       "lng": 127.04158,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/eatanic-garden",
       "websiteUrl": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/eatanicgarden",
+      "bookingUrl": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/eatanicgarden",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Eatanic%20Garden&keywordSearch=Eatanic%20Garden",
       "naverMapUrl": "https://map.naver.com/p/search/Eatanic%20Garden%2036F%2C%20Josun%20Palace%20Hotel%2C%20231%20Teheran-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006142%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04158,37.50304,Eatanic%20Garden/walk?c=15.00,0,0,0,dh",
       "summary": "이름에서 알 수 있듯이 이 공간은 아름다운 도시 정원을 연상시킵니다. 창가 좌석은 조선팰리스 호텔 36층에서 도시의 멋진 전망을 감상할 수 있는 자리입니다. 여기에는 메뉴가 없습니다.",
@@ -727,8 +714,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "eatanicgarden"
+      ]
     },
     {
       "id": "escondido",
@@ -756,9 +742,9 @@
       "lng": 127.01046,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/escondido",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/escondido",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Escondido&keywordSearch=Escondido",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/escondido",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Escondido&keywordSearch=Escondido",
       "naverMapUrl": "https://map.naver.com/p/search/Escondido%20B1%2C%2061-7%20Hannam-daero%2020-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004419%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.01046,37.53517,Escondido/walk?c=15.00,0,0,0,dh",
       "summary": "에스콘디도는 멕시칸 음식을 향한 셰프의 열정이 가득한 공간입니다. 요리에 대한 그의 열정은 그를 멕시코로 이끌었고, 그곳에서 그는 멕시코 문화에 푹 빠져 있으면서 요리 기술을 꾸준히 배우고 향상시켰습니다. 레스토랑에서는 셰프의 독특한 손길이 가미된 진정한 멕시코 요리를 선보입니다.",
@@ -768,8 +754,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "escondido"
+      ]
     },
     {
       "id": "exquisine",
@@ -795,9 +780,9 @@
       "lng": 127.04969,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/exquisine",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/exquisine_seoul",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Exquisine&keywordSearch=Exquisine",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/exquisine_seoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Exquisine&keywordSearch=Exquisine",
       "naverMapUrl": "https://map.naver.com/p/search/Exquisine%206%20Samseong-ro%20140-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006073%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04969,37.5211374,Exquisine/walk?c=15.00,0,0,0,dh",
       "summary": "조용한 주거 지역에 위치한 Exquisine은 장경원 셰프가 한국 식재료의 특성과 잠재력을 탐구하는 창의적인 공간입니다. 레스토랑은 자체 재배한 허브와 신선한 지역 농산물을 사용하여 점심 메뉴와 저녁 메뉴를 합리적인 가격으로 제공하며, 각 메뉴는 재료와 주방 상태에 따라 자주 변경됩니다. 은은한 조명과 미니멀한 장식으로 블랙과 그레이 톤의 컴팩트한 다이닝룸은 데이트와 조용한 식사에 이상적인 따뜻하고 친근한 분위기를 연출합니다.",
@@ -810,8 +795,7 @@
       "amenities": [
         "private-room",
         "parking"
-      ],
-      "catchtableShop": "exquisine_seoul"
+      ]
     },
     {
       "id": "fiotto",
@@ -838,9 +822,9 @@
       "lng": 129.1833,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/fiotto",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/fiotto",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Fiotto&keywordSearch=Fiotto",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/fiotto",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Fiotto&keywordSearch=Fiotto",
       "naverMapUrl": "https://map.naver.com/p/search/Fiotto%202F%2C%20219%20Dalmaji-gil%20117%20beonga-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048105%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.1833,35.16127,Fiotto/walk?c=15.00,0,0,0,dh",
       "summary": "달맞이 언덕에 자리잡은 피오토는 부부가 운영하는 작은 레스토랑으로 파스타 중심의 테이스팅 메뉴를 선보입니다. 요리에는 주인 가족 농장의 채소, 지리산 돼지고기, 한국산 쌀 등 엄선된 식재료가 돋보입니다. 신선한 파스타, 절인 햄, 콤부차 식초, 시럽 등 대부분의 재료를 직접 제조하여 Piotto의 자연스럽고 절제된 스타일을 표현합니다.",
@@ -852,8 +836,7 @@
       ],
       "amenities": [
         "private-room"
-      ],
-      "catchtableShop": "fiotto"
+      ]
     },
     {
       "id": "gaggen-by-choi-junho",
@@ -922,9 +905,9 @@
       "lng": 126.97809,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gigas",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/gigas",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Gigas&keywordSearch=Gigas",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/gigas",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Gigas&keywordSearch=Gigas",
       "naverMapUrl": "https://map.naver.com/p/search/Gigas%203F%2C%2030%20Toegye-ro%206ga-gil%2C%20Jung-gu%2C%20Seoul%2C%2004635%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97809,37.55696,Gigas/walk?c=15.00,0,0,0,dh",
       "summary": "Gigas는 자연의 향기를 반영한 ​​신선한 야채와 허브로 만든 제철 지중해 요리를 선보입니다. 모든 농산물은 40km 떨어진 셰프의 가족 농장에서 생산되며 서울 중심부에서 진정한 팜투테이블 다이닝을 선사합니다. 정하완 셰프는 천연 재료를 사용하여 자신만의 독특한 개성을 지닌 지중해 요리를 만들고, 명확한 방향감으로 전통 요리법을 승격시킵니다.",
@@ -934,8 +917,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "gigas"
+      ]
     },
     {
       "id": "giwakang",
@@ -1005,9 +987,9 @@
       "lng": 127.03478,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/goryori-ken",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/goryori_ken",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Goryori%20Ken&keywordSearch=Goryori%20Ken",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/goryori_ken",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Goryori%20Ken&keywordSearch=Goryori%20Ken",
       "naverMapUrl": "https://map.naver.com/p/search/Goryori%20Ken%202F%2C%2015-3%20Eonju-ro%20152-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006021%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03478,37.52298,Goryori%20Ken/walk?c=15.00,0,0,0,dh",
       "summary": "메인 바 좌석이 8개뿐인 이 친밀한 환경에서는 손님들이 셰프의 모든 움직임을 지켜볼 수 있습니다. 건물 2층의 소박한 외관을 유지하면서 김건 셰프는 농산물의 신선함과 자신의 창의적인 직관에서 영감을 받아 제철 식재료를 활용한 창작 요리를 선보입니다. 일관성과 배려는 Kim이 고객에게 서비스를 제공할 때 매우 중요하게 생각하는 것입니다.",
@@ -1017,8 +999,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "goryori_ken"
+      ]
     },
     {
       "id": "hakusi",
@@ -1046,9 +1027,9 @@
       "lng": 127.03227,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hakusi",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/hakusi",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Hakusi&keywordSearch=Hakusi",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/hakusi",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Hakusi&keywordSearch=Hakusi",
       "naverMapUrl": "https://map.naver.com/p/search/Hakusi%202F%2C%208-4%20Eonju-ro%20157-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006024%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03227,37.52414,Hakusi/walk?c=15.00,0,0,0,dh",
       "summary": "이름에 걸맞게 새하얀 건물에 자리잡은 레스토랑은 빈 캔버스처럼 느껴지며 뚜렷한 모던한 분위기를 전달하는 공간을 연출합니다. 카운터 석으로 둘러싸인 오픈형 주방에서는 손님들이 요리 과정 전체를 지켜볼 수 있어 식사 경험에 역동적인 요소를 더해줍니다. 요리는 셰프의 창의성을 강조하면서 동일한 현대적 정신을 반영합니다.",
@@ -1058,8 +1039,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "hakusi"
+      ]
     },
     {
       "id": "jueun",
@@ -1088,9 +1068,9 @@
       "lng": 126.96991,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/restaurant-jueun",
       "websiteUrl": "https://www.restaurantjueun.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/jueun_seoul",
+      "bookingUrl": "https://www.restaurantjueun.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/jueun_seoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=JUEUN&keywordSearch=JUEUN",
       "naverMapUrl": "https://map.naver.com/p/search/JUEUN%208F%20Gyeonghuidang%2C%2036%20Gyeonghuigung-gil%2C%20Jongno-gu%2C%20Seoul%2C%2003175%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.96991,37.57276,JUEUN/walk?c=15.00,0,0,0,dh",
       "summary": "JUEUN은 트렌드나 장식보다는 클래식하고 절제된 접근 방식을 선호하여 한국의 사계절을 섬세하게 표현합니다. 다양한 발효 소스가 메뉴의 근간을 이루며 재료의 자연스러운 깊이와 조화를 더하며, 계절에 따라 바뀌는 코스는 재방문에 대한 강력한 인센티브를 제공합니다. 식사는 신중하게 진행되며, 다양한 맛을 강조하는 전통 한식 식탁으로 마무리됩니다.",
@@ -1101,8 +1081,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "jueun_seoul"
+      ]
     },
     {
       "id": "kang-minchul-restaurant",
@@ -1171,9 +1150,9 @@
       "lng": 126.97949,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-amant-secret",
       "websiteUrl": "https://lescapehotel.com/dining/lamantsecret",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
+      "bookingUrl": "https://lescapehotel.com/dining/lamantsecret",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Amant%20Secret&keywordSearch=L%27Amant%20Secret",
       "naverMapUrl": "https://map.naver.com/p/search/L%27Amant%20Secret%2026F%20L%27Escape%20Hotel%2C%2067%20Toegye-ro%2C%20Jung-gu%2C%20Seoul%2C%2004529%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97949,37.55983,L%27Amant%20Secret/walk?c=15.00,0,0,0,dh",
       "summary": "레스케이프 호텔 26층에 위치한 L'Amant Secret(프랑스어로 비밀스러운 연인을 뜻함)은 파리지앵 감성에서 영감을 받은 친밀한 공간입니다. 미국에서 요리 실력을 갈고닦은 손종원 셰프는 한국의 제철 식재료를 활용한 한식 서양요리를 지향한다. 그의 현대적인 해석은 현지 재료와 서양 요리 기술을 혼합하여 독창적이고 친숙하며 생산자와 재료, 주방과 식당 사이의 공생을 존중하는 창작물을 만들어냅니다.",
@@ -1184,8 +1163,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "lamantsecret"
+      ]
     },
     {
       "id": "lamitié",
@@ -1211,9 +1189,9 @@
       "lng": 127.04455,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-amitie",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/lamitie",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Amiti%C3%A9&keywordSearch=L%27Amiti%C3%A9",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/lamitie",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Amiti%C3%A9&keywordSearch=L%27Amiti%C3%A9",
       "naverMapUrl": "https://map.naver.com/p/search/L%27Amiti%C3%A9%202F%2C%2030%20Dosan-daero%2067-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006015%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04455,37.52591,L%27Amiti%C3%A9/walk?c=15.00,0,0,0,dh",
       "summary": "장명식 셰프는 2006년부터 자신 있게 준비한 프랑스 요리로 손님들을 맞이해 왔습니다. 밝고 바람이 잘 통하는 2층 객실은 친밀하고 편안한 환경을 제공하며, 잘 짜여진 서빙팀은 모두를 잘 보살펴줍니다. 세트 메뉴는 계절에 맞는 요리를 균형 있게 배열하여 제공되며, 모두 다채롭고 매력적으로 표현됩니다.",
@@ -1221,8 +1199,7 @@
       "occasions": [
         "date"
       ],
-      "amenities": [],
-      "catchtableShop": "lamitie"
+      "amenities": []
     },
     {
       "id": "le-dorer",
@@ -1250,9 +1227,9 @@
       "lng": 129.14665,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/le-dorer",
       "websiteUrl": "https://www.ledorer.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/ledorer",
+      "bookingUrl": "https://www.ledorer.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/ledorer",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Le%20DORER&keywordSearch=Le%20DORER",
       "naverMapUrl": "https://map.naver.com/p/search/Le%20DORER%202F%2C%2037%20Marine%20city%203-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048118%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.14665,35.15543,Le%20DORER/walk?c=15.00,0,0,0,dh",
       "summary": "부산 출신의 젊은 셰프가 이끄는 르 도레(Le DORER)는 현지 제철 식재료를 중심으로 전통 한식의 정수를 현대적으로 재해석한 테이스팅 메뉴를 선보입니다. 원래는 한식당이었는데, 프랑스와 일본식 기법의 영향을 받아 현대적인 스타일로 발전했습니다. 작은 골목을 지나면 탁 트인 바다 전망을 감상할 수 있는 주류 밀매점 같은 다이닝룸으로 들어갑니다.",
@@ -1266,8 +1243,7 @@
         "private-room",
         "parking",
         "wine"
-      ],
-      "catchtableShop": "ledorer"
+      ]
     },
     {
       "id": "légume",
@@ -1337,9 +1313,9 @@
       "lng": 129.161301,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/mori",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/mori",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mori&keywordSearch=Mori",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/mori",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mori&keywordSearch=Mori",
       "naverMapUrl": "https://map.naver.com/p/search/Mori%20Unit%23%20311%2C%203F%2C%20LEEIN%3A%20VIEW%202%20Commercial%20Building%2C%2021%20Gunam-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048095%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.161301,35.163577,Mori/walk?c=15.00,0,0,0,dh",
       "summary": "일본에서 훈련받은 한국인 셰프와 그의 일본인 아내가 공동 소유한 모리(Mori)는 눈과 입을 모두 즐겁게 해줄 정통 일식 가이세키 요리를 선보입니다. 김완규 셰프는 부산의 신선한 해산물과 제철 농산물을 사용해 섬세한 요리를 만듭니다. 그는 재료의 완벽한 조화와 모리의 코스 요리를 특징짓는 잘 조절된 리듬감으로 표현되는 비교할 수 없는 요리 균형 감각을 가지고 있습니다.",
@@ -1349,8 +1325,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "mori"
+      ]
     },
     {
       "id": "muni",
@@ -1379,9 +1354,9 @@
       "lng": 127.04545,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/muni",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/muni",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Muni&keywordSearch=Muni",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/muni",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Muni&keywordSearch=Muni",
       "naverMapUrl": "https://map.naver.com/p/search/Muni%2016%20Dosan-daero%2072-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006063%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04545,37.52291,Muni/walk?c=15.00,0,0,0,dh",
       "summary": "Muni는 절제된 입구와 긴 카운터를 중심으로 한 미니멀한 디자인이 특징인 세련된 일식 레스토랑입니다. 개방형 주방 뒤에 있는 선반에는 셰프가 세심하게 수집한 도자기가 전시되어 공간에 개인적이고 엄선된 느낌을 더해줍니다. 김동욱 셰프는 전통 가이세키 요리에 엄격하게 집착하지 않지만, 제철 식재료와 우아한 연출을 통해 그 감성을 자연스럽게 녹여낸다.",
@@ -1391,8 +1366,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "muni"
+      ]
     },
     {
       "id": "muoki",
@@ -1419,9 +1393,9 @@
       "lng": 127.04222,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/muoki",
       "websiteUrl": "https://www.muoki.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/muoki",
+      "bookingUrl": "https://www.muoki.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/muoki",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Muoki&keywordSearch=Muoki",
       "naverMapUrl": "https://map.naver.com/p/search/Muoki%202F%2C%2012-12%20Hakdong-ro%2055-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006065%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04222,37.51896,Muoki/walk?c=15.00,0,0,0,dh",
       "summary": "대규모 셰프 팀이 있는 높은 오픈 키친은 박무현 셰프의 스타일리시한 레스토랑의 식사 경험에 작은 극장을 더해줍니다. 똑똑하고 숙련된 서버 팀이 식사를 안내해 드립니다. 세트 메뉴는 풍미 조합이 보완적인 요리와 메이크업이 더욱 혁신적이고 예상치 못한 요리를 혼합하여 미뢰에 도전합니다.",
@@ -1429,8 +1403,7 @@
       "occasions": [
         "date"
       ],
-      "amenities": [],
-      "catchtableShop": "muoki"
+      "amenities": []
     },
     {
       "id": "palate",
@@ -1457,9 +1430,9 @@
       "lng": 129.17844,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/palate",
       "websiteUrl": "https://www.palatebusan.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/palate",
+      "bookingUrl": "https://www.palatebusan.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/palate",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Palate&keywordSearch=Palate",
       "naverMapUrl": "https://map.naver.com/p/search/Palate%203F%2C%20154%20Dalmaji-gil%2065%20beon-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048576%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.17844,35.15659,Palate/walk?c=15.00,0,0,0,dh",
       "summary": "Palate는 자유롭고 모험적인 스타일의 현대 프랑스 요리를 제공합니다. 감각적인 요리는 김재훈 셰프가 경험한 요리의 다양성을 바탕으로 합니다. 고향인 부산에서 과감하게 이 식당을 오픈한 이후, 셰프는 레스토랑의 컨셉에 신선함을 더하며 다양한 미식에 도전해 왔습니다.",
@@ -1469,8 +1442,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "palate"
+      ]
     },
     {
       "id": "san",
@@ -1498,9 +1470,9 @@
       "lng": 127.03391,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/san",
       "websiteUrl": "https://restaurantsan.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/san",
+      "bookingUrl": "https://restaurantsan.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/san",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=SAN&keywordSearch=SAN",
       "naverMapUrl": "https://map.naver.com/p/search/SAN%20B1%2C%206%20Eonju-ro%20168-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006020%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03391,37.52631,SAN/walk?c=15.00,0,0,0,dh",
       "summary": "SAN은 현대적인 요리와 창의적인 감각을 결합합니다. 제철 재료의 맛이 강조되고 소스와 짝을 이루어 복잡함과 절제된 균형을 이룹니다. 랍스터 젓갈과 참외 동치미는 조성현 셰프의 상상력이 돋보이는 음식이다.",
@@ -1511,8 +1483,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "san"
+      ]
     },
     {
       "id": "solbam",
@@ -1539,9 +1510,9 @@
       "lng": 127.03411,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/solbam",
       "websiteUrl": "https://restaurantsolbam.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/solbam_restaurant",
+      "bookingUrl": "https://restaurantsolbam.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/solbam_restaurant",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Solbam&keywordSearch=Solbam",
       "naverMapUrl": "https://map.naver.com/p/search/Solbam%202F%2C%20231%20Hakdong-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006053%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03411,37.51575,Solbam/walk?c=15.00,0,0,0,dh",
       "summary": "솔밤에서의 저녁은 분위기 있는 응접실에서 음료와 스낵으로 시작하여 개방형 주방이 있는 밝고 넓은 식사 공간으로 안내됩니다. 오너 엄태준 셰프의 풍부한 경험과 기술력은 특히 한국 최고의 제철 농산물과 잘 어울립니다. 콜리플라워를 곁들인 대게, 죽순을 곁들인 전복, 달래를 곁들인 한우 등 요리는 종종 독창적이고 인상적이며 격식을 갖춘 서비스 팀이 연극적인 느낌을 가미하여 선보입니다.",
@@ -1552,8 +1523,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "solbam_restaurant"
+      ]
     },
     {
       "id": "soseoul-hannam",
@@ -1622,9 +1592,9 @@
       "lng": 126.98443,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soul-dining",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/souldining",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Soul&keywordSearch=Soul",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/souldining",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Soul&keywordSearch=Soul",
       "naverMapUrl": "https://map.naver.com/p/search/Soul%20B1%2C%2035%20Sinheung-ro%2026-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004337%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.98443,37.54533,Soul/walk?c=15.00,0,0,0,dh",
       "summary": "서울의 고풍스러운 지역에 위치한 이 레스토랑은 스타일리시한 파인 다이닝에 대한 윤대현 셰프의 대담한 실험입니다. 이곳에서는 현대 한국에서 접할 수 있는 다양한 요리 전통과 재료가 일상 생활에서 발견되는 친숙한 맛과 만나 독특한 퓨전 창작물을 형성합니다. 식당 이름이 내포하는 많은 의미 중에는 영혼을 담아 음식을 제공하려는 셰프의 열망이 담겨 있으며, 이는 모든 요리에서 뚜렷이 드러납니다.",
@@ -1634,8 +1604,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "souldining"
+      ]
     },
     {
       "id": "sushi-kanesaka",
@@ -1709,9 +1678,9 @@
       "lng": 127.04573,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sushi-matsumoto-1195338",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/sushi_matsumoto",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sushi%20Matsumoto&keywordSearch=Sushi%20Matsumoto",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/sushi_matsumoto",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sushi%20Matsumoto&keywordSearch=Sushi%20Matsumoto",
       "naverMapUrl": "https://map.naver.com/p/search/Sushi%20Matsumoto%2024%20Dosan-daero%2075-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006015%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04573,37.52535,Sushi%20Matsumoto/walk?c=15.00,0,0,0,dh",
       "summary": "마츠모토 미즈호 셰프는 현지 환경에서 정통성을 재현하는 것으로 유명합니다. 이 스시야는 미식 트렌드를 쫓기보다는 한국 환경 속에서 일본 본토의 정통 스시를 충실히 재현하기 위해 노력하고 있습니다. 샤리(밥)와 네타(생선 토핑)의 구성과 배치부터 해박한 서비스까지, 그러한 노력은 틀림없습니다.",
@@ -1721,8 +1690,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "sushi_matsumoto"
+      ]
     },
     {
       "id": "tutoiement",
@@ -1749,9 +1717,9 @@
       "lng": 127.0666,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/tutoiement",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/tutoiement",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Tutoiement&keywordSearch=Tutoiement",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/tutoiement",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Tutoiement&keywordSearch=Tutoiement",
       "naverMapUrl": "https://map.naver.com/p/search/Tutoiement%2020%20Gwangnaru-ro%2011-gil%2C%20Seongdong-gu%2C%20Seoul%2C%2004801%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0666,37.54969,Tutoiement/walk?c=15.00,0,0,0,dh",
       "summary": "투투아망이라는 이름은 '친절하고 격식을 차리지 않고 이야기하다'라는 뜻으로, 음식을 통해 손님들과 자연스럽게 소통하고 싶은 김도현 셰프의 마음을 반영한 것입니다. 흥미롭게도 이러한 여유로운 접근 방식과 달리, 정교하게 조리된 세련된 프랑스 요리는 음식에 확고한 초점을 맞추며 오감을 사로잡습니다. 셰프는 각 재료의 미묘한 맛, 식감, 뉘앙스를 세심하게 표현하고, 재료와 함께 제공되는 소스의 조화를 강조하기 위해 요리를 플레이팅합니다.",
@@ -1759,8 +1727,7 @@
       "occasions": [
         "date"
       ],
-      "amenities": [],
-      "catchtableShop": "tutoiement"
+      "amenities": []
     },
     {
       "id": "vinho",
@@ -1789,9 +1756,9 @@
       "lng": 127.03814,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/vinho",
       "websiteUrl": "https://www.restaurantvinho.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/vinho",
+      "bookingUrl": "https://www.restaurantvinho.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/vinho",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=VINHO&keywordSearch=VINHO",
       "naverMapUrl": "https://map.naver.com/p/search/VINHO%20%23162%20Wellstone%20Bldg%2C%2038%20Hakdong-ro%2043-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006059%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03814,37.51866,VINHO/walk?c=15.00,0,0,0,dh",
       "summary": "인더스트리얼 스타일의 천장 아래 어두운 톤의 카운터가 개방형 주방을 감싸고 있어 손님들이 각 요리의 모양을 가까이에서 관찰할 수 있습니다. 밝고 경쾌한 음악과 팀의 여유로운 서비스는 편안하면서도 세련된 분위기를 조성합니다. 공동 오너인 전성빈 셰프는 유명 주방의 경험을 바탕으로 한국 전통과 현대 기술, 개인적인 해석이 어우러진 계절 메뉴를 선보입니다.",
@@ -1802,8 +1769,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "vinho"
+      ]
     },
     {
       "id": "yun",
@@ -1831,9 +1797,9 @@
       "lng": 127.03906,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yun",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yunseoul",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=YUN&keywordSearch=YUN",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yunseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=YUN&keywordSearch=YUN",
       "naverMapUrl": "https://map.naver.com/p/search/YUN%20805%20Seolleung-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006019%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03906,37.52416,YUN/walk?c=15.00,0,0,0,dh",
       "summary": "김도윤 셰프 오너는 재료에 대한 열정이 뚜렷하고, 국수에 대한 남다른 애정을 갖고 있는 분이다. 카운터에서는 운이 좋게도 예약을 한 사람들이 요리가 만들어지는 모습을 지켜보고 멀티 코스 세트 메뉴를 구성하는 생선과 고기에 깊이 있는 맛과 대조되는 질감을 더하는 데 사용되는 숙성, 발효 및 건조 기술에 대한 자세한 설명을 들을 수 있는 운이 좋은 사람들을 허용합니다. 끊임없이 배우고 발전하는 셰프의 요리입니다.",
@@ -1843,8 +1809,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "yunseoul"
+      ]
     },
     {
       "id": "yu-yuan",
@@ -1914,9 +1879,9 @@
       "lng": 126.99285,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/zero-complex",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/zerocomplex",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Zero%20Complex&keywordSearch=Zero%20Complex",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/zerocomplex",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Zero%20Complex&keywordSearch=Zero%20Complex",
       "naverMapUrl": "https://map.naver.com/p/search/Zero%20Complex%2011-8%20Seobinggo-ro%2059-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004384%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.99285,37.52079,Zero%20Complex/walk?c=15.00,0,0,0,dh",
       "summary": "제로컴플렉스는 오픈 이후 지속적으로 성분에 대한 혁신적인 해석을 선보여 왔습니다. 두 번이나 이전했지만 요리의 맛과 창의성은 한 번도 흔들리지 않았습니다. 이 레스토랑은 시그니처 요리 중 하나인 쫄깃한 보리, 미역 스파게티, 미역 쥐를 곁들인 태평양 지오리를 통해 유쾌하고 탄력 있는 식감과 풍부하고 스모키한 미역 맛을 선보입니다.",
@@ -1926,8 +1891,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "zerocomplex"
+      ]
     },
     {
       "id": "yeast",
@@ -1955,9 +1919,9 @@
       "lng": 127.03556,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/y-east",
       "websiteUrl": "https://www.yeastseoul.co.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yeastseoul",
+      "bookingUrl": "https://www.yeastseoul.co.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yeastseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=y%27east&keywordSearch=y%27east",
       "naverMapUrl": "https://map.naver.com/p/search/y%27east%203F%2C%2026-6%20Eonju-ro%20170-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006017%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03556,37.5263,y%27east/walk?c=15.00,0,0,0,dh",
       "summary": "y'east는 이름에서 알 수 있듯이 무한한 요리 가능성을 제공하는 곳입니다. 조영동 셰프는 자신만의 미학으로 재해석된 친숙한 요리로 손님들을 즐겁게 합니다. 국내에서는 구하기 힘든 재료들을 예술적으로 블렌딩해 새로운 맛을 창조하는 데 열정을 쏟는다.",
@@ -1967,8 +1931,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "yeastseoul"
+      ]
     },
     {
       "id": "sushi-cho",
@@ -2029,9 +1992,9 @@
       "lng": 126.97345,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/onjium",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Onjium&keywordSearch=Onjium",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=%EC%98%A8%EC%A7%80%EC%9D%8C&keywordSearch=%EC%98%A8%EC%A7%80%EC%9D%8C",
       "naverMapUrl": "https://map.naver.com/p/search/%EC%98%A8%EC%A7%80%EC%9D%8C%204F%2C%2049%20Hyoja-ro%2C%20Jongno-gu%2C%20Seoul%2C%2003043%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97345,37.58048,%EC%98%A8%EC%A7%80%EC%9D%8C/walk?c=15.00,0,0,0,dh",
       "summary": "경복궁 돌담 길 건너편에 위치한 온지움은 한국의 전통 미학과 현대 건축의 차분함을 조화롭게 이루고 있습니다. 궁중요리 전문가 조은희, 박성배가 이끄는 요리팀은 현대적인 기술과 제철 재료, 다년간의 연구를 통해 한국의 전통 맛을 재해석합니다. 각 요리는 역사에 뿌리를 두고 있지만 오늘날의 입맛에도 잘 맞습니다.",
@@ -2041,8 +2004,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "onjiumrestaurant"
+      ]
     },
     {
       "id": "poom",
@@ -2249,9 +2211,9 @@
       "lng": 126.98446,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/anam",
       "websiteUrl": "https://www.anaminanguk.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/anam_jongro",
+      "bookingUrl": "https://www.anaminanguk.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/anam_jongro",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ANAM&keywordSearch=ANAM",
       "naverMapUrl": "https://map.naver.com/p/search/ANAM%2010%20Bukchon-ro%205-gil%2C%20Jongno-gu%2C%20Seoul%2C%2003055%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.98446,37.57939,ANAM/walk?c=15.00,0,0,0,dh",
       "summary": "북촌마을에 위치한 이 소박한 식당에서는 돼지고기 국밥이 중간 크기와 고기 추가 크기로 제공됩니다. 깨끗한 국물 위에 청양고추와 케일을 넣어 만든 특제 오일을 뿌리면 독특한 비주얼과 풍성하고 조화로운 맛이 난다. 요리를 보완하는 스페인산 듀록 아기 돼지 갈비와 돼지 엉덩이의 얇은 조각은 매우 부드럽고 섬세한 맛을 자랑하며 미식 경험을 더욱 향상시킵니다.",
@@ -2261,8 +2223,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "anam_jongro"
+      ]
     },
     {
       "id": "arp",
@@ -2286,9 +2247,9 @@
       "lng": 129.04258,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/arp",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/arpkitchen",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ARP&keywordSearch=ARP",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/arpkitchen",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ARP&keywordSearch=ARP",
       "naverMapUrl": "https://map.naver.com/p/search/ARP%2035%20Taejong-ro%2099%20beon-gil%2C%20Yeongdo-gu%2C%20Busan%2C%2049035%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.04258,35.09293,ARP/walk?c=15.00,0,0,0,dh",
       "summary": "ARP는 100% 비건 메뉴를 제공합니다. 'Around Plants'의 약자인 이 식당의 이름은 둥근 지구의 윤리적인 식탁과 채식 요리의 무한한 가능성을 상징합니다. 이곳에서 고객들은 집에서 만든 막걸리와 함께 고기가 아닌 다양한 요리를 즐길 수 있습니다.",
@@ -2298,8 +2259,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "arpkitchen"
+      ]
     },
     {
       "id": "andeok",
@@ -2325,9 +2285,9 @@
       "lng": 126.96969,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/andeok",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/andeok",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Andeok&keywordSearch=Andeok",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/andeok",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Andeok&keywordSearch=Andeok",
       "naverMapUrl": "https://map.naver.com/p/search/Andeok%2018%20Jahamun-ro%2017-gil%2C%20Jongno-gu%2C%20Seoul%2C%2003035%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.96969,37.58143,Andeok/walk?c=15.00,0,0,0,dh",
       "summary": "안덕은 쇠고기냉국수와 만둣국이 유명하다. 이곳의 물국수는 평양냉면과 비슷하지만 메밀 함량이 높아 면이 더 부드럽고 쫄깃쫄깃합니다. 깔끔하고 담백한 국물에 살짝 양념한 쇠고기가 어우러져 씹을 때마다 깊고 구수한 맛을 선사합니다.",
@@ -2337,8 +2297,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "andeok"
+      ]
     },
     {
       "id": "anmok",
@@ -2365,9 +2324,9 @@
       "lng": 129.11076,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/anmok",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/anmok_busanstation",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Anmok&keywordSearch=Anmok",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/anmok_busanstation",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Anmok&keywordSearch=Anmok",
       "naverMapUrl": "https://map.naver.com/p/search/Anmok%203%20Gwangnam-ro%2022%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048307%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.11076,35.14492,Anmok/walk?c=15.00,0,0,0,dh",
       "summary": "돼지국밥에 대한 안목의 독특한 해석은 그 요리에 대한 기억을 뛰어넘는 참신한 맛과 매력으로 고객을 놀라게 할 수 있습니다. 수프는 단지 틀에 얽매이지 않습니다. 감사의 표시로 고개를 끄덕이게 될 것입니다.",
@@ -2377,8 +2336,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "anmok_busanstation"
+      ]
     },
     {
       "id": "bao-haus",
@@ -2405,9 +2363,9 @@
       "lng": 129.06335,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/bao-haus",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/baohaus",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Bao%20Haus&keywordSearch=Bao%20Haus",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/baohaus",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Bao%20Haus&keywordSearch=Bao%20Haus",
       "naverMapUrl": "https://map.naver.com/p/search/Bao%20Haus%2062-9%20Seojeon-ro%2038%20beon-gil%2C%20Busanjin-gu%2C%20Busan%2C%2047294%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.06335,35.15488,Bao%20Haus/walk?c=15.00,0,0,0,dh",
       "summary": "Baohaus는 정통성과 셰프의 개인적인 손길을 모두 강조하는 간단하고 접근하기 쉬운 요리를 선보이는 캐주얼한 대만풍 요리를 선보입니다. 메뉴는 찐 바오, 루러우팬(간장으로 끓인 삼겹살 밥), 마파두부, 바삭한 유샹 가지 등 마음을 편안하게 해주는 요리를 중심으로 구성됩니다. 친숙하면서도 이국적인 느낌을 주는 음식은 즐기기 쉽고 세심하게 준비되어 있습니다.",
@@ -2417,8 +2375,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "baohaus"
+      ]
     },
     {
       "id": "base-is-nice",
@@ -2444,9 +2401,9 @@
       "lng": 126.94908,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/base-is-nice",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/baseisnice",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Base%20is%20nice&keywordSearch=Base%20is%20nice",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/baseisnice",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Base%20is%20nice&keywordSearch=Base%20is%20nice",
       "naverMapUrl": "https://map.naver.com/p/search/Base%20is%20nice%2020%20Dohwa%202-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004171%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.94908,37.53958,Base%20is%20nice/walk?c=15.00,0,0,0,dh",
       "summary": "Base is Nice는 야채를 중심 무대로 삼습니다. 식사는 일반 현지 농산물을 사용하여 만든 한식의 기본 구조를 따르며, 편안함과 건강에 좋은 맛으로 단골 손님을 끌어 모으고 있습니다. 레스토랑은 \"느린 생활의 예술\"을 구현합니다.",
@@ -2456,8 +2413,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "baseisnice"
+      ]
     },
     {
       "id": "bibijae",
@@ -2519,9 +2475,9 @@
       "lng": 129.16298,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/buda-myeonoak",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/buda_myeonoak",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Buda%20Myeonoak&keywordSearch=Buda%20Myeonoak",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/buda_myeonoak",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Buda%20Myeonoak&keywordSearch=Buda%20Myeonoak",
       "naverMapUrl": "https://map.naver.com/p/search/Buda%20Myeonoak%202F%2C%2036%20Jungdong%201-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048095%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.16298,35.16237,Buda%20Myeonoak/walk?c=15.00,0,0,0,dh",
       "summary": "2021년 해운대해수욕장 인근으로 이전한 부다면오악은 100% 메밀가루로 만든 평양냉면을 맛볼 수 있는 곳이다. 순하고 감칠맛이 풍부한 국물과 함께 제공되는 국수는 기분 좋게 쫄깃쫄깃해 씹을 때마다 고소한 풍미가 더해집니다. 맛과 질감을 모두 향상시키기 위해 원하는 고명을 선택하여 얹어 한 입 먹을 때마다 이전보다 더 만족스러운 식사를 만들어 보세요.",
@@ -2531,8 +2487,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "buda_myeonoak"
+      ]
     },
     {
       "id": "cor-pasta-bar",
@@ -2558,9 +2513,9 @@
       "lng": 129.06769,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/cor-pasta-bar",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/cor_pasta_bar",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Cor%20Pasta%20bar&keywordSearch=Cor%20Pasta%20bar",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/cor_pasta_bar",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Cor%20Pasta%20bar&keywordSearch=Cor%20Pasta%20bar",
       "naverMapUrl": "https://map.naver.com/p/search/Cor%20Pasta%20bar%202F%2C%2013%20Dongseong-ro%2025%20beon-gil%2C%20Busanjin-gu%2C%20Busan%2C%2047305%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.06769,35.15264,Cor%20Pasta%20bar/walk?c=15.00,0,0,0,dh",
       "summary": "부산 전포동 트렌디한 골목 2층에 코르 파스타 바가 있습니다. 이 레스토랑은 셰프들로 북적이는 오픈형 주방과 10명 남짓한 손님이 앉을 수 있는 카운터석으로 손님들을 맞이합니다. Cor Pasta Bar에서는 다양한 집에서 만든 파스타 요리를 선보입니다.",
@@ -2571,8 +2526,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "cor_pasta_bar"
+      ]
     },
     {
       "id": "daesungjip",
@@ -2637,9 +2591,9 @@
       "lng": 126.91512,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/damtaek",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/damtaek_",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Damtaek&keywordSearch=Damtaek",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/damtaek_",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Damtaek&keywordSearch=Damtaek",
       "naverMapUrl": "https://map.naver.com/p/search/Damtaek%2051%20Donggyo-ro%2012an-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004029%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.91512,37.55448,Damtaek/walk?c=15.00,0,0,0,dh",
       "summary": "담택은 합정역 근처 조용한 골목에 자리잡은 아늑한 작은 라멘집입니다. 조원현 셰프는 의도적으로 빈티지한 소품들로 이 고풍스러운 공간을 장식했습니다. 레스토랑의 시오 라멘과 동일한 수프 베이스를 사용하는 다양한 변형 요리는 집처럼 편안하고 소박한 분위기와 극명한 대조를 이룹니다.",
@@ -2649,8 +2603,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "damtaek_"
+      ]
     },
     {
       "id": "gaeseong-mandu-koong",
@@ -2792,9 +2745,9 @@
       "lng": 127.0188926,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/ggupdang",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/ggupdang_jamsil",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Ggupdang&keywordSearch=Ggupdang",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/ggupdang_jamsil",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Ggupdang&keywordSearch=Ggupdang",
       "naverMapUrl": "https://map.naver.com/p/search/Ggupdang%20615%20Gangnam-daero%2C%20Seocho-gu%2C%20Seoul%2C%2006524%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0188926,37.5166307,Ggupdang/walk?c=15.00,0,0,0,dh",
       "summary": "신사역 근처에 위치한 이 레스토랑은 15일 동안 숙성시킨 돼지고기 엉덩이를 특수 제작된 알루미늄 화격자에 비장탄 숯 위에 올려 빠르게 구워내는 전문점입니다. 이 조리 방법 덕분에 고기는 지방이 많고 부드럽고 육즙이 풍부합니다. 초밥의 경우처럼 일본 컨설턴트 셰프가 고안한 레시피로 만든 밥과 고추냉이를 함께 먹으면 육즙이 밥에 흡수되어 더욱 부드러워진다.",
@@ -2804,8 +2757,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "ggupdang_jamsil"
+      ]
     },
     {
       "id": "gomtang-lab",
@@ -2873,9 +2825,9 @@
       "lng": 127.02001,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gosari-express",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/gosari_express",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Gosari%20Express&keywordSearch=Gosari%20Express",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/gosari_express",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Gosari%20Express&keywordSearch=Gosari%20Express",
       "naverMapUrl": "https://map.naver.com/p/search/Gosari%20Express%2012-10%2C%20Toegye-ro%2085-gil%2C%20Jung-gu%2C%20Seoul%2C%2004576%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.02001,37.56626,Gosari%20Express/walk?c=15.00,0,0,0,dh",
       "summary": "신당동 중앙시장의 빨간 차양 아래 자리잡은 고사리익스프레스는 동네의 노포 맛집 중 단연 돋보이는 곳이다. '매일 채식'을 모토로 식물성 기반의 식사에 유쾌한 접근 방식을 취합니다. 매콤한 비빔면부터 달콤하고 톡 쏘는 고사리칠리 소스를 얹은 대만식 팬케이크까지 모든 요리에 이 레스토랑의 시그니처 고사리 오일 소스가 사용됩니다.",
@@ -2885,8 +2837,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "gosari_express"
+      ]
     },
     {
       "id": "horapa",
@@ -2913,9 +2864,9 @@
       "lng": 126.9711,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/horapa",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=HORAPA&keywordSearch=HORAPA",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=HORAPA&keywordSearch=HORAPA",
       "naverMapUrl": "https://map.naver.com/p/search/HORAPA%202F%2C%2037-1%20Jahamun-ro%2C%20Jongno-gu%2C%20Seoul%2C%2003040%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.9711,37.57938,HORAPA/walk?c=15.00,0,0,0,dh",
       "summary": "태국어로 \"태국 바질\"을 의미하는 호라파. 메뉴는 단순하지만 각 요리는 놀라울 정도로 깊은 맛을 선사합니다. 남토케트는 숯불에 구운 버섯과 향긋한 허브, 구운 쌀가루를 넣어 만든 매콤한 샐러드로 쫄깃한 식감이 좋습니다.",
@@ -2926,8 +2877,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "horapaseoul"
+      ]
     },
     {
       "id": "haemok",
@@ -2953,9 +2903,9 @@
       "lng": 129.15977,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/haemok",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/haemok_haeundae",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Haemok&keywordSearch=Haemok",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/haemok_haeundae",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Haemok&keywordSearch=Haemok",
       "naverMapUrl": "https://map.naver.com/p/search/Haemok%208%20Gunam-ro%2024%20beon-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048094%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.15977,35.16174,Haemok/walk?c=15.00,0,0,0,dh",
       "summary": "관광객과 현지 단골 모두에게 인기가 높은 해목에서는 부담 없이 즐길 수 있는 일식 요리를 선보입니다. 푸른 울타리와 설명할 수 없을 만큼 이국적인 건물이 이 장소를 동네에서 눈에 띄게 만드는 분위기를 만들어냅니다. 나무를 바탕으로 한 장식과 다다미 바닥도 이국적인 분위기를 더해줍니다.",
@@ -2965,8 +2915,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "haemok_haeundae"
+      ]
     },
     {
       "id": "halmaejip",
@@ -3030,9 +2979,9 @@
       "lng": 129.11854,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/hanwolgwan",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/hanwolgwan",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Hanwolgwan&keywordSearch=Hanwolgwan",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/hanwolgwan",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Hanwolgwan&keywordSearch=Hanwolgwan",
       "naverMapUrl": "https://map.naver.com/p/search/Hanwolgwan%2010%20Gwangan-ro%2062%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048303%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.11854,35.15469,Hanwolgwan/walk?c=15.00,0,0,0,dh",
       "summary": "한월관의 곰탕 한 그릇은 재료에 대한 자부심과 최고의 맛을 이끌어내기 위한 깊은 집념이 아낌없이 담겨 나옵니다. 한월관은 한우만을 사용하여 육수에 은은한 쇠고기 향을 더해줍니다. 맑은 고기육수와 진한 사골육수 중 선택할 수 있으며, 양지머리, 목살, 무릎관절 등 다양한 부위의 쇠고기를 얹어 곰탕 한 그릇에서 다양한 한우 맛을 경험할 수 있습니다.",
@@ -3042,8 +2991,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "hanwolgwan"
+      ]
     },
     {
       "id": "hapcheon-gukbapjip",
@@ -3466,9 +3414,9 @@
       "lng": 127.04762,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kyewol-gomtang",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/kyewol_seoul",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kyewol&keywordSearch=Kyewol",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/kyewol_seoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kyewol&keywordSearch=Kyewol",
       "naverMapUrl": "https://map.naver.com/p/search/Kyewol%208%20Seongdeokjeong%203-gil%2C%20Seongdong-gu%2C%20Seoul%2C%2004774%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04762,37.53952,Kyewol/walk?c=15.00,0,0,0,dh",
       "summary": "트렌디한 성수 근처에 위치한 한식 닭곰탕 전문점으로 특히 젊은층에게 인기가 높습니다. 따뜻한 밥 위에 살짝 익힌 닭가슴살을 데친 배추와 함께 얹고, 맑고 정제된 육수로 마무리해 깔끔하면서도 깊은 맛이 일품이다. 점심에는 매콤한 치킨 샐러드와 횃불구이 된장 등 반찬을 합리적인 가격으로 즐길 수 있으며, 여름에는 냉면도 맛볼 수 있다.",
@@ -3478,8 +3426,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "kyewol_seoul"
+      ]
     },
     {
       "id": "kyodaiya",
@@ -3656,9 +3603,9 @@
       "lng": 127.05065,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mattdol",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/mattdolseongsu",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mattdol&keywordSearch=Mattdol",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/mattdolseongsu",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mattdol&keywordSearch=Mattdol",
       "naverMapUrl": "https://map.naver.com/p/search/Mattdol%2063%20Seongdeokjeong-gil%2C%20Seongdong-gu%2C%20Seoul%2C%2004775%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.05065,37.53808,Mattdol/walk?c=15.00,0,0,0,dh",
       "summary": "이창윤 셰프는 모험심으로 꾸준히 기술을 연마해왔습니다. 토르티야에 대한 특별한 열정으로 그는 멕시코에서 배운 방법을 사용하여 마사를 반죽하고 만드는 모습을 자주 볼 수 있습니다. Mattdol에서는 다른 요리 전통에 대한 그의 훈련이 한국의 제철 재료와 만나 안목 있는 식사자들에게 어필할 수 있는 독특한 멕시코 요리를 선보입니다.",
@@ -3668,8 +3615,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "mattdolseongsu"
+      ]
     },
     {
       "id": "mijin",
@@ -3736,9 +3682,9 @@
       "lng": 126.91419,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mipildam",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/mipildam",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mipildam&keywordSearch=Mipildam",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/mipildam",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mipildam&keywordSearch=Mipildam",
       "naverMapUrl": "https://map.naver.com/p/search/Mipildam%2022%20Seongji%203-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004083%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.91419,37.54658,Mipildam/walk?c=15.00,0,0,0,dh",
       "summary": "합정동에 위치한 미필담은 북한식 수제 만둣국을 전문으로 하는 소박하고 작은 곳이다. 젊은 주인 부부의 비법에 따라 만든 담백한 맛의 요리입니다. 통통하고 육즙이 풍부한 만두와 부드러운 국물의 완벽한 조합에 손님들은 쉽게 거부할 수 없습니다.",
@@ -3748,8 +3694,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "mipildam"
+      ]
     },
     {
       "id": "moemiljip",
@@ -3775,9 +3720,9 @@
       "lng": 129.14695,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/moemiljip",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/moemiljip_official",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Moemiljip&keywordSearch=Moemiljip",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/moemiljip_official",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Moemiljip&keywordSearch=Moemiljip",
       "naverMapUrl": "https://map.naver.com/p/search/Moemiljip%202F%2C%20Orange%20Plaza%2C%2023%20Marine%20city%203-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048118%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.14695,35.15663,Moemiljip/walk?c=15.00,0,0,0,dh",
       "summary": "100% 국내산 메밀을 사용하고, 직접 제분하여 면을 직접 뽑아 갓 만든 메밀면의 순수한 맛과 쫄깃한 식감을 느낄 수 있는 레스토랑입니다. 비빔메밀면이 매콤한 맛에 중점을 둔다면, 들기름과 냉메밀면은 은은한 메밀향을 살려 레스토랑이 강조하는 맛이다. 쫄깃쫄깃하고 부드러운 삶은 돼지고기 조각도 국수와 잘 어울립니다.",
@@ -3787,8 +3732,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "moemiljip_official"
+      ]
     },
     {
       "id": "myeon-seoul",
@@ -4009,9 +3953,9 @@
       "lng": 126.97473,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oilje",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/oilje_",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Oilje&keywordSearch=Oilje",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/oilje_",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Oilje&keywordSearch=Oilje",
       "naverMapUrl": "https://map.naver.com/p/search/Oilje%2029%20Hangang-daero%2062da-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004382%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97473,37.53254,Oilje/walk?c=15.00,0,0,0,dh",
       "summary": "오일제 단골손님은 들깨미역국 한 접시로 돌아옵니다. 깨끗한 육수와 고소한 들깨가 어우러져 깊은 맛이 나는 수프가 완성됩니다. 미역간장, 낙지젓갈, 갓김치 등 간단한 반찬이 갓 지은 밥과 함께 균형 잡힌 식사를 완성합니다.",
@@ -4021,8 +3965,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "oilje_"
+      ]
     },
     {
       "id": "okdol-heyonok",
@@ -4129,9 +4072,9 @@
       "lng": 126.91449,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/okdongsik",
       "websiteUrl": "https://www.okdongsik.net",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/okdongsik",
+      "bookingUrl": "https://www.okdongsik.net",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/okdongsik",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Okdongsik&keywordSearch=Okdongsik",
       "naverMapUrl": "https://map.naver.com/p/search/Okdongsik%2044-10%20Yanghwa-ro%207-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004035%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.91449,37.55261,Okdongsik/walk?c=15.00,0,0,0,dh",
       "summary": "옥동식은 곰탕을 연상시키는 담백하고 깔끔한 국물을 제공하며, 돼지국밥을 자신만의 세련된 방식으로 정의했습니다. 지리산에서 자란 토종 흑돼지 햄과 앞다리로 만든 육수는 은은하면서도 고급스러운 맛을 자랑합니다. 밥 위에 뜨거운 육수를 반복해서 붓는 토렴법으로 밥알 하나하나가 살아있어 요리의 깊이를 더해줍니다.",
@@ -4141,8 +4084,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "okdongsik"
+      ]
     },
     {
       "id": "oreno-ramen",
@@ -4169,9 +4111,9 @@
       "lng": 126.91781,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oreno-ramen",
       "websiteUrl": "https://www.orenoramen.co.kr/",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/oreno_ramen",
+      "bookingUrl": "https://www.orenoramen.co.kr/",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/oreno_ramen",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Oreno%20Ramen&keywordSearch=Oreno%20Ramen",
       "naverMapUrl": "https://map.naver.com/p/search/Oreno%20Ramen%2016%20Dongmak-ro%208-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004072%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.91781,37.54725,Oreno%20Ramen/walk?c=15.00,0,0,0,dh",
       "summary": "오레노 라멘은 서빙 직전에 국물을 섞어서 입안을 즐겁게 감싸는 거품이 나는 수프를 만들어냅니다. 닭고기를 통째로 끓여 만든 파이탄은 고소한 맛과 크리미한 질감을 지닌 우유빛 국물입니다. 직접 만든 국수와 입에서 살살 녹는 닭고기, 다시마, 계란이 어우러져 특별한 한 그릇을 완성합니다.",
@@ -4181,8 +4123,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "oreno_ramen"
+      ]
     },
     {
       "id": "pili-pili",
@@ -4365,9 +4306,9 @@
       "lng": 126.92267,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sarukame",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/sarukame",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sarukame&keywordSearch=Sarukame",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/sarukame",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sarukame&keywordSearch=Sarukame",
       "naverMapUrl": "https://map.naver.com/p/search/Sarukame%2015%20Yeonnam-ro%2C%20Mapo-gu%2C%20Seoul%2C%2003990%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.92267,37.56103,Sarukame/walk?c=15.00,0,0,0,dh",
       "summary": "사루카메는 현재 2대째 오너 셰프인 혼마 히로토가 운영하고 있습니다. 그는 독창적인 조리법을 보존함으로써 요리의 유산을 이어가고 있습니다. 이러한 노력은 그의 미식 감각과 요식업에서의 국제적 경험과 결합되어 이 식당에 새로운 서사적 층위를 더하고 있습니다.",
@@ -4377,8 +4318,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "sarukame"
+      ]
     },
     {
       "id": "seokyonanmyunbang",
@@ -4442,9 +4382,9 @@
       "lng": 126.97546,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoryung",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/seoryung",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Seoryung&keywordSearch=Seoryung",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/seoryung",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Seoryung&keywordSearch=Seoryung",
       "naverMapUrl": "https://map.naver.com/p/search/Seoryung%2010%20Sowol-ro%2C%20Jung-gu%2C%20Seoul%2C%2004527%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97546,37.55857,Seoryung/walk?c=15.00,0,0,0,dh",
       "summary": "서령은 홍천에서 여행을 시작해 강화를 거쳐 서울 남대문에 정착했다. 이 레스토랑은 이전한 곳마다 국수 애호가들의 관심을 끌었으며 정성을 다해 정통 국수와 국물을 준비함으로써 식당과의 관계를 지속적으로 확장해 왔습니다. 모든 면은 메밀로만 만들어 정종문 셰프가 직접 조리합니다.",
@@ -4454,8 +4394,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "seoryung"
+      ]
     },
     {
       "id": "shunsai-kubo",
@@ -4521,9 +4460,9 @@
       "lng": 127.01243,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sobakeeri-suzu",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/sobakeerisuzua",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sobakeeri%20Suzu&keywordSearch=Sobakeeri%20Suzu",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/sobakeerisuzua",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sobakeeri%20Suzu&keywordSearch=Sobakeeri%20Suzu",
       "naverMapUrl": "https://map.naver.com/p/search/Sobakeeri%20Suzu%2098%20Dongho-ro%2012-gil%2C%20Jung-gu%2C%20Seoul%2C%2004608%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.01243,37.55949,Sobakeeri%20Suzu/walk?c=15.00,0,0,0,dh",
       "summary": "일본에서 요리 기술을 연마한 오너 셰프는 한국의 메밀을 사용해 사랑받는 소바 전통을 재해석하기 위해 다시 돌아왔습니다. 주와리(juwari)나 니하치(nihachi)와 같은 전형적인 메밀 대 밀가루 비율을 따르는 대신, 요리사는 소토이치(sotoichi)를 선택했습니다. 소바는 은은한 곡물 향과 쫄깃한 식감이 특징입니다.",
@@ -4533,8 +4472,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "sobakeerisuzua"
+      ]
     },
     {
       "id": "songheonjip",
@@ -4560,9 +4498,9 @@
       "lng": 129.12146,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/songheonjip",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/songheonjip",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Songheonjip&keywordSearch=Songheonjip",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/songheonjip",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Songheonjip&keywordSearch=Songheonjip",
       "naverMapUrl": "https://map.naver.com/p/search/Songheonjip%2018%20Millak-ro%2019%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048285%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12146,35.15654,Songheonjip/walk?c=15.00,0,0,0,dh",
       "summary": "전통주와 국수를 중심으로 사업을 성공적으로 마친 오너 셰프가 이제 송헌집에서 떡갈비에 도전합니다. 두껍고 숯불에 구운 패티는 스모키하고 육즙이 풍부하며, 밥, 섬세한 반찬, 진한 된장찌개와 함께 제공됩니다. 개조된 2층 주택에 자리잡은 레스토랑은 1990년대 집의 아늑한 분위기를 연상시킵니다.",
@@ -4572,8 +4510,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "songheonjip"
+      ]
     },
     {
       "id": "subaru",
@@ -4837,9 +4774,9 @@
       "lng": 127.00108,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/youhan",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/youhan",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Youhan&keywordSearch=Youhan",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/youhan",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Youhan&keywordSearch=Youhan",
       "naverMapUrl": "https://map.naver.com/p/search/Youhan%2010-5%20Daesagwan-ro%205-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004400%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00108,37.53482,Youhan/walk?c=15.00,0,0,0,dh",
       "summary": "유한은 작고 세련된 태국식 비스트로입니다. 한남동 골목 깊숙한 곳에 숨어 있어 처음 방문하시는 분들은 찾기 어려울 수 있습니다. 태국에서 요리학교를 다녔던 김유한 셰프가 오픈한 이 레스토랑은 친숙한 요리에 창의적인 변형을 더해 선보입니다.",
@@ -4850,8 +4787,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "youhan"
+      ]
     },
     {
       "id": "yukjeon-hoekwan",
@@ -5166,9 +5102,9 @@
       "lng": 127.0073647,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/au-bouillon",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/aubouillon",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Au%20Bouillon&keywordSearch=Au%20Bouillon",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/aubouillon",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Au%20Bouillon&keywordSearch=Au%20Bouillon",
       "naverMapUrl": "https://map.naver.com/p/search/Au%20Bouillon%2029-1%20Dokseodang-ro%2051-gil%2C%20Seongdong-gu%2C%20Seoul%2C%2004718%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0073647,37.5311165,Au%20Bouillon/walk?c=15.00,0,0,0,dh",
       "summary": "오 부용(Au Bouillon)에 들어서면 프랑스의 좁은 골목길에 자리잡은 작은 레스토랑이 나옵니다. 레스토랑은 누군가의 집에서 식사하는 것처럼 따뜻하고 아늑한 느낌을 줍니다. 메뉴에는 정통 프랑스 요리가 모두 훌륭하게 구현되어 있습니다.",
@@ -5179,8 +5115,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "aubouillon"
+      ]
     },
     {
       "id": "bawi",
@@ -5207,16 +5142,15 @@
       "lng": 127.002542,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bawi",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/bawi_ssg",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Bawi&keywordSearch=Bawi",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/bawi_ssg",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Bawi&keywordSearch=Bawi",
       "naverMapUrl": "https://map.naver.com/p/search/Bawi%203F%2C%2016-9%20Itaewon-ro%2054-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004400%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.002542,37.5372571,Bawi/walk?c=15.00,0,0,0,dh",
       "summary": "Behind the understated façade lies an intimate, natural light-filled space, where metallic accents add a modern touch. The chef excels at transforming ingredients into diverse textures and forms, like delicate espuma and vibrant herbal oils. Every dish demonstrates precise cookin",
       "score": 18,
       "occasions": [],
-      "amenities": [],
-      "catchtableShop": "bawi_ssg"
+      "amenities": []
     },
     {
       "id": "bistrot-de-yountville",
@@ -5284,9 +5218,9 @@
       "lng": 127.05439,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bium",
       "websiteUrl": "https://biumseoul.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/bium",
+      "bookingUrl": "https://biumseoul.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/bium",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Bium&keywordSearch=Bium",
       "naverMapUrl": "https://map.naver.com/p/search/Bium%2041%20Hakdong-ro%2097-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006072%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.05439,37.52239,Bium/walk?c=15.00,0,0,0,dh",
       "summary": "김대춘 셰프의 비움은 한국 사찰음식에 대한 깊은 이해를 보여준다. 다이너스는 바쁜 일상에서 벗어나 차분하고 세련된 맛을 즐기며 이곳에서 고요한 탈출구를 찾습니다. 제철 현지 야채로 만든 그의 요리는 흙, 물, 불, 공기라는 불교의 네 가지 요소를 반영합니다.",
@@ -5294,8 +5228,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "bium"
+      ]
     },
     {
       "id": "bongmilga",
@@ -5321,9 +5254,9 @@
       "lng": 127.0424,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/bongmilga",
       "websiteUrl": "https://mbongmilga80ngq.zaemit.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/bongmilga",
+      "bookingUrl": "https://mbongmilga80ngq.zaemit.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/bongmilga",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Bongmilga&keywordSearch=Bongmilga",
       "naverMapUrl": "https://map.naver.com/p/search/Bongmilga%20664%20Seolleung-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006088%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0424,37.51598,Bongmilga/walk?c=15.00,0,0,0,dh",
       "summary": "메밀국수에 대한 깊은 열정을 지닌 셰프가 운영하는 봉밀가는 꼼꼼한 준비와 재료에 대한 엄격한 기준을 담고 있습니다. 집에서 만드는 배식초와 머스터드 소스, 매일매일 담가두는 무김치, 살짝 두툼한 손칼국수 등이 일반 냉면집과 차별화된다. 한우와 한약재를 넣고 5시간 정도 끓인 맑은 국물은 콩소메처럼 깔끔한 맛을 낸다.",
@@ -5333,8 +5266,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "bongmilga"
+      ]
     },
     {
       "id": "boreumsae",
@@ -5361,9 +5293,9 @@
       "lng": 127.056611,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/boreumsae",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/boreum_sae",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Boreumsae&keywordSearch=Boreumsae",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/boreum_sae",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Boreumsae&keywordSearch=Boreumsae",
       "naverMapUrl": "https://map.naver.com/p/search/Boreumsae%2036%20Teheran-ro%2081-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006167%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.056611,37.509328,Boreumsae/walk?c=15.00,0,0,0,dh",
       "summary": "보름새는 섬에서 운영하는 농장에서 사육되는 흑우(흑우)를 맛볼 수 있는 서울 유일의 곳입니다. 흑우는 맛이 더 가늘고 고소하기 때문에 식감이 훨씬 더 단단합니다. 소금만 살짝 뿌려도 묵직하고 고소한 맛이 입안을 가득 채웁니다.",
@@ -5374,8 +5306,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "boreum_sae"
+      ]
     },
     {
       "id": "borgo-hannam",
@@ -5401,16 +5332,15 @@
       "lng": 127.00187,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/borgo-hannam",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/borgo_hannam",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Borgo%20Hannam&keywordSearch=Borgo%20Hannam",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/borgo_hannam",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Borgo%20Hannam&keywordSearch=Borgo%20Hannam",
       "naverMapUrl": "https://map.naver.com/p/search/Borgo%20Hannam%203F%2C%2031%20Itaewon-ro%2054-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004400%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00187,37.53687,Borgo%20Hannam/walk?c=15.00,0,0,0,dh",
       "summary": "Once up the tiny set of stairs of Borgo Hannam, you will be greeted with homemade dishes and liqueurs befitting the cosy space. From the bread freshly baked in the morning to pastas and desserts, everything is handmade by Chef Stefano Di Salvo. The kitchen's signature Caldaro sou",
       "score": 18,
       "occasions": [],
-      "amenities": [],
-      "catchtableShop": "borgo_hannam"
+      "amenities": []
     },
     {
       "id": "born-and-bred",
@@ -5515,9 +5445,9 @@
       "lng": 127.03118,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip",
       "websiteUrl": "https://www.budnamujip.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/budnamujip",
+      "bookingUrl": "https://www.budnamujip.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/budnamujip",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Budnamujip&keywordSearch=Budnamujip",
       "naverMapUrl": "https://map.naver.com/p/search/Budnamujip%20434%20Hyoryeong-ro%2C%20Seocho-gu%2C%20Seoul%2C%2006729%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03118,37.48907,Budnamujip/walk?c=15.00,0,0,0,dh",
       "summary": "1977년부터 이어 온 가족 운영 고깃집으로, 한 집안의 3대가 함께 찾을 만큼 단골이 많습니다. 강남 일대에서 사랑받는 곳으로 갈비·등심·내장 등 소고기 부위만 다룹니다. 부드러운 고기의 풍미는 질 좋은 천일염만으로도 충분히 살아납니다.",
@@ -5528,8 +5458,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "budnamujip"
+      ]
     },
     {
       "id": "cantique",
@@ -5631,16 +5560,15 @@
       "lng": 127.03376,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chaconne",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/restaurant_chaconne",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Chaconne&keywordSearch=Chaconne",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/restaurant_chaconne",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Chaconne&keywordSearch=Chaconne",
       "naverMapUrl": "https://map.naver.com/p/search/Chaconne%201F%2C%20Building%20102%2C%20Yeoksam%20Hills%2C%2023%20Nonhyeon-ro%2097-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006131%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03376,37.50274,Chaconne/walk?c=15.00,0,0,0,dh",
       "summary": "조용한 곳에 자리잡은 Chaconne은 숨겨진 휴양지 같은 느낌을 줍니다. 한국의 제철 재료를 사용해 만든 음식은 프랑스 요리에 뿌리를 두고 있으며 셰프의 다양한 요리 여정을 반영하는 일본의 풍미가 가미되어 있습니다. 셰프의 특기는 다양한 과일을 사용하여 요리에 신맛과 단맛을 더하는 것입니다.",
       "score": 18,
       "occasions": [],
-      "amenities": [],
-      "catchtableShop": "restaurant_chaconne"
+      "amenities": []
     },
     {
       "id": "chaoran",
@@ -5669,9 +5597,9 @@
       "lng": 129.16988,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/chaoran",
       "websiteUrl": "https://www.lottehotel.com/busan-signiel/ko/dining/restaurant-chaoran",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/chaoran",
+      "bookingUrl": "https://www.lottehotel.com/busan-signiel/ko/dining/restaurant-chaoran",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/chaoran",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Chaoran&keywordSearch=Chaoran",
       "naverMapUrl": "https://map.naver.com/p/search/Chaoran%205F%20Signiel%2C%2030%20Dalmaji-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048099%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.16988,35.16021,Chaoran/walk?c=15.00,0,0,0,dh",
       "summary": "시그니엘 부산 ​​5층에 위치한 차오란은 도시의 다양한 문화적 영향을 받아 형성된 홍콩 스타일의 맛에 중점을 둔 정통 광둥 요리를 제공합니다. 딤섬은 해산물, 야채, 버섯을 우아하게 조합하여 세련된 장인정신을 선보입니다. 대표메뉴인 허니소스를 곁들인 돼지고기 바비큐와 바삭바삭한 삼겹살은 육즙이 풍부하고 양념이 잘 배어 있는 고기와 바삭바삭한 껍질이 특징이다.",
@@ -5679,8 +5607,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "chaoran"
+      ]
     },
     {
       "id": "chez-nous-private-kitchen",
@@ -5746,9 +5673,9 @@
       "lng": 126.99404,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/chez-simon",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/chezsimon",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Chez%20Simon&keywordSearch=Chez%20Simon",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/chezsimon",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Chez%20Simon&keywordSearch=Chez%20Simon",
       "naverMapUrl": "https://map.naver.com/p/search/Chez%20Simon%203F%2C%2066%20Hoenamu-ro%2C%20Yongsan-gu%2C%20Seoul%2C%2004003%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.99404,37.54015,Chez%20Simon/walk?c=15.00,0,0,0,dh",
       "summary": "Chez Simon, 이 프랑스 비스트로는 꾸준한 속도로 성장해 왔습니다. 이 식당을 운영하는 부부는 새로운 재료를 찾기 위해 전 세계를 여행하기 위해 매년 일정 기간 동안 문을 닫습니다. 비록 셰프들이 전문적인 요리 교육을 받지 않았음에도 불구하고 요리에 대한 끊임없는 헌신과 겸손함이 성공을 거두었습니다.",
@@ -5758,8 +5685,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "chezsimon"
+      ]
     },
     {
       "id": "continental",
@@ -5789,9 +5715,9 @@
       "lng": 127.00517,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/continental",
       "websiteUrl": "https://www.shilla.net/seoul/index.do",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/continental",
+      "bookingUrl": "https://www.shilla.net/seoul/index.do",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/continental",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Continental&keywordSearch=Continental",
       "naverMapUrl": "https://map.naver.com/p/search/Continental%2023F%2C%20The%20Shilla%20Hotel%2C%20249%20Dongho-ro%2C%20Jung-gu%2C%20Seoul%2C%2004605%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00517,37.5558213,Continental/walk?c=15.00,0,0,0,dh",
       "summary": "신라호텔 설립과 함께 오픈한 더 컨티넨탈은 한국 프랑스 요리의 상징으로 남아있습니다. 제철 현지 재료와 현대적인 기술을 통해 세련된 프랑스 요리법을 강조합니다. 전통적인 프랑스 소스와 함께 제공되는 제철 생선은 일년 내내 이곳을 방문할 강력한 이유를 제공합니다.",
@@ -5801,8 +5727,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "continental"
+      ]
     },
     {
       "id": "delibong",
@@ -5829,16 +5754,15 @@
       "lng": 129.12153,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/delibong",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/delibong",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Delibong&keywordSearch=Delibong",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/delibong",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Delibong&keywordSearch=Delibong",
       "naverMapUrl": "https://map.naver.com/p/search/Delibong%203F%2C%204%20Millak-ro%2027%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2047560%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12153,35.15758,Delibong/walk?c=15.00,0,0,0,dh",
       "summary": "정성껏 만든 샤르퀴테리는 들리봉의 영혼입니다. 셰프는 이를 풍미 가득하고 시각적으로 눈에 띄는 요리에 주요 요소나 장식으로 활용하고, 숙련된 페어링 기술을 통해 각 재료의 특성을 강조합니다. 카운터에 앉은 손님들은 오픈형 주방에서 작업하는 모습을 지켜볼 수 있으며, 오래 된 캐비닛에 있는 샤르퀴트리가 테이블에서 참을성 있게 기다리는 모습을 볼 수 있습니다.",
       "score": 16,
       "occasions": [],
-      "amenities": [],
-      "catchtableShop": "delibong"
+      "amenities": []
     },
     {
       "id": "dim-tao",
@@ -5903,16 +5827,15 @@
       "lng": 126.96352,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/doori",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/DOORI",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Doori&keywordSearch=Doori",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/DOORI",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Doori&keywordSearch=Doori",
       "naverMapUrl": "https://map.naver.com/p/search/Doori%2027%20Wonhyo-ro%2063-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004364%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.96352,37.53795,Doori/walk?c=15.00,0,0,0,dh",
       "summary": "용산에서 태어나고 자란 셰프와 그의 아내는 고요하고 미니멀한 공간에서 창의적인 한식 요리를 선보입니다. 레스토랑의 메뉴는 제철 재료와 사려 깊은 폐기물 제로 철학을 바탕으로 끊임없이 진화하고 있습니다. 메뉴에서 눈에 띄는 '오늘의 스크랩 전체'는 오늘의 남은 음식을 매우 향긋하고 깊은 맛이 나는 요리로 바꿔줍니다.",
       "score": 18,
       "occasions": [],
-      "amenities": [],
-      "catchtableShop": "DOORI"
+      "amenities": []
     },
     {
       "id": "doughroom",
@@ -5941,9 +5864,9 @@
       "lng": 126.99333,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/doughroom",
       "websiteUrl": "https://www.soignerestaurantgroup.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/doughroom",
+      "bookingUrl": "https://www.soignerestaurantgroup.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/doughroom",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Doughroom&keywordSearch=Doughroom",
       "naverMapUrl": "https://map.naver.com/p/search/Doughroom%202F%2C%2099%20Donggwang-ro%2C%20Seocho-gu%2C%20Seoul%2C%2006584%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.99333,37.49379,Doughroom/walk?c=15.00,0,0,0,dh",
       "summary": "처음부터 장인이 만든 파스타를 만드는 데 전념하는 Doughroom은 모든 이탈리아 음식 애호가를 위한 수호자입니다. 모든 파스타가 매일 신선하게 만들어지는 반죽실 자체가 의심할 여지 없이 레스토랑의 핵심입니다. 정통 이탈리아의 맛을 제공하는 동시에 현지 입맛에 친숙한 재료를 사용한 퓨전 요리도 제공합니다.",
@@ -5957,8 +5880,7 @@
         "private-room",
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "doughroom"
+      ]
     },
     {
       "id": "elpic",
@@ -5986,9 +5908,9 @@
       "lng": 127.04659,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/elpic",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/ELPIC",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ELPIC&keywordSearch=ELPIC",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/ELPIC",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ELPIC&keywordSearch=ELPIC",
       "naverMapUrl": "https://map.naver.com/p/search/ELPIC%2025%20Dosan-daero%2078-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006063%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04659,37.52237,ELPIC/walk?c=15.00,0,0,0,dh",
       "summary": "한때 제주도의 유명한 그릴 하우스였던 ELPIC이 서울에 새 둥지를 틀었습니다. 드라이에이징, 웨트에이징, 밀랍에이징한 쇠고기 스테이크가 이 스테이크하우스의 대표 요리입니다. 제주도 앞바다에서 잡아올린 신선한 오징어 구이도 일품입니다.",
@@ -5997,8 +5919,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "ELPIC"
+      ]
     },
     {
       "id": "egg-flour",
@@ -6145,9 +6066,9 @@
       "lng": 127.04473,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/fuje",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/fuje",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Fuje&keywordSearch=Fuje",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/fuje",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Fuje&keywordSearch=Fuje",
       "naverMapUrl": "https://map.naver.com/p/search/Fuje%202F%2C%2021%20Nonhyeon-ro%2024-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006302%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04473,37.48207,Fuje/walk?c=15.00,0,0,0,dh",
       "summary": "Fuje는 제철 재료와 국내산 야채 및 허브를 활용하여 프랑스 요리에 뿌리를 둔 현대적인 요리를 선보입니다. 믿을 수 있는 요리를 만들고 싶다는 셰프의 마음이 메뉴에 반영되어 있습니다. 눈에 띄는 요리 중 하나는 살짝 데친 지오리를 조개 국물로 지은 밥과 함께 제공하는 것입니다.",
@@ -6157,8 +6078,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "fuje"
+      ]
     },
     {
       "id": "geodae-dwaeji-gukbap",
@@ -6338,9 +6258,9 @@
       "lng": 127.03949,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/grandir",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/grandir",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Grandir&keywordSearch=Grandir",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/grandir",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Grandir&keywordSearch=Grandir",
       "naverMapUrl": "https://map.naver.com/p/search/Grandir%203F%2C%204%20Apgujeong-ro%2054-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006018%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03949,37.52771,Grandir/walk?c=15.00,0,0,0,dh",
       "summary": "프랑스어로 '성장하다'라는 뜻을 지닌 그랑디르는 일본에서 공부한 셰프와 프랑스에서 실력을 갈고 닦은 소믈리에가 만나 탄생한 브랜드다. 셰프는 고전적인 프랑스 요리와 일본식 기술을 결합하여 돼지고기 어깨살을 곁들인 옥수수 수프와 콩소메 젤리와 같은 조화로운 맛을 지닌 독특한 요리를 만듭니다. 이 요리에 좋은 와인 한 병을 곁들여 음식과 소스의 균형이 더욱 강화되는 것을 경험해 보세요.",
@@ -6349,8 +6269,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "grandir"
+      ]
     },
     {
       "id": "gucci-osteria-da-massimo-bottura",
@@ -6613,9 +6532,9 @@
       "lng": 127.0024232,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/haobin",
       "websiteUrl": "https://www.ambatel.com/theambassador/seoul/en/diningView.do?dining_contents_seq=158",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/theambassador_haobin",
+      "bookingUrl": "https://www.ambatel.com/theambassador/seoul/en/diningView.do?dining_contents_seq=158",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/theambassador_haobin",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Haobin&keywordSearch=Haobin",
       "naverMapUrl": "https://map.naver.com/p/search/Haobin%202F%2C%20Ambassador-Pullman%20Hotel%2C%20287%20Dongho-ro%2C%20Jung-gu%2C%20Seoul%2C%2004618%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0024232,37.5599583,Haobin/walk?c=15.00,0,0,0,dh",
       "summary": "허덕죽 셰프가 이끄는 하오빈은 샹들리에와 우아한 식기로 동양과 서양의 미학이 조화를 이루는 따뜻한 조명의 다이닝 룸에서 세련된 중국 요리를 제공합니다. 광둥식 훈련을 받은 셰프는 50년 이상의 경험을 바탕으로 다양한 지역 중국 요리를 선보입니다. 특히 그는 한국에 처음 소개한 요리인 부다점프오버더월(Buddha Jumps Over the Wall)을 시그니처 메뉴로 내놓는 등 국물 요리의 솜씨로 유명하다.",
@@ -6627,8 +6546,7 @@
       "amenities": [
         "private-room",
         "parking"
-      ],
-      "catchtableShop": "theambassador_haobin"
+      ]
     },
     {
       "id": "iaán",
@@ -6693,9 +6611,9 @@
       "lng": 126.89462,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/il-vecchio",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/Ilvecchio",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Il%20Vecchio&keywordSearch=Il%20Vecchio",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/Ilvecchio",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Il%20Vecchio&keywordSearch=Il%20Vecchio",
       "naverMapUrl": "https://map.naver.com/p/search/Il%20Vecchio%20332-12%20World%20Cup%20buk-ro%2C%20Mapo-gu%2C%20Seoul%2C%2003930%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.89462,37.5763,Il%20Vecchio/walk?c=15.00,0,0,0,dh",
       "summary": "일 베키오(Il Vecchio)는 김민균 셰프와 김빈나 셰프 부부가 운영하는 현실적이고 가정적인 분위기의 레스토랑입니다. 신선한 현지 농산물과 해산물로 만든 이 식당의 시그니처 요리는 계절의 맛을 완벽하게 담아냅니다. 셰프 듀오의 꼼꼼한 요리는 모든 재료의 미묘한 맛, 향 및 질감을 이끌어내며, 반 건조된 신선한 파스타는 그 정확성을 보여줍니다.",
@@ -6706,8 +6624,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "Ilvecchio"
+      ]
     },
     {
       "id": "imok-smoke-dining",
@@ -6809,9 +6726,9 @@
       "lng": 129.15384,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/iwa",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/iwa",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Iwa&keywordSearch=Iwa",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/iwa",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Iwa&keywordSearch=Iwa",
       "naverMapUrl": "https://map.naver.com/p/search/Iwa%202F%2C%2013%20Haeundaehaebyeon-ro%20209%20beon-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048093%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.15384,35.15959,Iwa/walk?c=15.00,0,0,0,dh",
       "summary": "생선 숙성 특허를 보유한 셰프가 생선의 특성과 상태에 따라 최적의 숙성 기간을 세심하게 결정합니다. 다양한 선택과 결합된 이러한 세심한 접근 방식은 일관적이면서도 다양한 식사 경험을 선사합니다. Depending on the ingredients available and the chef's approach, the proportion of sushi, sashimi, and other dishes in the omakase can vary.",
@@ -6821,8 +6738,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "iwa"
+      ]
     },
     {
       "id": "jue",
@@ -6849,9 +6765,9 @@
       "lng": 127.01277,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jue",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/jue_seoul",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=JUE&keywordSearch=JUE",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/jue_seoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=JUE&keywordSearch=JUE",
       "naverMapUrl": "https://map.naver.com/p/search/JUE%20124-7%20Dokseodang-ro%2C%20Yongsan-gu%2C%20Seoul%2C%2004420%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.01277,37.53744,JUE/walk?c=15.00,0,0,0,dh",
       "summary": "귀족을 뜻하는 중국어 발음에서 이름을 딴 광둥 요리 전문점입니다. 코스 이름도 중국의 작위를 따랐습니다. 간을 한 뒤 고온 오븐에 구운 차슈는 껍질은 바삭하고 속은 촉촉합니다.",
@@ -6859,8 +6775,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "jue_seoul"
+      ]
     },
     {
       "id": "jin-dweji-gomtang",
@@ -6887,9 +6802,9 @@
       "lng": 129.12476,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/jin-dweji-gomtang",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/jin_dweji_gomtang",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Jin%20Dweji%20Gomtang&keywordSearch=Jin%20Dweji%20Gomtang",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/jin_dweji_gomtang",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Jin%20Dweji%20Gomtang&keywordSearch=Jin%20Dweji%20Gomtang",
       "naverMapUrl": "https://map.naver.com/p/search/Jin%20Dweji%20Gomtang%202F%2C%204%20Gwanganhaebyeon-ro%20284%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048283%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12476,35.15576,Jin%20Dweji%20Gomtang/walk?c=15.00,0,0,0,dh",
       "summary": "Since opening in 2024, this spot has quickly become a favourite among Busan's younger crowd. Its charming space centres on a U-shaped counter, creating an atmosphere that feels both lively and intimate. The signature dweji gomtang is made with Berkshire K black pork from the Jiri",
@@ -6899,8 +6814,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "jin_dweji_gomtang"
+      ]
     },
     {
       "id": "jinmi-pyeongyang-naengmyeon",
@@ -7044,9 +6958,9 @@
       "lng": 127.00008,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/july",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/july",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=July&keywordSearch=July",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/july",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=July&keywordSearch=July",
       "naverMapUrl": "https://map.naver.com/p/search/July%20164%20Donggwang-ro%2C%20Seocho-gu%2C%20Seoul%2C%2006589%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00008,37.49475,July/walk?c=15.00,0,0,0,dh",
       "summary": "줄라이(July)는 서래마을에서 가장 오래된 파인 다이닝 레스토랑으로, 셰프가 여행에서 영감을 받아 유럽 요리를 현대적으로 재해석한 요리를 선보입니다. 그는 한국산 야채, 생선, 기타 제철 재료를 사용하여 기술적으로 세련되고 복잡한 현대 요리를 만듭니다. 이러한 예술성은 다양한 맛을 고전적인 소스 레시피와 결합하여 다양한 맛 프로필을 만드는 소스에서 분명하게 드러납니다.",
@@ -7054,8 +6968,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "july"
+      ]
     },
     {
       "id": "kirameki",
@@ -7083,9 +6996,9 @@
       "lng": 127.02822,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kirameki",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/kirameki",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kirameki&keywordSearch=Kirameki",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/kirameki",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kirameki&keywordSearch=Kirameki",
       "naverMapUrl": "https://map.naver.com/p/search/Kirameki%2018%20Dosan-daero%2028-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006040%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.02822,37.51808,Kirameki/walk?c=15.00,0,0,0,dh",
       "summary": "키라메키(Kirameki)는 밥을 중심으로 한 시식 메뉴를 제공하는 일식 레스토랑입니다. 식사의 중심은 밥이 될 거라 예상했는데, 식사를 경험해 보니 다양한 요리로 구성되어 있었습니다. 메뉴는 일본식 일식을 중심으로 디자인되었으며 제철 재료를 사용한 가이세키 요리를 선보입니다.",
@@ -7093,8 +7006,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "kirameki"
+      ]
     },
     {
       "id": "kojacha",
@@ -7122,9 +7034,9 @@
       "lng": 127.05519,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kojacha",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/kojacha",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kojacha&keywordSearch=Kojacha",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/kojacha",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kojacha&keywordSearch=Kojacha",
       "naverMapUrl": "https://map.naver.com/p/search/Kojacha%2017%20Hakdong-ro%2097-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006072%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.05519,37.52083,Kojacha/walk?c=15.00,0,0,0,dh",
       "summary": "한국인 셰프(KO), 일본식 기술(JA), 중국의 영향(CHA)이 만든 일본 요리의 융합을 반영하여 이름 붙여진 코자차는 의도적으로 관습을 뛰어넘는 식사 경험을 제공합니다. 황실 시대의 비누 접시에 담긴 전복 샐러드부터 오사카식 하순까지 코스는 일식과 중식을 원활하게 번갈아 가며 진행됩니다. 셰프가 테이블에서 각 코스를 직접 선보이며 이야기와 연극적 감각을 더합니다.",
@@ -7132,8 +7044,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "kojacha"
+      ]
     },
     {
       "id": "kumsu-bokguk",
@@ -7199,9 +7110,9 @@
       "lng": 127.04566,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/kushi-kawa",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/kushikawa",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kushi%20Kawa&keywordSearch=Kushi%20Kawa",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/kushikawa",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Kushi%20Kawa&keywordSearch=Kushi%20Kawa",
       "naverMapUrl": "https://map.naver.com/p/search/Kushi%20Kawa%2037%20Nonhyeon-ro%2024-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006300%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04566,37.48268,Kushi%20Kawa/walk?c=15.00,0,0,0,dh",
       "summary": "쿠시카와를 오픈하게 된 윤석현 오너의 영감은 일본에 체류하면서 쿠시카츠(고기와 야채를 꼬치에 튀겨낸 요리)를 비롯한 인기 일식 요리의 감식가가 되면서부터 시작되었습니다. 구시카와의 오마카세 코스는 해산물, 고기, 야채를 재료로 한 12~14가지 종류의 꼬치 튀김으로 구성됩니다. 자신이 자란 고향에서 레스토랑을 운영하는 윤씨는 현지인의 입맛을 사로잡기 위해 노력하고 있으며, 손님들의 환한 얼굴에 떠오르는 즐거운 표정보다 더 큰 기쁨을 주는 것은 없다.",
@@ -7211,8 +7122,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "kushikawa"
+      ]
     },
     {
       "id": "kyoyang-siksa",
@@ -7279,9 +7189,9 @@
       "lng": 129.11062,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/l-essence",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/LEssence",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Essence&keywordSearch=L%27Essence",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/LEssence",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Essence&keywordSearch=L%27Essence",
       "naverMapUrl": "https://map.naver.com/p/search/L%27Essence%203F%2C%2017%20Gwangnam-ro%2022%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048307%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.11062,35.14477,L%27Essence/walk?c=15.00,0,0,0,dh",
       "summary": "남천역 인근 골목의 프렌치 레스토랑입니다. 전지성 셰프가 제철 재료와 선명한 소스로 맛과 향의 균형을 맞춥니다. 장아찌나 젓갈 같은 발효 재료를 쓰기도 해, 섬세한 프렌치 안에서 한국적인 맛을 발견하는 재미가 있습니다.",
@@ -7291,8 +7201,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "LEssence"
+      ]
     },
     {
       "id": "loignon",
@@ -7358,9 +7267,9 @@
       "lng": 126.9431187,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/lee-buk-bang",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/leebukbang",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Lee%20Buk%20Bang&keywordSearch=Lee%20Buk%20Bang",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/leebukbang",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Lee%20Buk%20Bang&keywordSearch=Lee%20Buk%20Bang",
       "naverMapUrl": "https://map.naver.com/p/search/Lee%20Buk%20Bang%202F%2C%2016%20Mapo-daero%201-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004165%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.9431187,37.5396777,Lee%20Buk%20Bang/walk?c=15.00,0,0,0,dh",
       "summary": "이북 요리를 현대적으로 재해석합니다. 대표 메뉴는 셰프 집안의 선지순대 요리입니다. 전통 조리와 새로운 재료를 넘나들며, 익숙하면서도 정제된 맛을 지향합니다.",
@@ -7370,8 +7279,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "leebukbang"
+      ]
     },
     {
       "id": "liman",
@@ -7478,9 +7386,9 @@
       "lng": 127.00613,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/manao",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/manao",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Manao&keywordSearch=Manao",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/manao",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Manao&keywordSearch=Manao",
       "naverMapUrl": "https://map.naver.com/p/search/Manao%202F%2C%2018%20Hannam-daero%2021-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004401%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00613,37.53411,Manao/walk?c=15.00,0,0,0,dh",
       "summary": "마나오(Manao)에 들어서면 태국에서 직접 가져온 다양한 예술품과 세련된 장식으로 더욱 강화된 이국적인 분위기가 여러분을 맞이할 것입니다. 프리 픽스(prix-fixe) 메뉴는 작은 분량의 여러 요리로 구성되어 있어 한 끼에 다양한 요리를 즐길 수 있습니다. 주방은 특유의 매운 맛을 지닌 정통 태국 요리를 훌륭하게 선보입니다.",
@@ -7491,8 +7399,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "manao"
+      ]
     },
     {
       "id": "mater",
@@ -7519,9 +7426,9 @@
       "lng": 127.03464,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mater-1210122",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/mater",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mater&keywordSearch=Mater",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/mater",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mater&keywordSearch=Mater",
       "naverMapUrl": "https://map.naver.com/p/search/Mater%20B1%2C%2016%20Eonju-ro%20154-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006021%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03464,37.52337,Mater/walk?c=15.00,0,0,0,dh",
       "summary": "김영빈 셰프는 발효를 핵심으로 서양과 북유럽의 영향과 함께 한국과 아시아의 전통을 재해석합니다. 그는 발효를 통해 재료를 변형시키고 이를 요리에 엮어 미묘하고 다양한 방식으로 재료의 맛을 탐구합니다. 이러한 접근 방식은 산미와 감칠맛의 균형을 맞추려는 그의 목표를 반영합니다.",
@@ -7532,8 +7439,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "mater"
+      ]
     },
     {
       "id": "matsuzaki",
@@ -7712,16 +7618,15 @@
       "lng": 126.9718836,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/moulin",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/moulin",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Moulin&keywordSearch=Moulin",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/moulin",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Moulin&keywordSearch=Moulin",
       "naverMapUrl": "https://map.naver.com/p/search/Moulin%208%20Jahamun-ro%2016-gil%2C%20Jongno-gu%2C%20Seoul%2C%2003043%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.9718836,37.5814682,Moulin/walk?c=15.00,0,0,0,dh",
       "summary": "물랭(Moulin)은 서촌의 조용한 거리에 위치한 프렌치 레스토랑이다. 매력적인 빈티지한 공간 디자인이 손님을 맞이하며, 윤예랑 셰프가 선보이는 제철 풍미가 가득한 프렌치 요리를 맛보실 수 있습니다. 프랑스 전통 기법과 한국의 제철 재료가 만나 재료의 미묘한 맛과 풍성한 소스의 균형을 유지합니다.",
       "score": 18,
       "occasions": [],
-      "amenities": [],
-      "catchtableShop": "moulin"
+      "amenities": []
     },
     {
       "id": "mr-ahns-craft-makgeolli",
@@ -7791,9 +7696,9 @@
       "lng": 126.981,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mugunghwa",
       "websiteUrl": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-mugunghwa.html",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/lotteseoul_mugunghwa",
+      "bookingUrl": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-mugunghwa.html",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/lotteseoul_mugunghwa",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mugunghwa&keywordSearch=Mugunghwa",
       "naverMapUrl": "https://map.naver.com/p/search/Mugunghwa%2038F%2C%20Lotte%20Hotel%2C%2030%20Eulji-ro%2C%20Jung-gu%2C%20Seoul%2C%2004533%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.981,37.56533,Mugunghwa/walk?c=15.00,0,0,0,dh",
       "summary": "롯데호텔 무궁화에서는 최상층에 위치하여 탁 트인 도시 전망과 함께 세련된 한국 전통 요리를 선보입니다. '음식은 약이다'라는 철학을 바탕으로 제철 식재료를 사용해 편안하면서도 복잡한 맛을 선사하는 요리를 선보입니다. 하이라이트에는 해안돼지 회향 소스를 곁들인 우엉 강정, 가을 올리브와 참깨 국물을 곁들인 임자수탕, 해삼과 흑마늘 소스를 곁들인 해삼증이 있습니다.",
@@ -7803,8 +7708,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "lotteseoul_mugunghwa"
+      ]
     },
     {
       "id": "muguok",
@@ -7830,9 +7734,9 @@
       "lng": 126.9799,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/muguok",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/muguok_sungsu",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Muguok&keywordSearch=Muguok",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/muguok_sungsu",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Muguok&keywordSearch=Muguok",
       "naverMapUrl": "https://map.naver.com/p/search/Muguok%207%20Yulgok-ro%201-gil%2C%20Jongno-gu%2C%20Seoul%2C%2003062%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.9799,37.57638,Muguok/walk?c=15.00,0,0,0,dh",
       "summary": "Set in a hanok tucked away on a small street near Gyeongbokgung Palace, Muguok serves North Korean-style chicken dishes. Upon entering, guests are greeted by two large, steaming cast-iron gamasot in the centre of the dining hall. Steamed at high temperatures and portioned in fron",
@@ -7842,8 +7746,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "muguok_sungsu"
+      ]
     },
     {
       "id": "mukjung",
@@ -7870,9 +7773,9 @@
       "lng": 127.00053,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mukjung",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/mukjung",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mukjung&keywordSearch=Mukjung",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/mukjung",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mukjung&keywordSearch=Mukjung",
       "naverMapUrl": "https://map.naver.com/p/search/Mukjung%2017%20Teogye-ro%2048-gil%2C%20Jung-gu%2C%20Seoul%2C%2004619%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00053,37.56181,Mukjung/walk?c=15.00,0,0,0,dh",
       "summary": "한국계 미국인 셰프 오스틴 강은 음식이 약이라는 한국인의 믿음에 따라 직접 발효식품과 장을 직접 준비합니다. 밀가루를 사용하지 않은 표고버섯, 멸치젓 아이올리를 곁들인 새우전 등 전통 한식에 현대적인 감각을 가미한 요리를 선보입니다. 부드럽게 녹는 닭고기를 감귤 향과 허브 향이 나는 밥과 함께 곁들여 반찬과 잘 어울립니다.",
@@ -7883,8 +7786,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "mukjung"
+      ]
     },
     {
       "id": "muutto-anatolian-tapas-bar",
@@ -7988,9 +7890,9 @@
       "lng": 127.041513,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myungbodang",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/MYUNGBODANG",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Myungbodang&keywordSearch=Myungbodang",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/MYUNGBODANG",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Myungbodang&keywordSearch=Myungbodang",
       "naverMapUrl": "https://map.naver.com/p/search/Myungbodang%203F%2C%2013-12%20Seolleung-ro%20158-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006014%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.041513,37.52635,Myungbodang/walk?c=15.00,0,0,0,dh",
       "summary": "뉴욕 레스토랑 경험을 바탕으로 현주 림 셰프가 누아메리칸 프렌치를 풀어냅니다. 재료 선택과 구성이 분명하고, 시그니처 트러플은 바삭한 껍질 안에 발효 버섯·트러플 크림을 담습니다. 마지막 초콜릿 폼이 인상에 남습니다.",
@@ -7998,8 +7900,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "MYUNGBODANG"
+      ]
     },
     {
       "id": "namakzip",
@@ -8027,9 +7928,9 @@
       "lng": 129.11187,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/namakzip",
       "websiteUrl": "https://namakzip.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/namakzip",
+      "bookingUrl": "https://namakzip.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/namakzip",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Namakzip&keywordSearch=Namakzip",
       "naverMapUrl": "https://map.naver.com/p/search/Namakzip%20%231068%20A%2C%20W%20square%2C%20145%20Bunpo-ro%2C%20Nam-gu%2C%20Busan%2C%2048515%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.11187,35.13461,Namakzip/walk?c=15.00,0,0,0,dh",
       "summary": "부산은 돼지국밥의 원조에 걸맞게 다양한 돼지국밥을 제공합니다. 모든 레스토랑은 정통 맛을 그대로 유지하면서 수프 국물에 고유한 맛을 더합니다. 남막집의 고기육수는 야채육수의 비율이 높아 무겁기보다는 담백하고 깔끔한 맛이 납니다.",
@@ -8040,8 +7941,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "namakzip"
+      ]
     },
     {
       "id": "nampo-myeonok",
@@ -8104,9 +8004,9 @@
       "lng": 127.04938,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/on565623",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/restauranton",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ON&keywordSearch=ON",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/restauranton",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ON&keywordSearch=ON",
       "naverMapUrl": "https://map.naver.com/p/search/ON%203F%2C%20Mijun%20Building%2C%2048%20Seolleung-ro%20148-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006070%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04938,37.52192,ON/walk?c=15.00,0,0,0,dh",
       "summary": "ON은 셰프의 부드럽고 사려 깊은 접근 방식이 반영된 따뜻하고 편안한 요리를 제공합니다. 고객의 프라이버시를 염두에 두고 설계된 친밀한 공간은 몇 개의 테이블만 수용할 수 있으며 엄격하게 예약제로 운영됩니다. 메뉴는 제철 재료를 중심으로 두 가지 종류의 천천히 건조된 토마토와 루비 자몽을 결합하여 밝고 우아한 균형을 이루는 시그니처 야채 요리를 선보입니다.",
@@ -8114,8 +8014,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "restauranton"
+      ]
     },
     {
       "id": "opnng",
@@ -8145,9 +8044,9 @@
       "lng": 127.03105,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/opnng",
       "websiteUrl": "https://www.baropnng.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/bar_opnng",
+      "bookingUrl": "https://www.baropnng.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/bar_opnng",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=OPNNG&keywordSearch=OPNNG",
       "naverMapUrl": "https://map.naver.com/p/search/OPNNG%20B1%2C%2022%20Dosan-daero%2034-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006049%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03105,37.51844,OPNNG/walk?c=15.00,0,0,0,dh",
       "summary": "OPNNG에서는 전반적인 분위기를 즐기면서 구하기 힘든 희귀한 와인으로 입맛을 즐겁게 해보세요. 이름은 \"미식과 와인을 통해 새로운 맛의 풍경을 열다\"를 상징합니다. 와인바나 레스토랑이라기보다는 갤러리에 가까운 이 고급 다이닝 공간은 아치형 입구, 유명 예술가들의 그림, 500종 이상의 다양한 와인을 보관할 수 있는 넓은 와인 저장고로 손님들에게 깊은 인상을 남깁니다.",
@@ -8156,8 +8055,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "bar_opnng"
+      ]
     },
     {
       "id": "oegojip-seolleongtang",
@@ -8224,9 +8122,9 @@
       "lng": 127.037424,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/one-degree-north",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/onedegreenorth",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=One%20Degree%20North&keywordSearch=One%20Degree%20North",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/onedegreenorth",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=One%20Degree%20North&keywordSearch=One%20Degree%20North",
       "naverMapUrl": "https://map.naver.com/p/search/One%20Degree%20North%208%20Hakdong-ro%2043-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006061%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.037424,37.516773,One%20Degree%20North/walk?c=15.00,0,0,0,dh",
       "summary": "'1도 북은 싱가포르의 위도를 나타냅니다. 이름에 걸맞게 인기 있는 싱가포르 요리와 아시아 스타일의 바비큐를 선보입니다. 셰프는 현지 맛을 재현하기 위해 싱가포르에서 직접 아폴로 오븐을 수입하기도 했습니다.",
@@ -8236,8 +8134,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "onedegreenorth"
+      ]
     },
     {
       "id": "onyva",
@@ -8266,9 +8163,9 @@
       "lng": 127.0457,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/onyva",
       "websiteUrl": "https://www.onyva.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/onyva",
+      "bookingUrl": "https://www.onyva.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/onyva",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Onyva&keywordSearch=Onyva",
       "naverMapUrl": "https://map.naver.com/p/search/Onyva%20B1%2C%2015%20Dosan-daero%2075-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006015%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0457,37.52515,Onyva/walk?c=15.00,0,0,0,dh",
       "summary": "조용한 골목에 자리잡은 Onyva는 편안하고 환영받는 식사 공간에 대한 셰프의 비전을 구현합니다. 프랑스 요리에 뿌리를 두고 있으면서도 한국식 재료를 창의적으로 접목해 독특한 맛을 선사하는 메뉴입니다. 구운 장어와 아삭아삭한 생강, 캐러멜라이즈한 양파를 가득 넣어 식감과 깊이가 뛰어난 메밀 갈레트가 특히 눈에 띕니다.",
@@ -8280,8 +8177,7 @@
         "parking",
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "onyva"
+      ]
     },
     {
       "id": "osteria-orzo",
@@ -8308,9 +8204,9 @@
       "lng": 127.00946,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/osteria-orzo",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/osteriaorzo",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Osteria%20Orzo&keywordSearch=Osteria%20Orzo",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/osteriaorzo",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Osteria%20Orzo&keywordSearch=Osteria%20Orzo",
       "naverMapUrl": "https://map.naver.com/p/search/Osteria%20Orzo%202F%2C%2047%20Hannam-daero%2020-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004419%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00946,37.53486,Osteria%20Orzo/walk?c=15.00,0,0,0,dh",
       "summary": "오스테리아 오르조는 한남동점에서 캐주얼하고 아늑한 이탈리안 오스테리아의 정통 맛을 계속해서 선보이고 있습니다. 메뉴의 대표 메뉴로는 마스카포네 치즈와 송로버섯을 곁들인 풍부한 미트 소스에 흠뻑 젖은 집에서 만든 신선한 파스타가 특징인 화이트 라구 파스타가 있습니다. 매콤한 탈리아텔레와 해산물 타르타르도 이 레스토랑에서 가장 인기 있는 메뉴 중 하나입니다.",
@@ -8321,8 +8217,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "osteriaorzo"
+      ]
     },
     {
       "id": "outro-by-vito",
@@ -8348,9 +8243,9 @@
       "lng": 129.12786,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/outro-by-vito",
       "websiteUrl": "https://vito.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/outrobyvito",
+      "bookingUrl": "https://vito.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/outrobyvito",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Outro%20by%20Vito&keywordSearch=Outro%20by%20Vito",
       "naverMapUrl": "https://map.naver.com/p/search/Outro%20by%20Vito%2018%20Millakbondong-ro%2019%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048087%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12786,35.15835,Outro%20by%20Vito/walk?c=15.00,0,0,0,dh",
       "summary": "현재 Outro by Vito로 이름을 바꾼 이 레스토랑은 광안리 해변 근처로 이전하여 현대적인 우아함으로 외관과 장식을 새롭게 단장했습니다. 이러한 변화에도 불구하고 시그니처 파스타 요리는 맛이 향상되었다는 점만 유지했습니다. 이제 집에서 만든 파스타는 밀가루 함량이 더 높고 발효 과정을 거칩니다.",
@@ -8361,8 +8256,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "outrobyvito"
+      ]
     },
     {
       "id": "perigee",
@@ -8388,9 +8282,9 @@
       "lng": 127.04949,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/perigee",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/perigee_seoul",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=PERIGEE&keywordSearch=PERIGEE",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/perigee_seoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=PERIGEE&keywordSearch=PERIGEE",
       "naverMapUrl": "https://map.naver.com/p/search/PERIGEE%206-5%20Bongeunsa-ro%2068-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006153%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04949,37.51126,PERIGEE/walk?c=15.00,0,0,0,dh",
       "summary": "근지점은 위성이 지구에 가장 가까운 궤도상의 지점을 의미합니다. 레스토랑은 식사하는 사람들이 음식과 와인에 더 가까이 다가갈 수 있기를 바라는 마음에서 명명되었습니다. 신가영, 임홍근 셰프 부부가 운영하는 이 레스토랑은 집에서 직접 만든 신선한 파스타를 선보입니다.",
@@ -8401,8 +8295,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "perigee_seoul"
+      ]
     },
     {
       "id": "pierre-gagnaire",
@@ -8510,9 +8403,9 @@
       "lng": 127.00664,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pyeongyang-myeonok",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/pyeongyang_myeonok_ssg",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Pyeongyang%20Myeonok&keywordSearch=Pyeongyang%20Myeonok",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/pyeongyang_myeonok_ssg",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Pyeongyang%20Myeonok&keywordSearch=Pyeongyang%20Myeonok",
       "naverMapUrl": "https://map.naver.com/p/search/Pyeongyang%20Myeonok%20207%20Jangchungdan-ro%2C%20Jung-gu%2C%20Seoul%2C%2004615%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00664,37.56325,Pyeongyang%20Myeonok/walk?c=15.00,0,0,0,dh",
       "summary": "평양면옥은 3대에 걸쳐 평양냉면을 제공해 온 서울의 유서 깊은 식당이다. 더운 여름날에는 오래 기다려야 합니다. 국물은 절제된 고기 맛으로 매우 깨끗합니다.",
@@ -8523,8 +8416,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "pyeongyang_myeonok_ssg"
+      ]
     },
     {
       "id": "roka",
@@ -8594,9 +8486,9 @@
       "lng": 129.12528,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/ramsey",
       "websiteUrl": "https://www.restaurantramsey.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/ramsey",
+      "bookingUrl": "https://www.restaurantramsey.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/ramsey",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Ramsey&keywordSearch=Ramsey",
       "naverMapUrl": "https://map.naver.com/p/search/Ramsey%203F%2C%2038%20Gwanganhaebyeon-ro%20284%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048285%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12528,35.15333,Ramsey/walk?c=15.00,0,0,0,dh",
       "summary": "램지는 한국의 식재료를 현대 프랑스의 시각으로 재해석하여 'New Korean French'라는 세련된 비전을 제시합니다. 시음 메뉴는 우아하고 다층적인 아뮤즈 부슈부터 정밀하게 조리된 생선 및 고기 코스에 이르기까지 고전적인 프랑스식 진행 방식을 따릅니다. 각 요리는 균형, 절제, 아름답게 표현된 소스로 정의됩니다.",
@@ -8604,8 +8496,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "ramsey"
+      ]
     },
     {
       "id": "restaurant-oy",
@@ -8670,9 +8561,9 @@
       "lng": 127.04655,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/rialto",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/rialto",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Rialto&keywordSearch=Rialto",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/rialto",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Rialto&keywordSearch=Rialto",
       "naverMapUrl": "https://map.naver.com/p/search/Rialto%202F%2C%2013%20Samseong-ro%20149-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006063%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04655,37.52318,Rialto/walk?c=15.00,0,0,0,dh",
       "summary": "지난 몇 년 동안 프리미에 더 중점을 두고 간소화된 전채요리 선택이 서울의 이탈리아 다이닝 현장에서 분명한 트렌드가 되었습니다. 이러한 변화에 맞춰 레스토랑은 북부 이탈리아의 뿌리와 셰프의 개인적인 철학, 감성, 스타일을 그대로 담은 간결한 메뉴를 선보입니다. 뛰어난 요리로는 타자린(tajarin)과 카시오 에 페페(cacio e pepe)가 있으며, 풍부한 맛과 버터와 치즈의 매혹적인 조화가 특징입니다.",
@@ -8683,8 +8574,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "rialto"
+      ]
     },
     {
       "id": "ryunique",
@@ -8711,9 +8601,9 @@
       "lng": 127.03599,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/ryunique",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/ryunique",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Ryunique&keywordSearch=Ryunique",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/ryunique",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Ryunique&keywordSearch=Ryunique",
       "naverMapUrl": "https://map.naver.com/p/search/Ryunique%208-1%20Dosan-daero%2045-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006021%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03599,37.52291,Ryunique/walk?c=15.00,0,0,0,dh",
       "summary": "류니끄는 2011년 오픈 이후 류태환 셰프의 독자적인 연구와 재료에 대한 창의적인 해석을 통해 끊임없이 요리를 재정의해 왔습니다. 메뉴는 계절과 절기에 따라 진화하며 최고의 품질을 위해 선택된 신선한 농산물을 강조합니다. 무한한 요리 아이디어를 세련된 요리로 구현하는 셰프의 능력이 레스토랑의 정체성을 정의합니다.",
@@ -8725,8 +8615,7 @@
       "amenities": [
         "private-room",
         "parking"
-      ],
-      "catchtableShop": "ryunique"
+      ]
     },
     {
       "id": "siio",
@@ -8755,9 +8644,9 @@
       "lng": 127.0391949,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/siio",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/siio",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=SIIO&keywordSearch=SIIO",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/siio",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=SIIO&keywordSearch=SIIO",
       "naverMapUrl": "https://map.naver.com/p/search/SIIO%2033%20Dosan-daero%2054-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006056%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0391949,37.5205428,SIIO/walk?c=15.00,0,0,0,dh",
       "summary": "SIIO에서는 한국의 제철 식재료를 활용한 창의적인 요리를 통해 수석 셰프의 경험을 엿볼 수 있으며, 호화로운 맛으로 식사를 즐겁게 해드립니다. SIIO의 요금은 틀에서 벗어나 표현의 자유를 포용합니다. 이 고급 식당에서는 새로운 요리가 요리 문화와 기술의 용광로를 나타냅니다.",
@@ -8765,8 +8654,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "siio"
+      ]
     },
     {
       "id": "stay",
@@ -8797,9 +8685,9 @@
       "lng": 127.10258,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/stay",
       "websiteUrl": "https://www.lottehotel.com/seoul-signiel/ko/dining/restaurant-stay-modern.html",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/stay_signiel",
+      "bookingUrl": "https://www.lottehotel.com/seoul-signiel/ko/dining/restaurant-stay-modern.html",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/stay_signiel",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=STAY&keywordSearch=STAY",
       "naverMapUrl": "https://map.naver.com/p/search/STAY%2081F%2C%20Lotteworld%20Tower%2C%20300%20Olympic-ro%2C%20Songpa-gu%2C%20Seoul%2C%2005551%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.10258,37.51271,STAY/walk?c=15.00,0,0,0,dh",
       "summary": "81층에 위치한 STAY는 우아하고 편안한 환경에서 현대적이고 고급스러운 식사 경험을 제공합니다. 프랑스식 기법에 뿌리를 둔 메뉴는 화려하기보다는 절제된 느낌을 유지하면서 세심한 디테일과 접근성이 균형을 이루고 있습니다. 일부 요리는 테이블 옆에서 완성되어 자연스러운 상호 작용을 만들어내며, 서비스는 특히 따뜻하고 세심합니다.",
@@ -8808,8 +8696,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "stay_signiel"
+      ]
     },
     {
       "id": "samwon-garden",
@@ -8839,9 +8726,9 @@
       "lng": 127.03297,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/samwon-garden",
       "websiteUrl": "https://dinehill.co.kr/global/samwon-garden",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/samwongarden",
+      "bookingUrl": "https://dinehill.co.kr/global/samwon-garden",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/samwongarden",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Samwon%20Garden&keywordSearch=Samwon%20Garden",
       "naverMapUrl": "https://map.naver.com/p/search/Samwon%20Garden%20835%20Eonju-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006023%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03297,37.52499,Samwon%20Garden/walk?c=15.00,0,0,0,dh",
       "summary": "수십 년 동안 삼원 가든은 한국의 바비큐 문화를 변화시켰으며 편안한 요리와 고급 요리 사이의 복잡한 균형으로 명성을 얻었습니다. 다양한 부위의 최고급 한우가 직원들의 노련한 그릴 솜씨와 만나 즐거운 미식 경험을 선사합니다. 또한, 한국적인 미를 담은 높은 천장과 유리벽이 어우러져 아름답게 조경된 야외정원은 탁 트인 느낌을 더해줍니다.",
@@ -8852,8 +8739,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "samwongarden"
+      ]
     },
     {
       "id": "sanro",
@@ -8882,9 +8768,9 @@
       "lng": 127.04978,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sanro",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/sanro",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sanro&keywordSearch=Sanro",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/sanro",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sanro&keywordSearch=Sanro",
       "naverMapUrl": "https://map.naver.com/p/search/Sanro%202F%2C%20518%20Dosan-daero%2C%20Gangnam-gu%2C%20Seoul%2C%2006070%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04978,37.52417,Sanro/walk?c=15.00,0,0,0,dh",
       "summary": "유성엽 셰프의 일식 요리에 대한 헌신은 산로에서 빛을 발합니다. 공간을 장식하는 은은하고 시크한 오브제들은 메뉴와 다이닝 환경을 통해 표현되는 셰프의 감성과 조화를 이룹니다. 제철 재료가 그의 세련된 기술과 요리 공예에 대한 열정과 만나 미묘한 맛이 연속적으로 펼쳐지며 식사 내내 부드럽게 입맛을 즐겁게 합니다.",
@@ -8892,8 +8778,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "sanro"
+      ]
     },
     {
       "id": "seoul-dining",
@@ -9034,9 +8919,9 @@
       "lng": 129.16738,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/sogonggan",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/sogonggan_dining",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sogonggan&keywordSearch=Sogonggan",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/sogonggan_dining",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sogonggan&keywordSearch=Sogonggan",
       "naverMapUrl": "https://map.naver.com/p/search/Sogonggan%204F%2C%2047%20Haeundaehaebyon-ro%20298%20beon-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048099%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.16738,35.16168,Sogonggan/walk?c=15.00,0,0,0,dh",
       "summary": "'작은 공간'과 '소고기를 먹는 곳'이라는 이중적 의미를 지닌 이름인 소공간은 한식에 뿌리를 둔 정성 가득한 메뉴를 선보이고 있다. 이전에 서양요리를 하던 셰프가 결국 한식으로 전향한 것이다. 그는 이제 완벽하게 맞춤 제작된 양복을 입은 사람의 기쁨으로 요리를 한다고 한다.",
@@ -9047,8 +8932,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "sogonggan_dining"
+      ]
     },
     {
       "id": "sonnet",
@@ -9076,9 +8960,9 @@
       "lng": 127.03704,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/sonnet-1241886",
       "websiteUrl": "https://www.sonnetseoul.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/sonnetdining",
+      "bookingUrl": "https://www.sonnetseoul.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/sonnetdining",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sonnet&keywordSearch=Sonnet",
       "naverMapUrl": "https://map.naver.com/p/search/Sonnet%203F%2C%20Seolleung-ro%20157-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006018%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.03704,37.52628,Sonnet/walk?c=15.00,0,0,0,dh",
       "summary": "소네트는 프랑스어로 '짧은 노래'로 번역되는데, 작은 접시를 전문으로 하는 레스토랑의 적절한 이름입니다. 한 입 크기의 음식부터 정교한 요리 기술을 사용해 만든 디저트까지 다양한 메뉴로 프랑스 요리를 캐주얼하게 재해석한 메뉴를 제공합니다. 닭 간 무스를 채운 코코아 롤에 송로버섯과 라즈베리 잼을 얹어 두 가지 맛의 균형을 맞추고, 신선한 조개와 캐비아를 곁들인 메밀 파스타는 은은한 향기를 선사합니다.",
@@ -9089,8 +8973,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "sonnetdining"
+      ]
     },
     {
       "id": "sooksoodoga",
@@ -9154,9 +9037,9 @@
       "lng": 127.00523,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/table-for-four",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/tableforfour",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Table%20for%20Four&keywordSearch=Table%20for%20Four",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/tableforfour",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Table%20for%20Four&keywordSearch=Table%20for%20Four",
       "naverMapUrl": "https://map.naver.com/p/search/Table%20for%20Four%205F%2C%2025-12%20Daesagwan-ro%2031-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004401%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00523,37.53468,Table%20for%20Four/walk?c=15.00,0,0,0,dh",
       "summary": "이 '테이블'은 셰프의 고향인 충남 태안의 최적의 맛을 담은 다양한 제철 식재료를 사용합니다. 지역에 대한 애정과 고객에게 가장 신선하고 건강한 음식을 제공하려는 진정한 열정이 그가 그러한 선택을 한 이유입니다. 요리사는 자신의 고향 재료를 능숙하게 흥미로운 요리로 변형할 수 있으며, 때로는 요리에 대한 개입을 최소화합니다.",
@@ -9167,8 +9050,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "tableforfour"
+      ]
     },
     {
       "id": "the-green-table",
@@ -9236,9 +9118,9 @@
       "lng": 126.97969,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/the-ninth-gate",
       "websiteUrl": "https://www.josunhotel.com/intro.do",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/theninthgate",
+      "bookingUrl": "https://www.josunhotel.com/intro.do",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/theninthgate",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=The%20Ninth%20Gate&keywordSearch=The%20Ninth%20Gate",
       "naverMapUrl": "https://map.naver.com/p/search/The%20Ninth%20Gate%201F%20The%20Westin%20Chosun%20Hotel%2C%20106%20Sogong-ro%2C%20Jung-gu%2C%20Seoul%2C%2004533%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97969,37.5644,The%20Ninth%20Gate/walk?c=15.00,0,0,0,dh",
       "summary": "나인스 게이트를 빼놓고 서울 프렌치 다이닝의 진화를 논하기는 어려울 것이다. 끊임없이 변화하는 서울의 레스토랑 현장에 맞춰 더 새롭고 더 나은 The Ninth Gate가 기존 팬과 신규 팬 모두의 즐거움을 위해 다시 문을 열었습니다. 음식은 개조되기 전의 고전적인 프랑스 스타일을 여전히 반영하고 있지만, 그 어느 때보다 레스토랑을 더욱 관련성 있게 만드는 더 큰 정교함도 있습니다.",
@@ -9247,8 +9129,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "theninthgate"
+      ]
     },
     {
       "id": "toc-toc",
@@ -9275,9 +9156,9 @@
       "lng": 127.05429,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/toc-toc",
       "websiteUrl": "https://www.restauranttoctoc.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/toctocseoul",
+      "bookingUrl": "https://www.restauranttoctoc.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/toctocseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Toc%20Toc&keywordSearch=Toc%20Toc",
       "naverMapUrl": "https://map.naver.com/p/search/Toc%20Toc%203F%2C%2041%20Hakdong-ro%2097-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006072%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.05429,37.52237,Toc%20Toc/walk?c=15.00,0,0,0,dh",
       "summary": "요리의 우수성에 대한 김대천 셰프의 변함없는 헌신과 최고의 재료만을 사용하겠다는 그의 고집은 Toc Toc의 요리에 분명히 반영되어 있습니다. 김 셰프는 각 재료의 순수하고 자연스러운 맛을 이끌어내기 위한 기술의 정확성을 강조하며 고품질 농산물의 가치에 대한 깊은 존경심을 강조합니다. 그의 독특한 요리는 모든 접시에 담긴 정성과 창의성의 증거입니다.",
@@ -9288,8 +9169,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "toctocseoul"
+      ]
     },
     {
       "id": "toh-lim",
@@ -9319,9 +9199,9 @@
       "lng": 126.981,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/toh-lim",
       "websiteUrl": "https://www.lottehotel.com/global/ko",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/lotteseoul_tohlim",
+      "bookingUrl": "https://www.lottehotel.com/global/ko",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/lotteseoul_tohlim",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Toh%20Lim&keywordSearch=Toh%20Lim",
       "naverMapUrl": "https://map.naver.com/p/search/Toh%20Lim%2037F%2C%20Lotte%20Hotel%2C%2030%20Eulji-ro%2C%20Jung-gu%2C%20Seoul%2C%2004533%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.981,37.56531,Toh%20Lim/walk?c=15.00,0,0,0,dh",
       "summary": "롯데호텔 37층에 위치한 중식당으로 세련된 동양풍 분위기 속에서 탁 트인 시내 전망을 감상할 수 있습니다. 메뉴는 딤섬부터 현지 중국 요리까지 다양하며 특히 해산물에 중점을 두어 다양한 취향을 수용할 수 있습니다. 시그니처 하이라이트는 송이버섯과 전복, 다진 돼지고기 조림으로, 버섯의 은은한 향과 전복의 깊은 감칠맛이 돼지고기의 풍미를 더해 줍니다.",
@@ -9333,8 +9213,7 @@
       "amenities": [
         "private-room",
         "parking"
-      ],
-      "catchtableShop": "lotteseoul_tohlim"
+      ]
     },
     {
       "id": "tooru",
@@ -9437,9 +9316,9 @@
       "lng": 129.12287,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/ultra-bite",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/ultra_bite",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Ultra%20bite&keywordSearch=Ultra%20bite",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/ultra_bite",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Ultra%20bite&keywordSearch=Ultra%20bite",
       "naverMapUrl": "https://map.naver.com/p/search/Ultra%20bite%2028%20Milak-ro%2014beon-gil%20%2C%20Suyeong-gu%2C%20Busan%2C%2048286%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12287,35.15773,Ultra%20bite/walk?c=15.00,0,0,0,dh",
       "summary": "세련되고 모던한 외관의 울트라바이트는 작은 광안리 골목 끝자락에 자리잡고 있습니다. 호주와 서울에서 훈련받은 젊은 셰프들이 운영하는 이 레스토랑은 세련되고 상상력이 풍부하면서도 친근한 요리와 와인을 제공합니다. 하이라이트에는 멸치 크림, 라르도, 발효 토마토 피클을 곁들인 통오징어 구이, 달콤하고 매콤한 생강 소스를 입힌 통새우 버섯 튀김이 포함됩니다.",
@@ -9450,8 +9329,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "ultra_bite"
+      ]
     },
     {
       "id": "unaju",
@@ -9478,9 +9356,9 @@
       "lng": 129.18941,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/unaju",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/unaju",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Unaju&keywordSearch=Unaju",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/unaju",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Unaju&keywordSearch=Unaju",
       "naverMapUrl": "https://map.naver.com/p/search/Unaju%2039%20Cheongsapo-ro%2067beon-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048116%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.18941,35.16284,Unaju/walk?c=15.00,0,0,0,dh",
       "summary": "청사포의 조용한 언덕에 자리한 우나주는 매끈한 검정색 외관이 특징이다. 1948년 나고야에서 창업한 시라카와의 요리법을 한국에 전한다. 장어를 두 번 구워 쫄깃하고 바삭한 식감을 더한다.",
@@ -9491,8 +9369,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "unaju"
+      ]
     },
     {
       "id": "yakitori-haegong",
@@ -9558,9 +9435,9 @@
       "lng": 126.95149,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yakitori-kiyu",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yakitorikiyu",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yakitori%20Kiyu&keywordSearch=Yakitori%20Kiyu",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yakitorikiyu",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yakitori%20Kiyu&keywordSearch=Yakitori%20Kiyu",
       "naverMapUrl": "https://map.naver.com/p/search/Yakitori%20Kiyu%2031%20Dohwa%204-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004169%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.95149,37.54059,Yakitori%20Kiyu/walk?c=15.00,0,0,0,dh",
       "summary": "숙련된 셰프들의 분주한 손길이 솜씨 좋게 닭고기를 굽고, 한국식 토종닭 꼬치구이의 고소한 향이 공간 전체를 가득 채웁니다. 야키토리 키유의 목표는 야키토리의 맛을 한 단계 더 끌어올리는 것입니다. 다양한 약초를 먹고 자란 자연산 닭을 사용하여 건강하고 질 좋은 닭고기를 제공하고 있습니다.",
@@ -9570,8 +9447,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "yakitorikiyu"
+      ]
     },
     {
       "id": "yakitori-mook",
@@ -9636,9 +9512,9 @@
       "lng": 129.1275759,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/yangkyungoak",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yangkyungoak_",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yangkyungoak&keywordSearch=Yangkyungoak",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yangkyungoak_",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yangkyungoak&keywordSearch=Yangkyungoak",
       "naverMapUrl": "https://map.naver.com/p/search/Yangkyungoak%2016%20Millakbondong-ro%2031beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048288%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.1275759,35.1595177,Yangkyungoak/walk?c=15.00,0,0,0,dh",
       "summary": "Yangkyungoak, which means “the house shining bright”, is famous for its Pyongyang-style naengmyeon. The noodles are made fresh to order, giving them a chewy, silky texture. The nutty meat, fragrant buckwheat, lightly seasoned broth and springy noodles create a harmonious balance,",
@@ -9648,8 +9524,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "yangkyungoak_"
+      ]
     },
     {
       "id": "yongkangzzie",
@@ -9675,9 +9550,9 @@
       "lng": 129.12424,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/yongkangzzie",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yongkangzzie_daegu",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yongkangzzie&keywordSearch=Yongkangzzie",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yongkangzzie_daegu",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yongkangzzie&keywordSearch=Yongkangzzie",
       "naverMapUrl": "https://map.naver.com/p/search/Yongkangzzie%2010%20Gwanganhaebyeon-ro%20277%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048287%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12424,35.15639,Yongkangzzie/walk?c=15.00,0,0,0,dh",
       "summary": "광안리 해수욕장 근처에 위치한 용강찌는 우육면으로 유명한 대만 음식점입니다. 공간 전체에 걸쳐 응집력 있는 디자인과 사려 깊은 장식이 대만의 분위기를 자아냅니다. 시그니처 수프의 따뜻함이 이 식당의 캐주얼하고 이국적인 분위기와 잘 어울립니다.",
@@ -9687,8 +9562,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "yongkangzzie_daegu"
+      ]
     },
     {
       "id": "yoon-haeundae-galbi",
@@ -9759,9 +9633,9 @@
       "lng": 129.17067,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/yulling",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yulling",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yulling&keywordSearch=Yulling",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yulling",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yulling&keywordSearch=Yulling",
       "naverMapUrl": "https://map.naver.com/p/search/Yulling%202F%2C%2028%20Dalmaji-gil%2062%20beon-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048098%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.17067,35.15872,Yulling/walk?c=15.00,0,0,0,dh",
       "summary": "조화를 의미하는 문자와 연속성을 의미하는 접미사 '-ing'을 따서 명명된 율링은 새로운 셰프의 지휘 하에 현대 프랑스 요리를 향해 진화하고 있습니다. 간단하면서도 정밀한 조리 기술과 부산의 다양한 현지 식재료가 만나 익숙하면서도 새로운 느낌을 주는 요리를 만들어냅니다. 사려 깊게 구성된 페어링은 식사 경험을 더욱 향상시킵니다.",
@@ -9770,8 +9644,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "yulling"
+      ]
     },
     {
       "id": "zandunga",
@@ -9798,9 +9671,9 @@
       "lng": 129.0646956,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/zandunga-1243638",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/zandunga",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Zandunga&keywordSearch=Zandunga",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/zandunga",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Zandunga&keywordSearch=Zandunga",
       "naverMapUrl": "https://map.naver.com/p/search/Zandunga%2041%20Dongcheon-ro%20108%20beon-gil%2C%20Busanjin-gu%2C%20Busan%2C%2047247%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.0646956,35.1586219,Zandunga/walk?c=15.00,0,0,0,dh",
       "summary": "조용한 골목에 자리잡은 이 곳은 인더스트리얼하고 시크한 인테리어와 활기찬 음악이 어우러져 편안하고 매력적인 분위기를 자아냅니다. 멕시코 요리에 대한 그의 열정에서 영감을 받은 셰프는 이 레스토랑을 시작했습니다. 토르티야부터 충전재, 소스까지 모든 것이 사내에서 만들어집니다.",
@@ -9810,8 +9683,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "zandunga"
+      ]
     },
     {
       "id": "zero-base",
@@ -9838,16 +9710,15 @@
       "lng": 129.12097,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/zero-base",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/zerobase",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Zero%20Base&keywordSearch=Zero%20Base",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/zerobase",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Zero%20Base&keywordSearch=Zero%20Base",
       "naverMapUrl": "https://map.naver.com/p/search/Zero%20Base%202F%2C%2017%20Millak-ro%2033%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048285%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12097,35.15741,Zero%20Base/walk?c=15.00,0,0,0,dh",
       "summary": "Zero Base의 셰프는 전통 일본 요리를 재해석한 요리를 선보입니다. 방문할 때마다 그날의 해산물에 따라 다양한 요리가 제공되어 새로운 즐거움을 선사합니다. 셰프는 일본 요리의 한계를 뛰어넘고 자신의 업적을 손님들과 공유합니다.",
       "score": 18,
       "occasions": [],
-      "amenities": [],
-      "catchtableShop": "zerobase"
+      "amenities": []
     },
     {
       "id": "zhonghuafuchun-salon",
@@ -9914,9 +9785,9 @@
       "lng": 127.0416702,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/trid",
       "websiteUrl": "https://tridseoul.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/trid",
+      "bookingUrl": "https://tridseoul.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/trid",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=trid&keywordSearch=trid",
       "naverMapUrl": "https://map.naver.com/p/search/trid%202F%2C%2016%20Seolleung-ro%20162-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006014%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0416702,37.5267383,trid/walk?c=15.00,0,0,0,dh",
       "summary": "다양성, 맛, 기쁨은 이 레스토랑 이름의 기본이 되는 세 가지 D입니다. Trid는 이러한 요소에 중점을 둡니다. 사실, 그러한 기준을 충족시키기 위한 끊임없는 요리의 노력이 가장 강하게 느껴지는 곳이 바로 이곳입니다.",
@@ -9924,8 +9795,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "trid"
+      ]
     },
     {
       "id": "épanoui",
