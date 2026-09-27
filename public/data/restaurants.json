@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T05:09:48+09:00",
+  "updatedAt": "2026-09-28T05:49:04+09:00",
   "source": "michelin-guide",
   "count": 279,
   "restaurants": [
@@ -199,9 +199,9 @@
       "lng": 126.99615,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mosu",
       "websiteUrl": "https://mosuseoul.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/tempmosuseoul",
+      "bookingUrl": "https://mosuseoul.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/tempmosuseoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mosu&keywordSearch=Mosu",
       "naverMapUrl": "https://map.naver.com/p/search/Mosu%204%20Hoenamu-ro%2041-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004344%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.99615,37.54115,Mosu/walk?c=15.00,0,0,0,dh",
       "summary": "Mosu는 각 접시에 상상력, 정확성, 균형을 제공합니다. 예측할 수 없는 맛과 흥미로운 질감이 끊임없는 즐거움을 선사합니다. 전복 타코, 참깨 두부, 우엉 타르트 등 시그니처 요리가 만족스럽고, 사워도우가 특히 맛있으며, 생선 요리도 고급스럽게 구성되어 있습니다.",
@@ -213,8 +213,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "tempmosuseoul"
+      ]
     },
     {
       "id": "restaurant-allen",
@@ -1171,9 +1170,9 @@
       "lng": 126.97949,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-amant-secret",
       "websiteUrl": "https://lescapehotel.com/dining/lamantsecret",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
+      "bookingUrl": "https://lescapehotel.com/dining/lamantsecret",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Amant%20Secret&keywordSearch=L%27Amant%20Secret",
       "naverMapUrl": "https://map.naver.com/p/search/L%27Amant%20Secret%2026F%20L%27Escape%20Hotel%2C%2067%20Toegye-ro%2C%20Jung-gu%2C%20Seoul%2C%2004529%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97949,37.55983,L%27Amant%20Secret/walk?c=15.00,0,0,0,dh",
       "summary": "레스케이프 호텔 26층에 위치한 L'Amant Secret(프랑스어로 비밀스러운 연인을 뜻함)은 파리지앵 감성에서 영감을 받은 친밀한 공간입니다. 미국에서 요리 실력을 갈고닦은 손종원 셰프는 한국의 제철 식재료를 활용한 한식 서양요리를 지향한다. 그의 현대적인 해석은 현지 재료와 서양 요리 기술을 혼합하여 독창적이고 친숙하며 생산자와 재료, 주방과 식당 사이의 공생을 존중하는 창작물을 만들어냅니다.",
@@ -1184,8 +1183,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "lamantsecret"
+      ]
     },
     {
       "id": "lamitié",
@@ -2445,9 +2443,9 @@
       "lng": 126.94908,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/base-is-nice",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Base%20is%20nice&keywordSearch=Base%20is%20nice",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/baseisnice",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Base%20is%20nice&keywordSearch=Base%20is%20nice",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/baseisnice",
       "naverMapUrl": "https://map.naver.com/p/search/Base%20is%20nice%2020%20Dohwa%202-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004171%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.94908,37.53958,Base%20is%20nice/walk?c=15.00,0,0,0,dh",
       "summary": "Base is Nice는 야채를 중심 무대로 삼습니다. 식사는 일반 현지 농산물을 사용하여 만든 한식의 기본 구조를 따르며, 편안함과 건강에 좋은 맛으로 단골 손님을 끌어 모으고 있습니다. 레스토랑은 \"느린 생활의 예술\"을 구현합니다.",
@@ -2457,7 +2455,8 @@
       ],
       "amenities": [
         "under-100k"
-      ]
+      ],
+      "catchtableShop": "baseisnice"
     },
     {
       "id": "bibijae",
@@ -2637,9 +2636,9 @@
       "lng": 126.91512,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/damtaek",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/damtaek_",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Damtaek&keywordSearch=Damtaek",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/damtaek_",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Damtaek&keywordSearch=Damtaek",
       "naverMapUrl": "https://map.naver.com/p/search/Damtaek%2051%20Donggyo-ro%2012an-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004029%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.91512,37.55448,Damtaek/walk?c=15.00,0,0,0,dh",
       "summary": "담택은 합정역 근처 조용한 골목에 자리잡은 아늑한 작은 라멘집입니다. 조원현 셰프는 의도적으로 빈티지한 소품들로 이 고풍스러운 공간을 장식했습니다. 레스토랑의 시오 라멘과 동일한 수프 베이스를 사용하는 다양한 변형 요리는 집처럼 편안하고 소박한 분위기와 극명한 대조를 이룹니다.",
@@ -2649,8 +2648,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "damtaek_"
+      ]
     },
     {
       "id": "gaeseong-mandu-koong",
@@ -2953,9 +2951,9 @@
       "lng": 129.15977,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/haemok",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/haemok",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/haemok_haeundae",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/haemok",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/haemok_haeundae",
       "naverMapUrl": "https://map.naver.com/p/search/Haemok%208%20Gunam-ro%2024%20beon-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048094%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.15977,35.16174,Haemok/walk?c=15.00,0,0,0,dh",
       "summary": "관광객과 현지 단골 모두에게 인기가 높은 해목에서는 부담 없이 즐길 수 있는 일식 요리를 선보입니다. 푸른 울타리와 설명할 수 없을 만큼 이국적인 건물이 이 장소를 동네에서 눈에 띄게 만드는 분위기를 만들어냅니다. 나무를 바탕으로 한 장식과 다다미 바닥도 이국적인 분위기를 더해줍니다.",
@@ -2966,7 +2964,7 @@
       "amenities": [
         "under-100k"
       ],
-      "catchtableShop": "haemok"
+      "catchtableShop": "haemok_haeundae"
     },
     {
       "id": "halmaejip",
@@ -9595,9 +9593,9 @@
       "lng": 126.92449,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yakitori-mook",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yakitori%20Mook&keywordSearch=Yakitori%20Mook",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yakitorimook_sinsa",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yakitori%20Mook&keywordSearch=Yakitori%20Mook",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yakitorimook_sinsa",
       "naverMapUrl": "https://map.naver.com/p/search/Yakitori%20Mook%20165-1%20Seongmisan-ro%2C%20Mapo-gu%2C%20Seoul%2C%2003980%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.92449,37.56461,Yakitori%20Mook/walk?c=15.00,0,0,0,dh",
       "summary": "셰프는 매일 신선한 토종닭을 준비하며, 다양한 부위를 숯불에 구워 야키토리 기술을 통해 새의 독특한 맛을 선보입니다. 균형이 잘 잡힌 매리네이드는 고기의 고소함과 고소한 풍미를 더욱 높여줍니다. 수란을 곁들인 쓰쿠네는 부드럽고 육즙이 풍부해 네기마와 함께 가장 인기 있는 메뉴 중 하나입니다.",
@@ -9607,7 +9605,8 @@
       ],
       "amenities": [
         "under-100k"
-      ]
+      ],
+      "catchtableShop": "yakitorimook_sinsa"
     },
     {
       "id": "yangkyungoak",
