@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T05:50:49+09:00",
+  "updatedAt": "2026-10-12T06:27:08+09:00",
   "source": "michelin-guide",
   "count": 279,
   "restaurants": [
@@ -199,9 +199,9 @@
       "lng": 126.99615,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mosu",
       "websiteUrl": "https://mosuseoul.com",
-      "bookingUrl": "https://mosuseoul.com",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/tempmosuseoul",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mosu&keywordSearch=Mosu",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/tempmosuseoul",
       "naverMapUrl": "https://map.naver.com/p/search/Mosu%204%20Hoenamu-ro%2041-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004344%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.99615,37.54115,Mosu/walk?c=15.00,0,0,0,dh",
       "summary": "Mosu는 각 접시에 상상력, 정확성, 균형을 제공합니다. 예측할 수 없는 맛과 흥미로운 질감이 끊임없는 즐거움을 선사합니다. 전복 타코, 참깨 두부, 우엉 타르트 등 시그니처 요리가 만족스럽고, 사워도우가 특히 맛있으며, 생선 요리도 고급스럽게 구성되어 있습니다.",
@@ -213,7 +213,8 @@
       "amenities": [
         "parking",
         "wine"
-      ]
+      ],
+      "catchtableShop": "tempmosuseoul"
     },
     {
       "id": "restaurant-allen",
@@ -2444,9 +2445,9 @@
       "lng": 126.94908,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/base-is-nice",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/baseisnice",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Base%20is%20nice&keywordSearch=Base%20is%20nice",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/baseisnice",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Base%20is%20nice&keywordSearch=Base%20is%20nice",
       "naverMapUrl": "https://map.naver.com/p/search/Base%20is%20nice%2020%20Dohwa%202-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004171%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.94908,37.53958,Base%20is%20nice/walk?c=15.00,0,0,0,dh",
       "summary": "Base is Nice는 야채를 중심 무대로 삼습니다. 식사는 일반 현지 농산물을 사용하여 만든 한식의 기본 구조를 따르며, 편안함과 건강에 좋은 맛으로 단골 손님을 끌어 모으고 있습니다. 레스토랑은 \"느린 생활의 예술\"을 구현합니다.",
@@ -2456,8 +2457,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "baseisnice"
+      ]
     },
     {
       "id": "bibijae",
@@ -4449,9 +4449,9 @@
       "lng": 126.97546,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoryung",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/seoryung",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Seoryung&keywordSearch=Seoryung",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/seoryung",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Seoryung&keywordSearch=Seoryung",
       "naverMapUrl": "https://map.naver.com/p/search/Seoryung%2010%20Sowol-ro%2C%20Jung-gu%2C%20Seoul%2C%2004527%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97546,37.55857,Seoryung/walk?c=15.00,0,0,0,dh",
       "summary": "서령은 홍천에서 여행을 시작해 강화를 거쳐 서울 남대문에 정착했다. 이 레스토랑은 이전한 곳마다 국수 애호가들의 관심을 끌었으며 정성을 다해 정통 국수와 국물을 준비함으로써 식당과의 관계를 지속적으로 확장해 왔습니다. 모든 면은 메밀로만 만들어 정종문 셰프가 직접 조리합니다.",
@@ -4461,8 +4461,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "seoryung"
+      ]
     },
     {
       "id": "shunsai-kubo",
@@ -8443,9 +8442,9 @@
       "lng": 126.98103,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pierre-gagnaire",
       "websiteUrl": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-pierre-gagnaire-a-seoul.html",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/pierregagnaire",
+      "bookingUrl": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-pierre-gagnaire-a-seoul.html",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/pierregagnaire",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Pierre%20Gagnaire&keywordSearch=Pierre%20Gagnaire",
       "naverMapUrl": "https://map.naver.com/p/search/Pierre%20Gagnaire%2035F%2C%20Lotte%20Hotel%2C%2030%20Eulji-ro%2C%20Jung-gu%2C%20Seoul%2C%2004533%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.98103,37.56529,Pierre%20Gagnaire/walk?c=15.00,0,0,0,dh",
       "summary": "세계적으로 유명한 프랑스 셰프 피에르 가니에르(Pierre Gagnaire)는 2008년 롯데호텔 신관 옥상에 자신의 이름을 딴 컨템포러리 파인 다이닝 레스토랑을 오픈했습니다. 무라노 샹들리에와 골드 트림 벽으로 장식된 우아한 다이닝 공간은 클래식한 프렌치 럭셔리를 물씬 풍깁니다. 80% 현지 재료로 만든 예술적으로 선보이는 음식은 파리 출신 셰프의 창의적인 스타일을 존중합니다.",
@@ -8456,8 +8455,7 @@
       "amenities": [
         "parking",
         "wine"
-      ],
-      "catchtableShop": "pierregagnaire"
+      ]
     },
     {
       "id": "pyeongsanok",
