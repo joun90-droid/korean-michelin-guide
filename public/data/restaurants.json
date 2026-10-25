@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T05:06:18+09:00",
+  "updatedAt": "2026-10-26T05:21:09+09:00",
   "source": "michelin-guide",
   "count": 279,
   "restaurants": [
@@ -1171,9 +1171,9 @@
       "lng": 126.97949,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-amant-secret",
       "websiteUrl": "https://lescapehotel.com/dining/lamantsecret",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
+      "bookingUrl": "https://lescapehotel.com/dining/lamantsecret",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Amant%20Secret&keywordSearch=L%27Amant%20Secret",
       "naverMapUrl": "https://map.naver.com/p/search/L%27Amant%20Secret%2026F%20L%27Escape%20Hotel%2C%2067%20Toegye-ro%2C%20Jung-gu%2C%20Seoul%2C%2004529%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97949,37.55983,L%27Amant%20Secret/walk?c=15.00,0,0,0,dh",
       "summary": "레스케이프 호텔 26층에 위치한 L'Amant Secret(프랑스어로 비밀스러운 연인을 뜻함)은 파리지앵 감성에서 영감을 받은 친밀한 공간입니다. 미국에서 요리 실력을 갈고닦은 손종원 셰프는 한국의 제철 식재료를 활용한 한식 서양요리를 지향한다. 그의 현대적인 해석은 현지 재료와 서양 요리 기술을 혼합하여 독창적이고 친숙하며 생산자와 재료, 주방과 식당 사이의 공생을 존중하는 창작물을 만들어냅니다.",
@@ -1184,8 +1184,7 @@
       ],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "lamantsecret"
+      ]
     },
     {
       "id": "lamitié",
@@ -1874,9 +1873,9 @@
       "lng": 126.97545,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yu-yuan",
       "websiteUrl": "https://www.fourseasons.com/seoul/dining/restaurants/yu_yuan",
-      "bookingUrl": "https://www.fourseasons.com/seoul/dining/restaurants/yu_yuan",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yuyuan",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yu%20Yuan&keywordSearch=Yu%20Yuan",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yuyuan",
       "naverMapUrl": "https://map.naver.com/p/search/Yu%20Yuan%2011F%20Four%20Seasons%20Hotel%2C%2097%20Saemunan-ro%2C%20Jongno-gu%2C%20Seoul%2C%2003183%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97545,37.57049,Yu%20Yuan/walk?c=15.00,0,0,0,dh",
       "summary": "테이블로 가는 길에 Four Seasons 호텔에 있는 이 멋지고 편안한 중국 레스토랑의 많은 손님들이 가장 좋아하는 북경 오리 캐비닛을 지나게 됩니다. 메뉴는 광둥식 요리에 치우쳐 있지만 점심 시간의 딤섬은 항상 인기가 있고 선택의 폭도 넓습니다. 주방에서는 여러 중국 지역의 특선 요리도 제공합니다.",
@@ -1887,7 +1886,8 @@
       ],
       "amenities": [
         "parking"
-      ]
+      ],
+      "catchtableShop": "yuyuan"
     },
     {
       "id": "zero-complex",
@@ -2367,9 +2367,9 @@
       "lng": 129.11076,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/anmok",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/anmok_busanstation",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/anmok_busan",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/anmok_busanstation",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/anmok_busan",
       "naverMapUrl": "https://map.naver.com/p/search/Anmok%203%20Gwangnam-ro%2022%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048307%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.11076,35.14492,Anmok/walk?c=15.00,0,0,0,dh",
       "summary": "돼지국밥에 대한 안목의 독특한 해석은 그 요리에 대한 기억을 뛰어넘는 참신한 맛과 매력으로 고객을 놀라게 할 수 있습니다. 수프는 단지 틀에 얽매이지 않습니다. 감사의 표시로 고개를 끄덕이게 될 것입니다.",
@@ -2380,7 +2380,7 @@
       "amenities": [
         "under-100k"
       ],
-      "catchtableShop": "anmok_busanstation"
+      "catchtableShop": "anmok_busan"
     },
     {
       "id": "bao-haus",
@@ -4449,9 +4449,9 @@
       "lng": 126.97546,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoryung",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/seoryung_cheongdam",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/seoryung",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/seoryung_cheongdam",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/seoryung",
       "naverMapUrl": "https://map.naver.com/p/search/Seoryung%2010%20Sowol-ro%2C%20Jung-gu%2C%20Seoul%2C%2004527%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97546,37.55857,Seoryung/walk?c=15.00,0,0,0,dh",
       "summary": "서령은 홍천에서 여행을 시작해 강화를 거쳐 서울 남대문에 정착했다. 이 레스토랑은 이전한 곳마다 국수 애호가들의 관심을 끌었으며 정성을 다해 정통 국수와 국물을 준비함으로써 식당과의 관계를 지속적으로 확장해 왔습니다. 모든 면은 메밀로만 만들어 정종문 셰프가 직접 조리합니다.",
@@ -4462,7 +4462,7 @@
       "amenities": [
         "under-100k"
       ],
-      "catchtableShop": "seoryung_cheongdam"
+      "catchtableShop": "seoryung"
     },
     {
       "id": "shunsai-kubo",
@@ -4887,9 +4887,9 @@
       "lng": 126.947,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yukjeon-hoekwan",
       "websiteUrl": "https://www.yukjeon.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yukjeonhoekwan",
+      "bookingUrl": "https://www.yukjeon.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yukjeonhoekwan",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yukjeon%20Hoekwan&keywordSearch=Yukjeon%20Hoekwan",
       "naverMapUrl": "https://map.naver.com/p/search/Yukjeon%20Hoekwan%2047%20Tojeong-ro%2037-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004155%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.947,37.566,Yukjeon%20Hoekwan/walk?c=15.00,0,0,0,dh",
       "summary": "1962년 문을 연 이후 50년에 걸쳐 3대에 걸쳐 이 식당을 운영해 왔습니다. 당시 메뉴는 바삭바삭하고 얇게 썰어 화덕에 구운 불고기가 전부였습니다. 바삭불고기라는 이름이 특허까지 나올 정도로 인기가 높았다.",
@@ -4899,8 +4899,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "yukjeonhoekwan"
+      ]
     },
     {
       "id": "yurimmyeon",
@@ -8441,9 +8440,9 @@
       "lng": 126.98103,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pierre-gagnaire",
       "websiteUrl": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-pierre-gagnaire-a-seoul.html",
-      "bookingUrl": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-pierre-gagnaire-a-seoul.html",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/pierregagnaire",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Pierre%20Gagnaire&keywordSearch=Pierre%20Gagnaire",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/pierregagnaire",
       "naverMapUrl": "https://map.naver.com/p/search/Pierre%20Gagnaire%2035F%2C%20Lotte%20Hotel%2C%2030%20Eulji-ro%2C%20Jung-gu%2C%20Seoul%2C%2004533%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.98103,37.56529,Pierre%20Gagnaire/walk?c=15.00,0,0,0,dh",
       "summary": "세계적으로 유명한 프랑스 셰프 피에르 가니에르(Pierre Gagnaire)는 2008년 롯데호텔 신관 옥상에 자신의 이름을 딴 컨템포러리 파인 다이닝 레스토랑을 오픈했습니다. 무라노 샹들리에와 골드 트림 벽으로 장식된 우아한 다이닝 공간은 클래식한 프렌치 럭셔리를 물씬 풍깁니다. 80% 현지 재료로 만든 예술적으로 선보이는 음식은 파리 출신 셰프의 창의적인 스타일을 존중합니다.",
@@ -8454,7 +8453,8 @@
       "amenities": [
         "parking",
         "wine"
-      ]
+      ],
+      "catchtableShop": "pierregagnaire"
     },
     {
       "id": "pyeongsanok",
