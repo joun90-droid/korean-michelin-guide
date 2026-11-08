@@ -54,6 +54,7 @@
   <url><loc>https://michelin-guide-kr.web.app/restaurant/poom</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/hansikgonggan</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/1001pyeongnaeng</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/3rd-generation-samgyetang-master</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/3rd-samgyetang</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/alta</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/anam</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -193,8 +194,10 @@
   <url><loc>https://michelin-guide-kr.web.app/restaurant/manao</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mater</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/matsuzaki</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/meerock-super</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/meerok-super</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mimi-myeonga</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://michelin-guide-kr.web.app/restaurant/mimimyunga</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/moment-local</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/moulin</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://michelin-guide-kr.web.app/restaurant/mr-ahns-craft-makgeolli</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>

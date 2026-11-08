@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T06:41:58+09:00",
+  "updatedAt": "2026-11-09T06:43:26+09:00",
   "source": "michelin-guide",
-  "count": 279,
+  "count": 282,
   "restaurants": [
     {
       "id": "gaon",
@@ -58,9 +58,10 @@
       "tags": [
         "Air conditioning",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Interesting wine list,Pets not allowed,Valet parking",
       "description": "따뜻한 톤과 현대 예술 작품, 세련된 식기로 포인트를 준 Mingles는 우아한 미니멀리즘을 구현하며 창문을 통해 잔잔한 녹색 전망을 감상할 수 있습니다. 강민구 셰프는 한국의 요리 철학을 현대적인 시음 형식으로 매끄럽게 엮어 제철 재료를 사용하여 지나치게 화려하기보다는 층층이 있고 미묘한 맛을 만들어냅니다. 건어물과 야채, 과일의 감칠맛이 농축된 오랜 시간 끓여낸 '밍링팟', 된장, 간장, 고추장을 재해석한 프랑스풍 디저트 '장트리오' 등 셰프의 혁신적인 한국식 발효식품이 돋보인다. 전복 배추선, 생선 만두 등의 요리는 이 레스토랑의 전통과 현대의 독특한 균형을 더욱 잘 보여줍니다.",
       "lat": 37.52535,
       "lng": 127.04426,
@@ -102,10 +103,11 @@
         "Air conditioning",
         "Car park",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Interesting wine list,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Interesting wine list,Pets not allowed,Valet parking,Wheelchair access",
       "description": "조셉 리저우드(Joseph Lidgerwood) 셰프는 채집을 예술로 승화시켜 전통 메주를 직접 만들고 자신만의 소스를 만듭니다. 그에게는 평범하거나 남용되는 성분이란 존재하지 않는다. 크림과 멸치 달고나, 흑마늘을 가득 넣은 그의 시그니처 메주 도넛은 감칠맛과 발효의 깊이를 한 차원 더 끌어올립니다. Evett의 메뉴는 집에서 만든 솔잎 기름과 꽃을 넣은 약주 등 한국 요리 유산을 대담하게 재해석한 혁신의 캔버스입니다. 전통과 글로벌 비전을 완벽하게 결합한 셰프의 창작품은 엄선된 와인 리스트와 함께 사용할 때 더욱 빛납니다.",
       "lat": 37.52334,
       "lng": 127.0362,
@@ -148,10 +150,11 @@
         "Car park",
         "Counter dining",
         "Notable sake list",
+        "Pets not allowed",
         "Valet parking",
         "그린스타"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Notable sake list,Valet parking",
+      "facilities": "Air conditioning,Car park,Counter dining,Notable sake list,Pets not allowed,Valet parking",
       "description": "미토우에서는 권영운 셰프와 김보미 셰프의 기량과 독창성을 신선한 제철 재료로 만든 정통 일본 요리를 통해 선보입니다. 닭고기, 계란, 쌀, 야채는 권셰프의 가족 농장에서 신중하게 조달되어 일관된 품질을 보장합니다. 이러한 노력의 정점인 요리에는 셰프들이 공유하는 성실함, 자제력, 헌신이라는 가치가 반영되어 있으며, 이는 지속적인 요리 기술 추구를 통해 형성되었습니다. 따라서 매 시즌마다 진화하는 Mitou의 메뉴를 손님들이 간절히 기대하는 것은 놀라운 일이 아닙니다.",
       "lat": 37.52206,
       "lng": 127.04502,
@@ -191,9 +194,10 @@
       "tags": [
         "Air conditioning",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Interesting wine list,Pets not allowed,Valet parking",
       "description": "Mosu는 각 접시에 상상력, 정확성, 균형을 제공합니다. 예측할 수 없는 맛과 흥미로운 질감이 끊임없는 즐거움을 선사합니다. 전복 타코, 참깨 두부, 우엉 타르트 등 시그니처 요리가 만족스럽고, 사워도우가 특히 맛있으며, 생선 요리도 고급스럽게 구성되어 있습니다. 레스토랑의 각 층은 독특한 분위기를 제공합니다. 첫 번째 층에서는 열정적인 셰프들이 일하는 모습을 볼 수 있습니다. 두 번째는 낭만적인 일몰 풍경입니다. 세심한 서비스와 사려 깊은 와인 페어링은 잊을 수 없는 식사 경험을 더욱 높여줍니다.",
       "lat": 37.54115,
       "lng": 126.99615,
@@ -235,9 +239,10 @@
         "Air conditioning",
         "Car park",
         "Interesting wine list",
+        "Pets not allowed",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Interesting wine list,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Interesting wine list,Pets not allowed,Wheelchair access",
       "description": "레스토랑 알렌(Restaurant Allen)에서는 가벼운 프렌치 터치가 가미된 ​​현대적인 요리에서 서현민 셰프의 감성이 빛을 발합니다. 우아하면서도 편안한 다이닝룸은 엄선된 식기와 조화를 이루며, 정돈된 주방의 전망은 경험을 향상시킵니다. 요리는 제철 현지 재료를 중심으로 섬세하게 구성되었으며 일년 내내 재해석되었습니다. 메뉴의 소싱 지도에는 사용된 제품의 원산지와 계절성이 강조되어 있습니다. 바삭바삭한 껍질과 균형잡힌 산도가 특징인 막걸리 효모 사워도우가 돋보입니다. 따뜻하고 세련된 서비스로 식사가 우아하게 마무리됩니다.",
       "lat": 37.5036,
       "lng": 127.0418,
@@ -280,10 +285,11 @@
         "Air conditioning",
         "Car park",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Interesting wine list,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Interesting wine list,Pets not allowed,Valet parking,Wheelchair access",
       "description": "Soigné는 변화하는 계절을 반영하고 각 재료에 생기를 불어넣는 시식 메뉴로 유명합니다. 오너 셰프 이준(Jun Lee)은 한국의 감성과 현대적인 기술을 결합하여 자신의 목소리로 표현된 요리를 만들어냅니다. 그의 시그니처 메뉴인 '에피소드' 메뉴는 소개부터 결론까지, 그리고 속도감 있는 요리 공연처럼 고전적인 이야기처럼 전개됩니다. 주방을 중심으로 한 미니멀한 화이트 톤의 공간, 우아한 플레이팅, 세심한 서비스가 어우러진 식사 경험은 잊지 못할 추억으로 남을 것입니다.",
       "lat": 37.51933,
       "lng": 127.01903,
@@ -324,9 +330,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
-        "Garden or park"
+        "Garden or park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining,Garden or park",
+      "facilities": "Air conditioning,Counter dining,Garden or park,Pets not allowed",
       "description": "서울의 현대적인 스카이라인과 나란히 놓인 전통 한옥에 박경재 셰프의 소수헌이 있습니다. 고요한 환경은 도시로부터의 우아한 휴식을 제공합니다. 8인용 카운터에서 자신감 넘치는 셰프가 조용히 집중해서 초밥을 준비하는 모습을 지켜볼 수 있습니다. 니기리 코스에 앞서 털게를 곁들인 명란젓부터 옥돔찜, 갈치구이까지 잘 조리된 다양한 요리가 제공됩니다. 하이라이트에는 모래주머니 전어와 크리미한 오징어가 포함되며 말차 한 그릇으로 기억에 남는 저녁을 마무리할 수 있습니다.",
       "lat": 37.55294,
       "lng": 126.9634,
@@ -365,9 +372,10 @@
         "Air conditioning",
         "Counter dining",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Interesting wine list,Pets not allowed,Valet parking",
       "description": "알라 프리마는 재료 본연의 맛을 그대로 유지하고, 허브와 야채의 균형이 매혹적인 향을 더해줍니다. 시음 메뉴는 지나치게 복잡하거나 위협적이지 않고 독창적입니다. 넓은 카운터는 주방의 생동감 넘치는 에너지를 가장 잘 보여주며, 차분하고 클래식한 분위기와 은은한 조명을 갖춘 다이닝룸은 디테일 하나도 놓치지 않고 정말 편안한 식사를 제공합니다.",
       "lat": 37.51346,
       "lng": 127.02602,
@@ -410,9 +418,10 @@
       "tags": [
         "Air conditioning",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Interesting wine list,Pets not allowed,Valet parking",
       "description": "현대적인 기술과 한국 전통이 만나는 미니멀한 공간에 자리한 이 레스토랑은 조용하고 매력적인 식사 경험을 제공합니다. 20년의 경험을 바탕으로 한식 제철 재료의 순수하고 섬세한 맛을 강조하는 셰프입니다. 식사는 한국의 전통주와 함께 정교하게 손질된 간단한 음식으로 시작되며, 이어서 세련된 '독상' 스타일로 제공되는 메인 코스가 이어집니다. 마지막에는 디저트 트롤리가 나타나 경험을 우아하게 마무리합니다. 낮에는 자연광이 고요한 방을 가득 채워 비즈니스 미팅이나 친밀한 모임에 이상적인 환경을 제공합니다.",
       "lat": 37.52437,
       "lng": 127.04355,
@@ -534,10 +543,11 @@
       "tags": [
         "Air conditioning",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Interesting wine list,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Interesting wine list,Pets not allowed,Valet parking,Wheelchair access",
       "description": "서울과 뉴욕 레스토랑을 운영하고 있는 임정식 셰프는 자신만의 혁신적인 감각으로 한식을 세계에 소개한 공로를 인정받았습니다. 그가 가장 잘하는 일은 김밥, 비빔밥과 같은 친숙한 것에서 영감을 얻어 혁신적이면서도 완전히 정통적인 것을 창조하는 것입니다. 전복부터 오리까지 주요 재료를 사용하여 인상적인 반찬으로 시작하는 세트 메뉴를 구성합니다. 보충 강좌를 추가하는 옵션도 있습니다. 광범위한 와인 리스트가 있지만 제안된 페어링도 잘 판단되었습니다.",
       "lat": 37.525584,
       "lng": 127.041069,
@@ -577,9 +587,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "김대춘 셰프의 요리는 시간이 지날수록 다양해지고 깊어진다. 이 레스토랑의 메뉴는 그가 추구하는 요리 방향을 구체화하고 있는데, 이는 그의 현대적인 한식 준비 덕분입니다. 한식의 기본인 발효와 숙성을 주제로 셰프가 정성과 전문성을 바탕으로 재료를 손질합니다. 7번째 문은 \"음식의 7가지 맛\"으로 들어가는 미식의 입구를 상징합니다. 처음 5가지 맛은 5가지 기본 맛입니다. 여섯째, 발효와 숙성의 맛; 일곱째, 셰프의 요리 감성이다.",
       "lat": 37.52237,
       "lng": 127.05429,
@@ -617,10 +628,11 @@
         "Air conditioning",
         "Car park",
         "Great view",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Great view,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Great view,Pets not allowed,Valet parking,Wheelchair access",
       "description": "경상도 출신인 셰프는 고향의 재료와 요리 전통을 자랑스럽게 선보입니다. 흥미로운 계절 메뉴는 한국의 음식 문화를 반영하여 식사하는 사람들이 한국의 아름다움을 경험할 수 있도록 안내합니다. 육즙이 풍부하고 풍미 가득한 삼겹살과 한 달간 하우스 드라이한 한우 등심 등 고기 요리는 셰프의 특선 요리입니다. 81층에 위치한 레스토랑은 창가 좌석에서 서울의 멋진 전망을 제공하며, 개인실에서는 특히 멋진 파노라마 전망을 제공합니다.",
       "lat": 37.5126,
       "lng": 127.10253,
@@ -662,9 +674,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed",
       "description": "콜라주라는 시각 예술 기법처럼, 노진성 셰프는 재료에 대한 폭넓은 이해를 바탕으로 다양한 맛의 균형을 이루는 요리를 만들어냅니다. 재료 본연의 맛과 진한 소스의 조화로운 조화를 통해 그의 세련된 요리 실력이 풍부하게 표현됩니다. 그는 현지의 제철 식재료와 발효 기술을 결합해 전통 프랑스 요리에 현대적이고 다양한 느낌을 더합니다. 매력적인 다이닝 공간에서 그의 독특하고 세련된 요리를 즐겨보세요.",
       "lat": 37.51619,
       "lng": 127.03099,
@@ -705,18 +718,19 @@
         "Car park",
         "Counter dining",
         "Great view",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Great view,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Counter dining,Great view,Pets not allowed,Valet parking,Wheelchair access",
       "description": "이름에서 알 수 있듯이 이 공간은 아름다운 도시 정원을 연상시킵니다. 창가 좌석은 조선팰리스 호텔 36층에서 도시의 멋진 전망을 감상할 수 있는 자리입니다. 여기에는 메뉴가 없습니다. 대신, 손님들은 아름답게 완성된 각 요리의 주요 계절 요소를 묘사한 일련의 그림 카드를 받습니다. 유쾌한 직원이 그들을 안내하고 각 요리를 더 자세히 설명합니다. 전통 한식에 창의적인 변형을 더해 레스토랑의 현대 요리 기술을 잘 보여줍니다.",
       "lat": 37.50304,
       "lng": 127.04158,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/eatanic-garden",
       "websiteUrl": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
-      "bookingUrl": "https://jpg.josunhotel.com/dining/EatanicGarden.do",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/eatanicgarden",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Eatanic%20Garden&keywordSearch=Eatanic%20Garden",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/eatanicgarden",
       "naverMapUrl": "https://map.naver.com/p/search/Eatanic%20Garden%2036F%2C%20Josun%20Palace%20Hotel%2C%20231%20Teheran-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006142%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04158,37.50304,Eatanic%20Garden/walk?c=15.00,0,0,0,dh",
       "summary": "이름에서 알 수 있듯이 이 공간은 아름다운 도시 정원을 연상시킵니다. 창가 좌석은 조선팰리스 호텔 36층에서 도시의 멋진 전망을 감상할 수 있는 자리입니다. 여기에는 메뉴가 없습니다.",
@@ -727,7 +741,8 @@
       ],
       "amenities": [
         "parking"
-      ]
+      ],
+      "catchtableShop": "eatanicgarden"
     },
     {
       "id": "escondido",
@@ -747,9 +762,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "에스콘디도는 멕시칸 음식을 향한 셰프의 열정이 가득한 공간입니다. 요리에 대한 그의 열정은 그를 멕시코로 이끌었고, 그곳에서 그는 멕시코 문화에 푹 빠져 있으면서 요리 기술을 꾸준히 배우고 향상시켰습니다. 레스토랑에서는 셰프의 독특한 손길이 가미된 진정한 멕시코 요리를 선보입니다. 그는 멕시코 요리의 주요 재료인 토르티야와 몰레를 특히 섬세하게 사용하여 섬세한 맛을 만들어냅니다. 마지막 팁: 요리에 데킬라, 메스칼, 칵테일을 곁들이면 에스컨디도에서의 미식 경험을 완전히 새로운 차원으로 끌어올릴 수 있습니다.",
       "lat": 37.53517,
       "lng": 127.01046,
@@ -829,9 +845,10 @@
       "hours": "",
       "tags": [
         "Counter dining",
+        "Pets not allowed",
         "그린스타"
       ],
-      "facilities": "Counter dining",
+      "facilities": "Counter dining,Pets not allowed",
       "description": "달맞이 언덕에 자리잡은 피오토는 부부가 운영하는 작은 레스토랑으로 파스타 중심의 테이스팅 메뉴를 선보입니다. 요리에는 주인 가족 농장의 채소, 지리산 돼지고기, 한국산 쌀 등 엄선된 식재료가 돋보입니다. 신선한 파스타, 절인 햄, 콤부차 식초, 시럽 등 대부분의 재료를 직접 제조하여 Piotto의 자연스럽고 절제된 스타일을 표현합니다. 요리는 현대 이탈리아 기술을 활용하여 파스타와 다른 전분 기반 요리의 균형을 유지하는 동시에 절제된 단맛과 가벼운 터치로 재료의 진정한 특성을 빛나게 합니다. 나무톤의 베이지와 그레이 컬러의 다이닝룸은 따뜻하고 편안한 분위기를 완성합니다.",
       "lat": 35.16127,
       "lng": 129.1833,
@@ -872,9 +889,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "일식 유명 레스토랑에서 경력을 쌓은 최현아 셰프와 원진희 셰프 부부는 손으로 직접 뽑은 소면, 갓 갈아낸 참깨, 고사리 전분을 곁들인 와라비모찌 등 흔하지 않은 재료로 일본의 계절감을 우아하게 표현하는 요리를 선보입니다. 저녁 식사는 정확히 오후 7시에 시작됩니다. 모든 손님을 위해 각 코스가 바로 눈앞에 제시되어 셰프의 장인정신을 강조하는 깊이 있는 몰입형 경험을 제공합니다. 셰프의 사려 깊은 설명과 따뜻하고 세심한 환대는 전반적인 식사 여행을 더욱 고조시킵니다.",
       "lat": 37.52451,
       "lng": 127.04523,
@@ -912,10 +930,11 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking",
         "그린스타"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "Gigas는 자연의 향기를 반영한 ​​신선한 야채와 허브로 만든 제철 지중해 요리를 선보입니다. 모든 농산물은 40km 떨어진 셰프의 가족 농장에서 생산되며 서울 중심부에서 진정한 팜투테이블 다이닝을 선사합니다. 정하완 셰프는 천연 재료를 사용하여 자신만의 독특한 개성을 지닌 지중해 요리를 만들고, 명확한 방향감으로 전통 요리법을 승격시킵니다. 바위와 나무로 장식된 자연을 연상시키는 다이닝 공간에서 자연이 주는 음식의 매력을 즐겨보세요.",
       "lat": 37.55696,
       "lng": 126.97809,
@@ -954,9 +973,10 @@
       "tags": [
         "Air conditioning",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Interesting wine list,Pets not allowed,Valet parking",
       "description": "기와강에서는 독특한 프렌치 요리 스타일로 유명한 강민철 셰프가 한식에 뿌리를 둔 과감한 접근 방식을 선보입니다. 강 셰프는 전통적인 한국의 맛과 세련된 프랑스식 기술을 결합하여 다른 방법으로는 불가능해 보일 수 있는 복잡한 맛의 조합을 창의적으로 마스터합니다. 캐비어를 곁들인 동치미, 트러플을 곁들인 간장게장밥, 오징어 만두 등의 요리는 대담하면서도 조화롭다. 흠잡을 데 없는 개방형 주방과 우아하고 현대적인 공간은 레스토랑의 세련된 분위기를 조성하며, 따뜻하고 세심한 서비스는 창의적이면서 깊은 만족감을 주는 식사 경험을 완성합니다.",
       "lat": 37.52107,
       "lng": 127.02893,
@@ -996,9 +1016,10 @@
         "Air conditioning",
         "Counter dining",
         "Notable sake list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Notable sake list,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Notable sake list,Pets not allowed,Valet parking",
       "description": "메인 바 좌석이 8개뿐인 이 친밀한 환경에서는 손님들이 셰프의 모든 움직임을 지켜볼 수 있습니다. 건물 2층의 소박한 외관을 유지하면서 김건 셰프는 농산물의 신선함과 자신의 창의적인 직관에서 영감을 받아 제철 식재료를 활용한 창작 요리를 선보입니다. 일관성과 배려는 Kim이 고객에게 서비스를 제공할 때 매우 중요하게 생각하는 것입니다. 음료 메뉴에는 일본의 소규모 양조장에서 생산되는 다양한 종류의 사케가 포함되어 있습니다.",
       "lat": 37.52298,
       "lng": 127.03478,
@@ -1037,14 +1058,15 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "이름에 걸맞게 새하얀 건물에 자리잡은 레스토랑은 빈 캔버스처럼 느껴지며 뚜렷한 모던한 분위기를 전달하는 공간을 연출합니다. 카운터 석으로 둘러싸인 오픈형 주방에서는 손님들이 요리 과정 전체를 지켜볼 수 있어 식사 경험에 역동적인 요소를 더해줍니다. 요리는 셰프의 창의성을 강조하면서 동일한 현대적 정신을 반영합니다. 가장 눈에 띄는 것은 산쇼와 함께 전통적인 스타일로 먼저 제공되는 바삭한 장어입니다. 그 다음에는 바질과 함께 얇은 팬케이크에 싸서 북경 오리를 연상시키는 바질 식초에 담근 두 번째 준비가 이어집니다. 오후 9시 이후에는 레스토랑의 고전적인 시그니처 요리를 선보이는 코스와 함께 일품요리도 즐기실 수 있습니다.",
       "lat": 37.52414,
       "lng": 127.03227,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hakusi",
-      "websiteUrl": "",
+      "websiteUrl": "https://hakusi.kr/",
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/hakusi",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/hakusi",
@@ -1121,9 +1143,10 @@
       "tags": [
         "Air conditioning",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Interesting wine list,Pets not allowed,Valet parking",
       "description": "셰프의 협업과 전 세계 여행에서 영감을 받아 전통 프랑스 요리를 한국식 또는 아시아식으로 재해석한 요리가 많습니다. 말린 죽순과 블루베리를 태워서 만든 소스, 말린 표고버섯과 미역을 넣어 만든 국물을 프랑스 요리에 넣는 등 예상치 못한 맛의 조합을 제공합니다. 2025년에 더 넓고 밝은 장소로 이전했으며, 흙과 자연에서 영감을 받은 디자인부터 식기까지 모든 요소를 ​​세심한 주의를 기울여 선택했습니다.",
       "lat": 37.5249,
       "lng": 127.04365,
@@ -1162,17 +1185,18 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "레스케이프 호텔 26층에 위치한 L'Amant Secret(프랑스어로 비밀스러운 연인을 뜻함)은 파리지앵 감성에서 영감을 받은 친밀한 공간입니다. 미국에서 요리 실력을 갈고닦은 손종원 셰프는 한국의 제철 식재료를 활용한 한식 서양요리를 지향한다. 그의 현대적인 해석은 현지 재료와 서양 요리 기술을 혼합하여 독창적이고 친숙하며 생산자와 재료, 주방과 식당 사이의 공생을 존중하는 창작물을 만들어냅니다.",
       "lat": 37.55983,
       "lng": 126.97949,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/l-amant-secret",
       "websiteUrl": "https://lescapehotel.com/dining/lamantsecret",
-      "bookingUrl": "https://lescapehotel.com/dining/lamantsecret",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%27Amant%20Secret&keywordSearch=L%27Amant%20Secret",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/lamantsecret",
       "naverMapUrl": "https://map.naver.com/p/search/L%27Amant%20Secret%2026F%20L%27Escape%20Hotel%2C%2067%20Toegye-ro%2C%20Jung-gu%2C%20Seoul%2C%2004529%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.97949,37.55983,L%27Amant%20Secret/walk?c=15.00,0,0,0,dh",
       "summary": "레스케이프 호텔 26층에 위치한 L'Amant Secret(프랑스어로 비밀스러운 연인을 뜻함)은 파리지앵 감성에서 영감을 받은 친밀한 공간입니다. 미국에서 요리 실력을 갈고닦은 손종원 셰프는 한국의 제철 식재료를 활용한 한식 서양요리를 지향한다. 그의 현대적인 해석은 현지 재료와 서양 요리 기술을 혼합하여 독창적이고 친숙하며 생산자와 재료, 주방과 식당 사이의 공생을 존중하는 창작물을 만들어냅니다.",
@@ -1183,7 +1207,8 @@
       ],
       "amenities": [
         "parking"
-      ]
+      ],
+      "catchtableShop": "lamantsecret"
     },
     {
       "id": "lamitié",
@@ -1201,9 +1226,10 @@
       "phone": "+8225469621",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "장명식 셰프는 2006년부터 자신 있게 준비한 프랑스 요리로 손님들을 맞이해 왔습니다. 밝고 바람이 잘 통하는 2층 객실은 친밀하고 편안한 환경을 제공하며, 잘 짜여진 서빙팀은 모두를 잘 보살펴줍니다. 세트 메뉴는 계절에 맞는 요리를 균형 있게 배열하여 제공되며, 모두 다채롭고 매력적으로 표현됩니다. 도피누아즈와 콜리플라워 퓨레를 곁들인 한우 안심은 재료 본연의 맛이 빛을 발하는 깨끗하고 바삭바삭한 요리의 한 예일 뿐입니다.",
       "lat": 37.52591,
       "lng": 127.04455,
@@ -1232,7 +1258,7 @@
       "cuisine": "한식",
       "region": "부산",
       "area": "부산",
-      "address": "2F, 37 Marine city 3-ro, Haeundae-gu, Busan, 48118, South Korea",
+      "address": "#213, #214, 2F, 37 Marine city 3-ro, Haeundae-gu, Busan, 48118, South Korea",
       "priceRange": "$$$",
       "priceMin": 150000,
       "phone": "+82517478522",
@@ -1240,9 +1266,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Interesting wine list"
+        "Interesting wine list",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Interesting wine list",
+      "facilities": "Air conditioning,Car park,Interesting wine list,Pets not allowed",
       "description": "부산 출신의 젊은 셰프가 이끄는 르 도레(Le DORER)는 현지 제철 식재료를 중심으로 전통 한식의 정수를 현대적으로 재해석한 테이스팅 메뉴를 선보입니다. 원래는 한식당이었는데, 프랑스와 일본식 기법의 영향을 받아 현대적인 스타일로 발전했습니다. 작은 골목을 지나면 탁 트인 바다 전망을 감상할 수 있는 주류 밀매점 같은 다이닝룸으로 들어갑니다. 잘 갖춰진 와인 저장고와 세심하게 선별된 와인 페어링은 경험을 더욱 풍요롭게 합니다.",
       "lat": 35.15543,
       "lng": 129.14665,
@@ -1251,7 +1278,7 @@
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/ledorer",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/ledorer",
-      "naverMapUrl": "https://map.naver.com/p/search/Le%20DORER%202F%2C%2037%20Marine%20city%203-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048118%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/Le%20DORER%20%23213%2C%20%23214%2C%202F%2C%2037%20Marine%20city%203-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048118%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.14665,35.15543,Le%20DORER/walk?c=15.00,0,0,0,dh",
       "summary": "부산 출신의 젊은 셰프가 이끄는 르 도레(Le DORER)는 현지 제철 식재료를 중심으로 전통 한식의 정수를 현대적으로 재해석한 테이스팅 메뉴를 선보입니다. 원래는 한식당이었는데, 프랑스와 일본식 기법의 영향을 받아 현대적인 스타일로 발전했습니다. 작은 골목을 지나면 탁 트인 바다 전망을 감상할 수 있는 주류 밀매점 같은 다이닝룸으로 들어갑니다.",
       "score": 38,
@@ -1277,17 +1304,18 @@
       "cuisine": "모던",
       "region": "서울",
       "area": "서울",
-      "address": "2F, Sinsa Square, 652 Gangnam-daero, Gangnam-gu, Seoul, 06027, South Korea",
-      "priceRange": "$$",
-      "priceMin": 80000,
+      "address": "#207, 2F, Sinsa Square, 652 Gangnam-daero, Gangnam-gu, Seoul, 06027, South Korea",
+      "priceRange": "$$$",
+      "priceMin": 150000,
       "phone": "+8250713651567",
       "hours": "",
       "tags": [
         "Air conditioning",
         "Car park",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed",
       "description": "식물성 재료만을 사용하여 우아하고 매력적인 요리를 만드는 것은 쉬운 일이 아니지만, 성시우 셰프는 Légume에서 자신있게 이를 달성합니다. 채식 요리에 대한 그의 깊은 이해와 독특한 개인적인 비전이 결합되어 명확한 정체성을 지닌 메뉴가 탄생했습니다. 완전 채식 접근 방식을 추구하는 이 레스토랑은 한국 채식 전통의 폭을 강조하면서 현대적인 요리를 개선합니다. 셰프의 확실한 기술은 각 요리에 명확성과 깊이를 더해주며, 상상력이 풍부한 맛은 채식주의자뿐만 아니라 다양한 입맛을 가진 손님들에게도 매력적입니다.",
       "lat": 37.51938,
       "lng": 127.01932,
@@ -1296,17 +1324,15 @@
       "bookingUrl": "https://www.legume.kr",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=L%C3%A9gume&keywordSearch=L%C3%A9gume",
-      "naverMapUrl": "https://map.naver.com/p/search/L%C3%A9gume%202F%2C%20Sinsa%20Square%2C%20652%20Gangnam-daero%2C%20Gangnam-gu%2C%20Seoul%2C%2006027%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/L%C3%A9gume%20%23207%2C%202F%2C%20Sinsa%20Square%2C%20652%20Gangnam-daero%2C%20Gangnam-gu%2C%20Seoul%2C%2006027%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.01932,37.51938,L%C3%A9gume/walk?c=15.00,0,0,0,dh",
       "summary": "식물성 재료만을 사용하여 우아하고 매력적인 요리를 만드는 것은 쉬운 일이 아니지만, 성시우 셰프는 Légume에서 자신있게 이를 달성합니다. 채식 요리에 대한 그의 깊은 이해와 독특한 개인적인 비전이 결합되어 명확한 정체성을 지닌 메뉴가 탄생했습니다. 완전 채식 접근 방식을 추구하는 이 레스토랑은 한국 채식 전통의 폭을 강조하면서 현대적인 요리를 개선합니다.",
       "score": 38,
       "occasions": [
-        "date",
-        "value"
+        "date"
       ],
       "amenities": [
-        "parking",
-        "under-100k"
+        "parking"
       ]
     },
     {
@@ -1327,9 +1353,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed",
       "description": "일본에서 훈련받은 한국인 셰프와 그의 일본인 아내가 공동 소유한 모리(Mori)는 눈과 입을 모두 즐겁게 해줄 정통 일식 가이세키 요리를 선보입니다. 김완규 셰프는 부산의 신선한 해산물과 제철 농산물을 사용해 섬세한 요리를 만듭니다. 그는 재료의 완벽한 조화와 모리의 코스 요리를 특징짓는 잘 조절된 리듬감으로 표현되는 비교할 수 없는 요리 균형 감각을 가지고 있습니다. 셰프가 정성껏 만든 요리와 아내의 부드럽고 세심한 서비스가 어우러지는 아늑한 공간에서 정통 일본 요리를 즐겨보세요.",
       "lat": 35.163577,
       "lng": 129.161301,
@@ -1360,7 +1387,7 @@
       "cuisine": "오마카세",
       "region": "서울",
       "area": "서울",
-      "address": "16 Dosan-daero 72-gil, Gangnam-gu, Seoul, 06063, South Korea",
+      "address": "B2, 26 Dosan-daero 70-gil, Gangnam-gu, Seoul, 06064, South Korea",
       "priceRange": "$$$$",
       "priceMin": 280000,
       "phone": "+8225111303",
@@ -1369,9 +1396,10 @@
         "Air conditioning",
         "Counter dining",
         "Notable sake list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Notable sake list,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Notable sake list,Pets not allowed,Valet parking",
       "description": "Muni는 절제된 입구와 긴 카운터를 중심으로 한 미니멀한 디자인이 특징인 세련된 일식 레스토랑입니다. 개방형 주방 뒤에 있는 선반에는 셰프가 세심하게 수집한 도자기가 전시되어 공간에 개인적이고 엄선된 느낌을 더해줍니다. 김동욱 셰프는 전통 가이세키 요리에 엄격하게 집착하지 않지만, 제철 식재료와 우아한 연출을 통해 그 감성을 자연스럽게 녹여낸다. 그의 오마카세는 계절성과 단순함에 중점을 두고 최고 품질의 일본산과 한국산 제품을 사용하여 각 계절의 본질을 표현합니다. 키키사케시 인증을 받은 셰프는 식사의 품격을 높여 더욱 풍성한 식사 경험을 제공하는 페어링을 추천해 드립니다.",
       "lat": 37.52291,
       "lng": 127.04545,
@@ -1380,7 +1408,7 @@
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/muni",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/muni",
-      "naverMapUrl": "https://map.naver.com/p/search/Muni%2016%20Dosan-daero%2072-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006063%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/Muni%20B2%2C%2026%20Dosan-daero%2070-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006064%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04545,37.52291,Muni/walk?c=15.00,0,0,0,dh",
       "summary": "Muni는 절제된 입구와 긴 카운터를 중심으로 한 미니멀한 디자인이 특징인 세련된 일식 레스토랑입니다. 개방형 주방 뒤에 있는 선반에는 셰프가 세심하게 수집한 도자기가 전시되어 공간에 개인적이고 엄선된 느낌을 더해줍니다. 김동욱 셰프는 전통 가이세키 요리에 엄격하게 집착하지 않지만, 제철 식재료와 우아한 연출을 통해 그 감성을 자연스럽게 녹여낸다.",
       "score": 38,
@@ -1488,9 +1516,10 @@
       "tags": [
         "Air conditioning",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Interesting wine list,Pets not allowed,Valet parking",
       "description": "SAN은 현대적인 요리와 창의적인 감각을 결합합니다. 제철 재료의 맛이 강조되고 소스와 짝을 이루어 복잡함과 절제된 균형을 이룹니다. 랍스터 젓갈과 참외 동치미는 조성현 셰프의 상상력이 돋보이는 음식이다. 밀면과 돼지국밥은 셰프의 독특한 해석으로 한식의 진한 맛을 한층 더 높여줍니다. 조용한 서비스와 사려 깊은 와인 페어링이 식사 경험을 더해주며, 공간의 숲 분위기로 인해 식사 경험이 더욱 향상됩니다.",
       "lat": 37.52631,
       "lng": 127.03391,
@@ -1529,9 +1558,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "솔밤에서의 저녁은 분위기 있는 응접실에서 음료와 스낵으로 시작하여 개방형 주방이 있는 밝고 넓은 식사 공간으로 안내됩니다. 오너 엄태준 셰프의 풍부한 경험과 기술력은 특히 한국 최고의 제철 농산물과 잘 어울립니다. 콜리플라워를 곁들인 대게, 죽순을 곁들인 전복, 달래를 곁들인 한우 등 요리는 종종 독창적이고 인상적이며 격식을 갖춘 서비스 팀이 연극적인 느낌을 가미하여 선보입니다. 완벽한 경험을 원하시면 3잔 또는 7잔 와인 페어링을 선택하세요.",
       "lat": 37.51575,
       "lng": 127.03411,
@@ -1613,14 +1643,15 @@
         "Air conditioning",
         "Car park",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed,Valet parking",
       "description": "서울의 고풍스러운 지역에 위치한 이 레스토랑은 스타일리시한 파인 다이닝에 대한 윤대현 셰프의 대담한 실험입니다. 이곳에서는 현대 한국에서 접할 수 있는 다양한 요리 전통과 재료가 일상 생활에서 발견되는 친숙한 맛과 만나 독특한 퓨전 창작물을 형성합니다. 식당 이름이 내포하는 많은 의미 중에는 영혼을 담아 음식을 제공하려는 셰프의 열망이 담겨 있으며, 이는 모든 요리에서 뚜렷이 드러납니다. 아내 김희은 셰프와 함께 이 듀오 부부는 식당을 여러 구역으로 나누어 다양한 요리에 적합한 식사 공간을 만들어냈습니다.",
       "lat": 37.54533,
       "lng": 126.98443,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/soul-dining",
-      "websiteUrl": "",
+      "websiteUrl": "https://restaurant-soul.com/",
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/souldining",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/souldining",
@@ -1700,9 +1731,10 @@
         "Car park",
         "Counter dining",
         "Notable sake list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Notable sake list,Valet parking",
+      "facilities": "Air conditioning,Car park,Counter dining,Notable sake list,Pets not allowed,Valet parking",
       "description": "마츠모토 미즈호 셰프는 현지 환경에서 정통성을 재현하는 것으로 유명합니다. 이 스시야는 미식 트렌드를 쫓기보다는 한국 환경 속에서 일본 본토의 정통 스시를 충실히 재현하기 위해 노력하고 있습니다. 샤리(밥)와 네타(생선 토핑)의 구성과 배치부터 해박한 서비스까지, 그러한 노력은 틀림없습니다. 인상적인 쓰마미(애피타이저) 라인과 자연스러운 맛의 흐름을 반영하는 니기리 스시의 진행이 여전히 주요 요리의 매력으로 남아 있습니다.",
       "lat": 37.52535,
       "lng": 127.04573,
@@ -1740,9 +1772,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "투투아망이라는 이름은 '친절하고 격식을 차리지 않고 이야기하다'라는 뜻으로, 음식을 통해 손님들과 자연스럽게 소통하고 싶은 김도현 셰프의 마음을 반영한 것입니다. 흥미롭게도 이러한 여유로운 접근 방식과 달리, 정교하게 조리된 세련된 프랑스 요리는 음식에 확고한 초점을 맞추며 오감을 사로잡습니다. 셰프는 각 재료의 미묘한 맛, 식감, 뉘앙스를 세심하게 표현하고, 재료와 함께 제공되는 소스의 조화를 강조하기 위해 요리를 플레이팅합니다. 그의 요리는 명확한 비전과 사려 깊고 기억에 남는 식사 경험을 만들고자 하는 열망을 바탕으로 한 개인적인 여정을 반영합니다.",
       "lat": 37.54969,
       "lng": 127.0666,
@@ -1780,9 +1813,10 @@
         "Air conditioning",
         "Car park",
         "Counter dining",
-        "Interesting wine list"
+        "Interesting wine list",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Interesting wine list",
+      "facilities": "Air conditioning,Car park,Counter dining,Interesting wine list,Pets not allowed",
       "description": "인더스트리얼 스타일의 천장 아래 어두운 톤의 카운터가 개방형 주방을 감싸고 있어 손님들이 각 요리의 모양을 가까이에서 관찰할 수 있습니다. 밝고 경쾌한 음악과 팀의 여유로운 서비스는 편안하면서도 세련된 분위기를 조성합니다. 공동 오너인 전성빈 셰프는 유명 주방의 경험을 바탕으로 한국 전통과 현대 기술, 개인적인 해석이 어우러진 계절 메뉴를 선보입니다. 미묘하고 표현력이 풍부한 맛과 대담하면서도 미니멀한 미학이 코스 경험을 정의합니다. 더 깊은 여행을 원하는 이들에게는 세심하게 선별된 와인 페어링을 추천합니다.",
       "lat": 37.51866,
       "lng": 127.03814,
@@ -1863,10 +1897,11 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking,Wheelchair access",
       "description": "테이블로 가는 길에 Four Seasons 호텔에 있는 이 멋지고 편안한 중국 레스토랑의 많은 손님들이 가장 좋아하는 북경 오리 캐비닛을 지나게 됩니다. 메뉴는 광둥식 요리에 치우쳐 있지만 점심 시간의 딤섬은 항상 인기가 있고 선택의 폭도 넓습니다. 주방에서는 여러 중국 지역의 특선 요리도 제공합니다. 생강을 곁들인 횡성한우육을 웍에 볶은 요리는 주목할만한 요리다.",
       "lat": 37.57049,
       "lng": 126.97545,
@@ -1905,14 +1940,15 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "제로컴플렉스는 오픈 이후 지속적으로 성분에 대한 혁신적인 해석을 선보여 왔습니다. 두 번이나 이전했지만 요리의 맛과 창의성은 한 번도 흔들리지 않았습니다. 이 레스토랑은 시그니처 요리 중 하나인 쫄깃한 보리, 미역 스파게티, 미역 쥐를 곁들인 태평양 지오리를 통해 유쾌하고 탄력 있는 식감과 풍부하고 스모키한 미역 맛을 선보입니다. 조용한 주택가에 위치한 레스토랑은 찾기 어려울 수 있지만, 조용한 정원을 바라보며 요리를 맛보는 것은 그만한 가치가 있습니다.",
       "lat": 37.52079,
       "lng": 126.99285,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/zero-complex",
-      "websiteUrl": "",
+      "websiteUrl": "https://zerocomplex.kr",
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/zerocomplex",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/zerocomplex",
@@ -1946,9 +1982,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "y'east는 이름에서 알 수 있듯이 무한한 요리 가능성을 제공하는 곳입니다. 조영동 셰프는 자신만의 미학으로 재해석된 친숙한 요리로 손님들을 즐겁게 합니다. 국내에서는 구하기 힘든 재료들을 예술적으로 블렌딩해 새로운 맛을 창조하는 데 열정을 쏟는다. 카야 토스트에서 영감을 받은 시그니처 아뮤즈 부쉬부터 갈비돌까지, 각 요리는 참신함과 익숙함의 균형을 구현하여 원래 맛의 본질을 유지하면서 독창적인 미식의 즐거움을 제공합니다.",
       "lat": 37.5263,
       "lng": 127.03556,
@@ -2018,11 +2055,11 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Cash only",
         "Counter dining",
-        "Great view"
+        "Great view",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Cash only,Counter dining,Great view",
+      "facilities": "Air conditioning,Car park,Counter dining,Great view,Pets not allowed",
       "description": "경복궁 돌담 길 건너편에 위치한 온지움은 한국의 전통 미학과 현대 건축의 차분함을 조화롭게 이루고 있습니다. 궁중요리 전문가 조은희, 박성배가 이끄는 요리팀은 현대적인 기술과 제철 재료, 다년간의 연구를 통해 한국의 전통 맛을 재해석합니다. 각 요리는 역사에 뿌리를 두고 있지만 오늘날의 입맛에도 잘 맞습니다. 카운터 좌석에서는 주방의 조용한 분위기를 엿볼 수 있으며, 세심하게 선별된 음료 페어링은 경험을 향상시킵니다.",
       "lat": 37.58048,
       "lng": 126.97345,
@@ -2141,6 +2178,47 @@
         "value"
       ],
       "amenities": [
+        "under-100k"
+      ]
+    },
+    {
+      "id": "3rd-generation-samgyetang-master",
+      "name": "3rd Generation Samgyetang Master",
+      "nameEn": "3rd Generation Samgyetang Master",
+      "stars": "bib",
+      "greenStar": false,
+      "ribbons": null,
+      "cuisine": "모던",
+      "region": "서울",
+      "area": "서울",
+      "address": "56-3 Banpo-daero 28-gil, Seocho-gu, Seoul, 06646, South Korea",
+      "priceRange": "$",
+      "priceMin": 40000,
+      "phone": "+8225222270",
+      "hours": "",
+      "tags": [
+        "Air conditioning",
+        "Pets allowed only in outdoor dining areas (patio/terrace)",
+        "Valet parking"
+      ],
+      "facilities": "Air conditioning,Pets allowed only in outdoor dining areas (patio/terrace),Valet parking",
+      "description": "Now in its third generation after opening in 1973, 3rd Samgyetang is well-regarded among Seocho locals for its restorative soup. The signature samgyetang features a rich broth of over 40 ingredients, topped with mung bean and pine nut purées, and mugwort paste. The grains give the broth a satisfying body, and the meat from young chickens falls effortlessly off the bone. Spoon some glutinous rice into the broth, add a pinch of glasswort salt, and enjoy the bowl of cosy porridge. Arrive early to avoid long lines during peak hours.",
+      "lat": 37.49135,
+      "lng": 127.01155,
+      "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/3rd-samgyetang",
+      "websiteUrl": "https://3daesamgyejangin.com/ko",
+      "bookingUrl": "https://3daesamgyejangin.com/ko",
+      "source": "michelin-csv",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=3rd%20Generation%20Samgyetang%20Master&keywordSearch=3rd%20Generation%20Samgyetang%20Master",
+      "naverMapUrl": "https://map.naver.com/p/search/3rd%20Generation%20Samgyetang%20Master%2056-3%20Banpo-daero%2028-gil%2C%20Seocho-gu%2C%20Seoul%2C%2006646%2C%20South%20Korea",
+      "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.01155,37.49135,3rd%20Generation%20Samgyetang%20Master/walk?c=15.00,0,0,0,dh",
+      "summary": "Now in its third generation after opening in 1973, 3rd Samgyetang is well-regarded among Seocho locals for its restorative soup. The signature samgyetang features a rich broth of over 40 ingredients, topped with mung bean and pine nut purées, and mugwort paste. The grains give th",
+      "score": 30,
+      "occasions": [
+        "value"
+      ],
+      "amenities": [
+        "parking",
         "under-100k"
       ]
     },
@@ -2357,9 +2435,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "돼지국밥에 대한 안목의 독특한 해석은 그 요리에 대한 기억을 뛰어넘는 참신한 맛과 매력으로 고객을 놀라게 할 수 있습니다. 수프는 단지 틀에 얽매이지 않습니다. 감사의 표시로 고개를 끄덕이게 될 것입니다. 이 요리는 또한 다른 많은 한국 수프의 맛을 연상시키는 독특한 맛을 가지고 있습니다. 실제로 돼지국밥의 본고장인 부산의 수많은 유명 레스토랑들과 성공적으로 차별화를 이루며, 다양한 요리 방향을 모색하며 변화와 진화를 거듭하고 있다는 인상을 준다. 사람마다 취향이 다르지만, 아목 국물은 칠리소스나 새우젓을 넣지 않고 그대로 끓여 먹는 것을 추천한다.",
       "lat": 35.14492,
       "lng": 129.11076,
@@ -2397,9 +2476,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "Baohaus는 정통성과 셰프의 개인적인 손길을 모두 강조하는 간단하고 접근하기 쉬운 요리를 선보이는 캐주얼한 대만풍 요리를 선보입니다. 메뉴는 찐 바오, 루러우팬(간장으로 끓인 삼겹살 밥), 마파두부, 바삭한 유샹 가지 등 마음을 편안하게 해주는 요리를 중심으로 구성됩니다. 친숙하면서도 이국적인 느낌을 주는 음식은 즐기기 쉽고 세심하게 준비되어 있습니다. 공간이 협소하고 예약을 받지 않기 때문에 웨이팅이 발생할 수 있습니다.",
       "lat": 35.15488,
       "lng": 129.06335,
@@ -2513,9 +2593,10 @@
       "phone": "+82517468872",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "2021년 해운대해수욕장 인근으로 이전한 부다면오악은 100% 메밀가루로 만든 평양냉면을 맛볼 수 있는 곳이다. 순하고 감칠맛이 풍부한 국물과 함께 제공되는 국수는 기분 좋게 쫄깃쫄깃해 씹을 때마다 고소한 풍미가 더해집니다. 맛과 질감을 모두 향상시키기 위해 원하는 고명을 선택하여 얹어 한 입 먹을 때마다 이전보다 더 만족스러운 식사를 만들어 보세요. 소꼬리 수프는 이 집의 또 다른 특산품입니다. 넉넉한 소꼬리 조각과 함께 몇 시간 동안 끓이면 깊고 풍부한 맛이 나며, 부드러운 고기는 각 그릇에 풍성함과 편안함을 더해줍니다.",
       "lat": 35.16237,
       "lng": 129.16298,
@@ -2632,9 +2713,10 @@
       "phone": "+8223324560",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "담택은 합정역 근처 조용한 골목에 자리잡은 아늑한 작은 라멘집입니다. 조원현 셰프는 의도적으로 빈티지한 소품들로 이 고풍스러운 공간을 장식했습니다. 레스토랑의 시오 라멘과 동일한 수프 베이스를 사용하는 다양한 변형 요리는 집처럼 편안하고 소박한 분위기와 극명한 대조를 이룹니다. 세련되고 깔끔한 국물의 맛은 독특하고 중독성을 불러일으킵니다. 요리 관습에 얽매이지 않는 맛을 창조하려는 열정으로 셰프는 시오 라멘의 예술을 완성하고 모든 입맛을 즐겁게 할 수 있는 라멘을 만들기 위해 끊임없이 자신의 기술을 바쳤습니다.",
       "lat": 37.55448,
       "lng": 126.91512,
@@ -2670,9 +2752,9 @@
       "phone": "+8227339240",
       "hours": "",
       "tags": [
-        "Cash only"
+        "Pets not allowed"
       ],
-      "facilities": "Cash only",
+      "facilities": "Pets not allowed",
       "description": "전통 한옥을 개조한 이 레스토랑은 주인 할머니로부터 전수받은 요리법인 개성식 만두를 중심으로 지어졌습니다. 3시간 동안 발효된 반죽은 기분 좋게 탄력 있는 질감과 은은한 밀 향을 지닌 포장지를 만들어 내며, 넉넉한 야채와 혼합된 돼지고기는 깔끔하고 조화로운 맛을 선사합니다. 맑고 우유빛이 나는 국물에 쇠고기와 10가지 신선한 야채를 넣고 8시간 동안 끓여서 진한 양념 없이도 자연 그대로의 깊은 맛이 납니다. 곁들여지는 물김치와 깍두기는 만두와 아름답게 어우러져 균형 잡히고 조용하고 세련된 식사를 완성합니다.",
       "lat": 37.57423,
       "lng": 126.98539,
@@ -2708,9 +2790,10 @@
       "phone": "+821084791107",
       "hours": "",
       "tags": [
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Car park",
+      "facilities": "Car park,Pets not allowed",
       "description": "간장게장과 세련된 장식이 항상 함께 어울리는 것은 아니지만, 게방식당에서는 함께합니다. 게방식당은 게장게장 전문 패션 마케터 방건혁과 그의 부모님이 함께 만든 곳으로, 세련된 인테리어와 다양한 종류의 게 요리로 트렌드에 민감한 사람들의 입맛을 사로잡고 있습니다. 게 껍질만 먹기가 부담스러운 분들을 위해 게살과 게알만 뜨거운 밥 위에 올려 먹는 메뉴도 있습니다.",
       "lat": 37.51727,
       "lng": 127.03942,
@@ -2748,9 +2831,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "신당동의 주요 도로를 따라 위치한 금돼지식당은 흰색 바탕에 금색 타일로 된 간판과 식사 시간이 지나도 문 밖에 길게 늘어선 줄로 쉽게 눈에 띕니다. 예전에는 YBD돼지를 잘게 썰어 먹던 곳이 최근 프리미엄급 돼지로 전환해 육질을 한 단계 업그레이드했다. 돼지고기의 식감은 단단하고 육질이 좋으며, 풍미 가득한 지방이 균형을 이루어 고기의 육즙이 매우 풍부합니다. 온도를 일정하게 유지하는 데 도움이 되는 연탄 위에 주철 그릴에서 음식을 조리합니다.",
       "lat": 37.55705,
       "lng": 127.01165,
@@ -2786,9 +2870,10 @@
       "phone": "+8225459600",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "신사역 근처에 위치한 이 레스토랑은 15일 동안 숙성시킨 돼지고기 엉덩이를 특수 제작된 알루미늄 화격자에 비장탄 숯 위에 올려 빠르게 구워내는 전문점입니다. 이 조리 방법 덕분에 고기는 지방이 많고 부드럽고 육즙이 풍부합니다. 초밥의 경우처럼 일본 컨설턴트 셰프가 고안한 레시피로 만든 밥과 고추냉이를 함께 먹으면 육즙이 밥에 흡수되어 더욱 부드러워진다. 사이드 오더도 빼놓을 수 없습니다.",
       "lat": 37.5166307,
       "lng": 127.0188926,
@@ -2826,9 +2911,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "현대백화점 10층에 새롭게 오픈한 곰탕랩은 임정식 셰프가 곰탕을 비롯한 국물 요리를 탐구하는 비밀 기지입니다. 시그니처 콜라겐 곰탕은 사골, 힘줄, 정강이, 꼬리 등을 넣고 10시간 이상 끓여서 젤라틴 같은 깊은 맛을 냅니다. 메뉴는 곱창곰탕, 바지락곰탕부터 평양냉면, 쇠고기라면까지 다양하다. 세트를 주문하면 명란 두부, 김치전, 만두 등 다양한 반찬이 나옵니다. 천천히 익힌 쇠고기는 한국 전통주와 잘 어울립니다.",
       "lat": 37.50859,
       "lng": 127.05971,
@@ -2867,14 +2953,15 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "그린스타"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "신당동 중앙시장의 빨간 차양 아래 자리잡은 고사리익스프레스는 동네의 노포 맛집 중 단연 돋보이는 곳이다. '매일 채식'을 모토로 식물성 기반의 식사에 유쾌한 접근 방식을 취합니다. 매콤한 비빔면부터 달콤하고 톡 쏘는 고사리칠리 소스를 얹은 대만식 팬케이크까지 모든 요리에 이 레스토랑의 시그니처 고사리 오일 소스가 사용됩니다. 이 독창적인 지점은 고사리의 무한한 잠재력을 보여줍니다.",
       "lat": 37.56626,
       "lng": 127.02001,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/gosari-express",
-      "websiteUrl": "",
+      "websiteUrl": "https://badcarrotgroup.com/",
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/gosari_express",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/gosari_express",
@@ -2907,17 +2994,18 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "태국어로 \"태국 바질\"을 의미하는 호라파. 메뉴는 단순하지만 각 요리는 놀라울 정도로 깊은 맛을 선사합니다. 남토케트는 숯불에 구운 버섯과 향긋한 허브, 구운 쌀가루를 넣어 만든 매콤한 샐러드로 쫄깃한 식감이 좋습니다. 캥 마사만(Kaeng Massaman)은 계피와 달콤하게 구운 야채를 넣어 만든 독특한 맛의 카레입니다. 적절한 와인과 짝을 이루는 이 요리는 독특한 맛 경험을 제공합니다. 좌석이 한정되어 있어 항상 자리가 꽉 찼습니다. 좌석이 제한되어 있고 수요가 꾸준하기 때문에 사전 예약이 자리를 확보하는 가장 좋은 방법입니다.",
       "lat": 37.57938,
       "lng": 126.9711,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/horapa",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=HORAPA&keywordSearch=HORAPA",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=HORAPA&keywordSearch=HORAPA",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
       "naverMapUrl": "https://map.naver.com/p/search/HORAPA%202F%2C%2037-1%20Jahamun-ro%2C%20Jongno-gu%2C%20Seoul%2C%2003040%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.9711,37.57938,HORAPA/walk?c=15.00,0,0,0,dh",
       "summary": "태국어로 \"태국 바질\"을 의미하는 호라파. 메뉴는 단순하지만 각 요리는 놀라울 정도로 깊은 맛을 선사합니다. 남토케트는 숯불에 구운 버섯과 향긋한 허브, 구운 쌀가루를 넣어 만든 매콤한 샐러드로 쫄깃한 식감이 좋습니다.",
@@ -2928,7 +3016,8 @@
       "amenities": [
         "under-100k",
         "wine"
-      ]
+      ],
+      "catchtableShop": "horapaseoul"
     },
     {
       "id": "haemok",
@@ -2946,9 +3035,10 @@
       "phone": "+82517463730",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "관광객과 현지 단골 모두에게 인기가 높은 해목에서는 부담 없이 즐길 수 있는 일식 요리를 선보입니다. 푸른 울타리와 설명할 수 없을 만큼 이국적인 건물이 이 장소를 동네에서 눈에 띄게 만드는 분위기를 만들어냅니다. 나무를 바탕으로 한 장식과 다다미 바닥도 이국적인 분위기를 더해줍니다. 해목의 메뉴에는 일본 덮밥, 사시미, 튀김, 다다키 요리 등이 포함되어 있습니다. 하지만 그 시그니처 메뉴는 단연 히츠마부시(나고야식 장어구이)입니다. 감칠맛이 풍부한 소스로 코팅된 장어는 깊은 풍미가 특징이며 완벽하게 지은 밥과 완벽한 조화를 이룹니다. 그리고 아시다시피 해목에는 서울에도 전초 기지가 있습니다.",
       "lat": 35.16174,
       "lng": 129.15977,
@@ -3023,9 +3113,10 @@
       "phone": "+82517117025",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "한월관의 곰탕 한 그릇은 재료에 대한 자부심과 최고의 맛을 이끌어내기 위한 깊은 집념이 아낌없이 담겨 나옵니다. 한월관은 한우만을 사용하여 육수에 은은한 쇠고기 향을 더해줍니다. 맑은 고기육수와 진한 사골육수 중 선택할 수 있으며, 양지머리, 목살, 무릎관절 등 다양한 부위의 쇠고기를 얹어 곰탕 한 그릇에서 다양한 한우 맛을 경험할 수 있습니다. 방짜유기(손으로 단조한 청동 식기)에 담긴 고급스러운 김치와 반찬은 곰탕과 완벽한 조화를 이룹니다.",
       "lat": 35.15469,
       "lng": 129.11854,
@@ -3062,9 +3153,10 @@
       "phone": "+82516284898",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "합천국밥집은 부산의 사랑받는 돼지국밥의 전통적인 스타일을 유지하면서 요리의 진화 속에서도 오랜 세월의 맛을 유지하고 있습니다. 돼지고기에 육수를 붓고 물기를 빼는 과정을 반복하는 시그니처 기술은 불필요한 냄새를 제거하는 동시에 고기의 풍미를 높여줍니다. 맑고 감칠맛이 가득한 국물은 오래도록 깊은 인상을 남깁니다. 돼지고기 조림도 특산품이지만 한정 수량으로 인해 빨리 매진됩니다.",
       "lat": 35.11124,
       "lng": 129.11127,
@@ -3137,9 +3229,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "대한민국 서해안에 위치한 태안군 맛집의 첫 번째 서울 지점입니다. '꽃게집'이라는 뜻의 가게 이름은 달콤한 살이 특징인 간장게장 전문점입니다. 매년 봄, 지역 게가 제철일 때 잡아서 급속 냉동시켜 일년 내내 사용합니다. 게는 태안에서 손질하여 서울로 보내드립니다. 해산물 반찬도 맛있습니다.",
       "lat": 37.52689,
       "lng": 126.91706,
@@ -3177,9 +3270,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "황금콩밭은 국내산 콩을 사용하여 집에서 만든 두부를 만드는 영양 많고 편안한 한식 요리에 중점을 두고 있습니다. 양념을 가볍게 하여 각 재료의 본연의 맛을 강조하여 부드러우면서도 깊은 맛이 나는 요리를 만들어냅니다. 짜박두부, 두부조림, 두부전골, 두부전, 두부두루치기 등이 대표메뉴로 쌀, 누룩, 물로만 만든 집에서 만든 탁주와 아름다운 조화를 이룹니다. 두부가 주메뉴지만, 메뉴에는 돼지고기 보쌈, 육전, 다양한 해산물 옵션이 포함되어 있어 다재다능하고 감동적인 식사 경험을 제공합니다.",
       "lat": 37.5509,
       "lng": 126.9567,
@@ -3217,9 +3311,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "황생가칼국수는 하루종일 긴 줄로 유명한 국수와 만두 전문점입니다. 입구에서는 직원들이 싱싱한 시장 재료를 사용해 특대 만두를 재빠르게 손수 만들기 때문에 푸짐하고 눈에 띄게 신선한 만두가 탄생한다. 부드러운 칼국수 면과 속이 편안해지는 사골육수가 대표 메뉴이며, 옛날 방식으로 끓인 돼지고기와 제철 콩국수도 인기 메뉴다. 하루 종일 영업하며, 보다 편안한 식사를 위해 피크 시간대 외에 방문하는 것이 가장 좋습니다.",
       "lat": 37.58003,
       "lng": 126.98065,
@@ -3339,13 +3434,14 @@
       "address": "88 Neungdong-ro 13-gil, Gwangjin-gu, Seoul, 05012, South Korea",
       "priceRange": "$",
       "priceMin": 40000,
-      "phone": "+821099743592",
+      "phone": "+827047983592",
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "'의미가 담긴 국수'라는 뜻을 지닌 정면은 오픈형 주방과 7인용 스테인레스 스틸 카운터를 갖추고 있습니다. 이 1인 셰프 운영은 고기 기반의 국수를 제공하며, 흰색과 빨간색 국수를 단독으로 제공하며 각각 풍부하고 층이 있는 맛을 자랑합니다. 해산물, 돼지고기, 닭고기로 만든 국물은 깊고 조화로운 맛을 드러낸다. 얇게 썬 부드러운 돼지고기와 양파, 고추 등의 토핑이 식감과 시각적 매력을 더해줍니다. 빨간 국수 수프는 다양한 매운 정도에 따라 맞춤 설정할 수 있으며, 밥 한 그릇과 함께 제공되어 푸짐함을 더해줍니다.",
       "lat": 37.54551,
       "lng": 127.06866,
@@ -3381,17 +3477,18 @@
       "phone": "+827050358878",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "왕육성 셰프는 40년 넘게 한국에 중국 요리를 대중화하는데 헌신해 왔습니다. 서울 어디에서나 흔히 볼 수 있는 대부분의 한식 중식당과 달리, 왕 셰프는 자신이 제공하는 음식의 질을 지속적으로 높이기 위해 단 10가지 요리로 구성된 한정 메뉴를 제공합니다. 가장 많이 요청되는 요리로는 새우 토스트, 게살과 달걀 흰자 볶음, 마파두부, 쇠고기 가이란 볶음 등이 있습니다.",
       "lat": 37.55777,
       "lng": 126.91324,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/jin-jin",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Jin%20Jin&keywordSearch=Jin%20Jin",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/jinjin",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Jin%20Jin&keywordSearch=Jin%20Jin",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/jinjin",
       "naverMapUrl": "https://map.naver.com/p/search/Jin%20Jin%2060%20World%20Cup%20buk-ro%201-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004031%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.91324,37.55777,Jin%20Jin/walk?c=15.00,0,0,0,dh",
       "summary": "왕육성 셰프는 40년 넘게 한국에 중국 요리를 대중화하는데 헌신해 왔습니다. 서울 어디에서나 흔히 볼 수 있는 대부분의 한식 중식당과 달리, 왕 셰프는 자신이 제공하는 음식의 질을 지속적으로 높이기 위해 단 10가지 요리로 구성된 한정 메뉴를 제공합니다. 가장 많이 요청되는 요리로는 새우 토스트, 게살과 달걀 흰자 볶음, 마파두부, 쇠고기 가이란 볶음 등이 있습니다.",
@@ -3401,7 +3498,8 @@
       ],
       "amenities": [
         "under-100k"
-      ]
+      ],
+      "catchtableShop": "jinjin"
     },
     {
       "id": "jungin-myeonok",
@@ -3421,9 +3519,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Wheelchair access",
       "description": "변함없는 품질의 레스토랑을 찾는 것은 언제나 즐거운 일입니다. 정인면옥도 그런 곳 중 하나다. 급변하는 시대에도 세대를 거쳐 음식의 맛을 묵묵히 지켜오고 있습니다. 정인면옥은 3년산 천연 천일염과 한우만을 사용하여 국물의 맛을 그대로 유지한 평양냉면입니다. 메밀로만 만든 은은한 맛의 면발도 이 식당의 특징 중 하나입니다. 한우 앞다리 수육과 만두는 냉면과 완벽하게 어울립니다. 여의도에 위치한 곳이라 점심시간에는 웨이팅이 길어요.",
       "lat": 37.5307,
       "lng": 126.92167,
@@ -3614,8 +3713,10 @@
       "priceMin": 40000,
       "phone": "+8227166661",
       "hours": "",
-      "tags": [],
-      "facilities": "",
+      "tags": [
+        "Pets not allowed"
+      ],
+      "facilities": "Pets not allowed",
       "description": "한국 가정식의 영역에서 설렁탕보다 더 전형적인 것은 없습니다. 설렁탕은 국물이 거의 유백색이 될 때까지 몇 시간 동안 소뼈와 쇠고기를 끓여 만든 푸짐한 수프입니다. 1949년 문을 연 마포옥은 양지살과 소뼈를 살짝 투명해질 때까지 삶아 만든 대표메뉴다. 사골 수프에는 두툼하게 썬 부드러운 양지머리와 쌀이 뜨거운 국물에 이미 섞여 있습니다. 국물에 맛을 더하려면 김치 주스를 달라고 요청하세요.",
       "lat": 37.53983,
       "lng": 126.94332,
@@ -3651,9 +3752,10 @@
       "phone": "+821048862928",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "이창윤 셰프는 모험심으로 꾸준히 기술을 연마해왔습니다. 토르티야에 대한 특별한 열정으로 그는 멕시코에서 배운 방법을 사용하여 마사를 반죽하고 만드는 모습을 자주 볼 수 있습니다. Mattdol에서는 다른 요리 전통에 대한 그의 훈련이 한국의 제철 재료와 만나 안목 있는 식사자들에게 어필할 수 있는 독특한 멕시코 요리를 선보입니다. 그의 토스타다와 타코를 먹어본 사람들은 그의 요리에 담긴 정성, 정확성, 맛의 깊이를 금세 알아차릴 것입니다.",
       "lat": 37.53808,
       "lng": 127.05065,
@@ -3691,9 +3793,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "광화문 중심에 위치한 미진은 1952년부터 한식 냉메밀국수를 선보이고 있습니다. 지하에는 공장을 운영하고 있어 디핑소스와 메밀국수를 매일 신선하게 조리하고 있습니다. 1인분에는 국수가 담긴 트레이 바구니 2개, 차가운 소스가 담긴 큰 주전자, 기본 반찬이 함께 제공됩니다. 간 무, 담백한 와사비, 바삭바삭한 김, 다진 파를 원하는 대로 찍어 드세요. 이미 테이블 위에 놓여 있습니다.",
       "lat": 37.5708,
       "lng": 126.97985,
@@ -3731,9 +3834,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "합정동에 위치한 미필담은 북한식 수제 만둣국을 전문으로 하는 소박하고 작은 곳이다. 젊은 주인 부부의 비법에 따라 만든 담백한 맛의 요리입니다. 통통하고 육즙이 풍부한 만두와 부드러운 국물의 완벽한 조합에 손님들은 쉽게 거부할 수 없습니다. 시그니처 수프 외에도 계절에 따라 업데이트되는 전통 요리도 메뉴에 제공되며, 이는 좋은 음식을 제공하려는 주인의 열정을 반영합니다.",
       "lat": 37.54658,
       "lng": 126.91419,
@@ -3770,9 +3874,10 @@
       "phone": "+82517449944",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "100% 국내산 메밀을 사용하고, 직접 제분하여 면을 직접 뽑아 갓 만든 메밀면의 순수한 맛과 쫄깃한 식감을 느낄 수 있는 레스토랑입니다. 비빔메밀면이 매콤한 맛에 중점을 둔다면, 들기름과 냉메밀면은 은은한 메밀향을 살려 레스토랑이 강조하는 맛이다. 쫄깃쫄깃하고 부드러운 삶은 돼지고기 조각도 국수와 잘 어울립니다.",
       "lat": 35.15663,
       "lng": 129.14695,
@@ -3850,9 +3955,10 @@
       "phone": "+82517310886",
       "hours": "",
       "tags": [
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Counter dining",
+      "facilities": "Counter dining,Pets not allowed",
       "description": "해리단길 깊숙한 곳에 자리잡은 이 식당은 자리를 잡기 위해 줄을 서서 기다리는 손님들로 눈에 띈다. 부산에 위치한 이 라멘 전문점은 1960년대 일본 후쿠오카 나가하마 지역에서 시작된 음식점의 첫 한국 전초 기지입니다. 라면은 돼지 뼈를 국물이 우유빛이 되고 부드러워질 때까지 몇 시간 동안 끓여서 준비됩니다. 직접 만든 비법 ​​간장을 더해 국물 맛이 진하면서도 무겁지 않습니다. 원하는 대로 국수를 삶아달라고 요청하거나 생마늘이나 매운 소스를 추가할 수 있습니다. 새로 만든 국물이 너무 짠 것 같다면 국물을 더 달라고 요청하여 요리를 최대한 맛보세요.",
       "lat": 35.16664,
       "lng": 129.15748,
@@ -3927,9 +4033,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "일본 라면과 프랑스 요리를 독특하게 결합한 후쿠오카 레스토랑이 서울에 오픈했습니다. 니시무라 타카히토 셰프가 라면에 대한 깊은 열정을 표현하기 위해 만든 이 레스토랑은 세심하게 균형잡힌 토핑, 소스, 오일을 사용해 층층이 쌓인 맛을 통해 그의 개인적인 스타일을 보여줍니다. 라면의 전통을 지키면서도 김기름, 청양고추, 백김치에서 영감을 받은 츠케모노 등을 사용하여 요리를 현지화합니다. 치즈와 라면 국물을 섞은 갓 지은 솥밥의 뛰어난 요리는 레스토랑의 독창적인 접근 방식을 더욱 강조합니다.",
       "lat": 37.56337,
       "lng": 126.92526,
@@ -3966,9 +4073,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "Niurou Mian Guanzi는 커다란 노란색 간판으로 쉽게 알아볼 수 있습니다. 시그니처 홍샤오 쇠고기 국수는 청경채와 머스타드 그린 피클을 곁들인 간장 조림 쇠고기에 칠리 오일을 뿌린 풍부하고 풍미 가득한 국물이 특징입니다. 인기 있는 반찬으로는 바삭바삭한 대만식 튀긴 돼지갈비, 즉 파이구와 홍유 카오스쇼가 있는데, 둘 다 우육면과 잘 어울립니다. 레스토랑에서는 국물을 최상의 상태로 제공하기 위해 매일 국수 서비스를 제한합니다. 간단해 보이지만 풍미 가득한 이 요리에 시원한 대만 맥주를 곁들이는 것을 추천합니다.",
       "lat": 35.14029,
       "lng": 129.10842,
@@ -4005,9 +4113,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "오일제 단골손님은 들깨미역국 한 접시로 돌아옵니다. 깨끗한 육수와 고소한 들깨가 어우러져 깊은 맛이 나는 수프가 완성됩니다. 미역간장, 낙지젓갈, 갓김치 등 간단한 반찬이 갓 지은 밥과 함께 균형 잡힌 식사를 완성합니다. 깔끔한 오픈형 주방에서 가마솥에 국과 밥을 짓는 모습을 구경하실 수 있습니다. 레스토랑에서는 매주 금요일 특별한 날을 축하하는 손님들에게 특별한 생일 식사를 제공합니다.",
       "lat": 37.53254,
       "lng": 126.97473,
@@ -4126,9 +4235,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "옥동식은 곰탕을 연상시키는 담백하고 깔끔한 국물을 제공하며, 돼지국밥을 자신만의 세련된 방식으로 정의했습니다. 지리산에서 자란 토종 흑돼지 햄과 앞다리로 만든 육수는 은은하면서도 고급스러운 맛을 자랑합니다. 밥 위에 뜨거운 육수를 반복해서 붓는 토렴법으로 밥알 하나하나가 살아있어 요리의 깊이를 더해줍니다. The house dipping sauce complements paper-thin slices of pork beautifully. Delicately crafted kimchi dumplings complete the comforting dining experience.",
       "lat": 37.55261,
       "lng": 126.91449,
@@ -4166,9 +4276,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "오레노 라멘은 서빙 직전에 국물을 섞어서 입안을 즐겁게 감싸는 거품이 나는 수프를 만들어냅니다. 닭고기를 통째로 끓여 만든 파이탄은 고소한 맛과 크리미한 질감을 지닌 우유빛 국물입니다. 직접 만든 국수와 입에서 살살 녹는 닭고기, 다시마, 계란이 어우러져 특별한 한 그릇을 완성합니다. 추가로 맛을 즐기고 싶다면 매콤한 국물을 선택하고 국수, 밥, 국물이 무료로 리필되는 혜택을 누려보세요. 레스토랑에는 줄이 긴 경우가 많지만 회전율이 빠르므로 대기 시간은 일반적으로 짧습니다. 고추 사이드도 추천드리며 무료로 제공됩니다.",
       "lat": 37.54725,
       "lng": 126.91781,
@@ -4206,9 +4317,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "PILI PILI는 가장자리가 약간 거칠어 보일 수 있지만 틀림없는 태국 레스토랑의 미학은 거부하기 어렵습니다. 메뉴는 뿌리에 충실하면서도 현지 입맛에 맞게 재해석된 태국 고전 요리를 선보입니다. 시그니처 푸팟퐁 카레는 크리미한 게살을 풍부하고 향긋한 카레 소스에 섞어 따뜻한 백미와 환상적으로 조화를 이루는 것이 특징입니다. 톡 쏘는 신맛과 매콤한 똠얌 수프가 맛있지만, 카오팟 똠양 볶음밥이 시선을 사로잡습니다. 의도적으로 빈티지한 인테리어를 하여 부산 태국 현지 식당의 느낌을 재현하였습니다. 이제 칵테일을 추가하면 테이블에 미니어처 태국이 생깁니다.",
       "lat": 35.16379,
       "lng": 129.11807,
@@ -4281,7 +4393,7 @@
       "address": "21 Geumgok-daero 20beon-gil, Buk-gu, Busan, 46547, South Korea",
       "priceRange": "$",
       "priceMin": 40000,
-      "phone": "+82513315445",
+      "phone": "+82513315455",
       "hours": "",
       "tags": [
         "Air conditioning"
@@ -4402,9 +4514,10 @@
       "phone": "+821095160934",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "이탈리안 요리 전문가 김낙영 셰프가 석교난면방에서 자신만의 독특한 면 요리를 선보입니다. 그의 난면은 한국과 이탈리아 요리 전통을 독특하고 창의적으로 융합한 요리입니다. 셰프는 이 두 가지 독특한 전통 방식을 섬세하게 조화시켜 면의 식감과 국물의 맛있는 맛을 강조합니다. 대표 메뉴로는 제주산 닭으로 만든 구엄닭난면과 닭고기와 한우로 우려낸 육수로 만든 서교난면이 있다. 셰프가 제철 국수 요리를 만들어내므로, 새로운 경험을 위해 여러 번 방문할 가치가 있습니다.",
       "lat": 37.55359,
       "lng": 126.91231,
@@ -4440,9 +4553,10 @@
       "phone": "+8223188766",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "서령은 홍천에서 여행을 시작해 강화를 거쳐 서울 남대문에 정착했다. 이 레스토랑은 이전한 곳마다 국수 애호가들의 관심을 끌었으며 정성을 다해 정통 국수와 국물을 준비함으로써 식당과의 관계를 지속적으로 확장해 왔습니다. 모든 면은 메밀로만 만들어 정종문 셰프가 직접 조리합니다. 이것이 모든 면요리에 은은하게 퍼지는 향긋한 메밀의 맛의 비결입니다. 돼지 어깨살의 가장 부드러운 부분으로 만든 만두와 제육은 더욱 만족스러운 경험을 선사합니다.",
       "lat": 37.55857,
       "lng": 126.97546,
@@ -4480,17 +4594,18 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "쿠보슌사이(Shunsai Kubo)는 이재욱 셰프가 운영하는 히츠마부시(나고야식 장어구이) 전문점입니다. 일본에서 훈련을 받은 셰프는 살아있는 일본 장어(Anguilla japonica)로 만든 자신의 대표 요리의 맛과 품질에 대한 기준을 높이기 위해 지속적으로 노력하고 있습니다. 특제 소스를 발라 정성껏 구워낸 장어의 풍부한 향이 딱 알맞게 지은 밥과 어우러져 즐거운 미식의 조화를 이룹니다. 레스토랑에서는 가족을 위한 세심한 배려로 어린이를 위한 히츠마부시 메뉴를 제공합니다. 구보 순사이(Shunsai Kubo)는 또한 옛 일본 갓포 요리에 대한 좋은 추억을 갖고 있는 오랜 단골들을 위한 정통 라이트 바 스낵을 제공합니다.",
       "lat": 35.24088,
       "lng": 129.01472,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/shunsai-kubo",
-      "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/shunsaikubo",
+      "websiteUrl": "https://shunsaikubo.com",
+      "bookingUrl": "https://shunsaikubo.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/shunsaikubo",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Shunsai%20Kubo&keywordSearch=Shunsai%20Kubo",
       "naverMapUrl": "https://map.naver.com/p/search/Shunsai%20Kubo%2017%20Yangdal-ro%204%20beon-gil%2C%20Buk-gu%2C%20Busan%2C%2046517%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.01472,35.24088,Shunsai%20Kubo/walk?c=15.00,0,0,0,dh",
       "summary": "쿠보슌사이(Shunsai Kubo)는 이재욱 셰프가 운영하는 히츠마부시(나고야식 장어구이) 전문점입니다. 일본에서 훈련을 받은 셰프는 살아있는 일본 장어(Anguilla japonica)로 만든 자신의 대표 요리의 맛과 품질에 대한 기준을 높이기 위해 지속적으로 노력하고 있습니다. 특제 소스를 발라 정성껏 구워낸 장어의 풍부한 향이 딱 알맞게 지은 밥과 어우러져 즐거운 미식의 조화를 이룹니다.",
@@ -4501,8 +4616,7 @@
       "amenities": [
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "shunsaikubo"
+      ]
     },
     {
       "id": "sobakeeri-suzu",
@@ -4520,9 +4634,10 @@
       "phone": "+82222566986",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "일본에서 요리 기술을 연마한 오너 셰프는 한국의 메밀을 사용해 사랑받는 소바 전통을 재해석하기 위해 다시 돌아왔습니다. 주와리(juwari)나 니하치(nihachi)와 같은 전형적인 메밀 대 밀가루 비율을 따르는 대신, 요리사는 소토이치(sotoichi)를 선택했습니다. 소바는 은은한 곡물 향과 쫄깃한 식감이 특징입니다. 맛있는 조림 요리와 바삭바삭한 튀김과 함께 클래식 자루 소바를 즐기실 수 있습니다. 모두 사케와 잘 어울리는 선택입니다.",
       "lat": 37.55949,
       "lng": 127.01243,
@@ -4559,9 +4674,10 @@
       "phone": "+82517114648",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "전통주와 국수를 중심으로 사업을 성공적으로 마친 오너 셰프가 이제 송헌집에서 떡갈비에 도전합니다. 두껍고 숯불에 구운 패티는 스모키하고 육즙이 풍부하며, 밥, 섬세한 반찬, 진한 된장찌개와 함께 제공됩니다. 개조된 2층 주택에 자리잡은 레스토랑은 1990년대 집의 아늑한 분위기를 연상시킵니다. 집처럼 편안하면서도 풍성한 식사 경험을 위해 낮은 테이블에 요리가 제공됩니다. 객실 입장 시 신발을 벗어야 합니다.",
       "lat": 35.15654,
       "lng": 129.12146,
@@ -4639,9 +4755,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "도쿄 밥상에 도착할 즈음에는 광안리해수욕장의 활기 넘치는 분위기가 어느덧 고요함으로 바뀌었습니다. 이 레스토랑은 우나주와 히츠마부시라는 두 가지 전통 일본 장어 요리를 전문으로 합니다. 이 요리에는 김태우 셰프의 정통성을 향한 헌신이 반영되어 있습니다. 두툼하고 쫄깃한 장어 본연의 맛이 돋보이는 장어의 한입 한입이 감칠맛이 가득한 소스와 완벽한 조화를 이룹니다. 윤기나는 밥과의 조화가 식욕을 더욱 고조시킵니다. 정통 요리법에 대한 셰프의 존경심과 그의 민감한 요리 창의성이 결합되어 이 요리의 신뢰성을 유지합니다.",
       "lat": 35.14839,
       "lng": 129.11386,
@@ -4680,9 +4797,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "우래옥은 서울에서 가장 유명한 평양냉면 전문점 중 하나로, 1946년 문을 연 이후 전통을 이어오고 있다. 다른 경쟁업체들과 차별화되는 점은 국물이다. 한우 앞다리를 몇 시간 동안 끓여낸 뒤 소금과 간장만으로 양념을 하여 이곳에서만 맛볼 수 있는 깔끔하고 고소한 맛이 일품입니다. 또 다른 인기 메뉴인 불고기는 냉면과 잘 어울린다. 한결같은 맛을 유지하고 있으며, 다년간의 서비스를 통해 현지 재료만을 사용하여 24시간 내내 손님들로 북적입니다.",
       "lat": 37.56815,
       "lng": 126.99866,
@@ -4720,9 +4838,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "야키토리 온중은 밝고 활기찬 다이닝 홀에서 다양한 일품요리 메뉴와 함께 두 가지 야키토리 코스 옵션을 제공합니다. 요리사가 세심하게 제어한 비장탄 숯불 위에서 꼬치를 구워 아름답게 쫄깃하고 육즙이 풍부한 야키토리를 만들어냅니다. 매일 손질해 뼈를 발라낸 토종닭의 깔끔한 맛이 숯불향과 아름답게 어우러집니다. 닭꼬치에 사케를 곁들인 후 편안한 닭고기 곰탕 한 그릇으로 균형 잡힌 식사가 완성됩니다. 벽돌 아치 너머의 캐주얼한 분위기에서 다양한 위스키와 니혼슈를 꼬치와 함께 즐겨보세요.",
       "lat": 35.15866,
       "lng": 129.06284,
@@ -4887,9 +5006,9 @@
       "lng": 126.947,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/yukjeon-hoekwan",
       "websiteUrl": "https://www.yukjeon.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yukjeonhoekwan",
+      "bookingUrl": "https://www.yukjeon.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yukjeonhoekwan",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Yukjeon%20Hoekwan&keywordSearch=Yukjeon%20Hoekwan",
       "naverMapUrl": "https://map.naver.com/p/search/Yukjeon%20Hoekwan%2047%20Tojeong-ro%2037-gil%2C%20Mapo-gu%2C%20Seoul%2C%2004155%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.947,37.566,Yukjeon%20Hoekwan/walk?c=15.00,0,0,0,dh",
       "summary": "1962년 문을 연 이후 50년에 걸쳐 3대에 걸쳐 이 식당을 운영해 왔습니다. 당시 메뉴는 바삭바삭하고 얇게 썰어 화덕에 구운 불고기가 전부였습니다. 바삭불고기라는 이름이 특허까지 나올 정도로 인기가 높았다.",
@@ -4899,8 +5018,7 @@
       ],
       "amenities": [
         "under-100k"
-      ],
-      "catchtableShop": "yukjeonhoekwan"
+      ]
     },
     {
       "id": "yurimmyeon",
@@ -4918,9 +5036,10 @@
       "phone": "+8227550659",
       "hours": "",
       "tags": [
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Counter dining",
+      "facilities": "Counter dining,Pets not allowed",
       "description": "50년 넘게 가족이 운영하는 이 식당은 편안한 영양을 찾는 사람들에게 국수 한 그릇을 제공해 왔습니다. 베스트셀러 중 하나인 생메밀국수는 신안 비금도산 명품소금과 봉평산 메밀가루를 사용해 매일 직접 손수 빚는다. 양념한 야채와 얇은 계란 장식, 달콤하고 매콤한 소스를 얹은 이 국수 한 그릇은 만족스러운 식사를 제공합니다. 뜨거운 국물에 밀면을 넣은 가락국수에는 어묵이 듬뿍 들어있습니다.",
       "lat": 37.56419,
       "lng": 126.9761,
@@ -5095,9 +5214,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "A L'AISE는 유럽 분위기의 자연스러운 우아함을 구현합니다. 매력적인 식사 공간과 캐주얼하고 부드러운 가구는 식사하는 사람들이 휴식을 취할 수 있는 편안한 분위기를 조성합니다. 코스 요리는 재료와 소스의 섬세한 균형이 특징이며 흥미로운 맛을 선사합니다. 또 다른 독특한 요리의 즐거움은 한국의 영향을 받은 정통 프랑스 소스로 각 요리에 독특한 느낌을 더해줍니다. 각 접시는 전통과 현대가 만나는 단순함과 창의성이 혼합되어 있습니다.",
       "lat": 37.53479,
       "lng": 127.01029,
@@ -5142,9 +5262,9 @@
       "lng": 127.0374241,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/aelgerizm",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Aelgerizm&keywordSearch=Aelgerizm",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/aelgerizm",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Aelgerizm&keywordSearch=Aelgerizm",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/aelgerizm",
       "naverMapUrl": "https://map.naver.com/p/search/Aelgerizm%202F%2C%208%20Dosan-daero%2049-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006019%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0374241,37.5233164,Aelgerizm/walk?c=15.00,0,0,0,dh",
       "summary": "Aelgerizm의 현대적인 요리는 테마에 따른 섬세한 계절 변화를 통해 여러분의 입맛을 즐겁게 해줄 것입니다. 이 음식은 양민우 셰프의 일본에서의 요리와 생활 경험에서 영감을 받았습니다. 그는 서양식 재료를 독창적으로 사용하여 일본 요리 브랜드의 경계를 모호하게 만들고 항상 요리의 완벽함을 달성하기 위해 올바른 균형을 유지하려고 노력합니다.",
@@ -5152,7 +5272,8 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ]
+      ],
+      "catchtableShop": "aelgerizm"
     },
     {
       "id": "au-bouillon",
@@ -5170,9 +5291,10 @@
       "phone": "+82264011048",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "오 부용(Au Bouillon)에 들어서면 프랑스의 좁은 골목길에 자리잡은 작은 레스토랑이 나옵니다. 레스토랑은 누군가의 집에서 식사하는 것처럼 따뜻하고 아늑한 느낌을 줍니다. 메뉴에는 정통 프랑스 요리가 모두 훌륭하게 구현되어 있습니다. 오리 어깨살과 피스타치오로 만든 파테 드 캄파뉴는 구운 바게트, 무화과 잼과 환상적으로 조화를 이루고 와인 한 모금과 함께 마무리됩니다. 전통적인 방식으로 조리된 코코뱅, 부야베스, 라따뚜이를 맛보고 요리와 세팅의 완벽한 조화를 느껴보세요.",
       "lat": 37.5311165,
       "lng": 127.0073647,
@@ -5288,9 +5410,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "김대춘 셰프의 비움은 한국 사찰음식에 대한 깊은 이해를 보여준다. 다이너스는 바쁜 일상에서 벗어나 차분하고 세련된 맛을 즐기며 이곳에서 고요한 탈출구를 찾습니다. 제철 현지 야채로 만든 그의 요리는 흙, 물, 불, 공기라는 불교의 네 가지 요소를 반영합니다. 김 셰프는 최고급 농산물, 전통 장, 세련된 기술로 한국 사찰 요리의 수준을 높여 모든 요리에 건강하고 세련된 맛을 선사합니다.",
       "lat": 37.52239,
       "lng": 127.05439,
@@ -5319,15 +5442,16 @@
       "cuisine": "모던",
       "region": "서울",
       "area": "서울",
-      "address": "664 Seolleung-ro, Gangnam-gu, Seoul, 06088, South Korea",
+      "address": "#109, 664 Seolleung-ro, Gangnam-gu, Seoul, 06088, South Korea",
       "priceRange": "$",
       "priceMin": 40000,
       "phone": "+8225462305",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "메밀국수에 대한 깊은 열정을 지닌 셰프가 운영하는 봉밀가는 꼼꼼한 준비와 재료에 대한 엄격한 기준을 담고 있습니다. 집에서 만드는 배식초와 머스터드 소스, 매일매일 담가두는 무김치, 살짝 두툼한 손칼국수 등이 일반 냉면집과 차별화된다. 한우와 한약재를 넣고 5시간 정도 끓인 맑은 국물은 콩소메처럼 깔끔한 맛을 낸다. 면에 배식초와 머스타드를 추가하고, 삶은 돼지고기와 함께 먹으면 더욱 맛을 즐길 수 있다. 메뉴는 미나리를 곁들인 평양식 국수와 편안한 곰탕을 포함해 선택의 폭이 더 넓습니다.",
       "lat": 37.51598,
       "lng": 127.0424,
@@ -5336,7 +5460,7 @@
       "bookingUrl": "https://app.catchtable.co.kr/ct/shop/bongmilga",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/bongmilga",
-      "naverMapUrl": "https://map.naver.com/p/search/Bongmilga%20664%20Seolleung-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006088%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/Bongmilga%20%23109%2C%20664%20Seolleung-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006088%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0424,37.51598,Bongmilga/walk?c=15.00,0,0,0,dh",
       "summary": "메밀국수에 대한 깊은 열정을 지닌 셰프가 운영하는 봉밀가는 꼼꼼한 준비와 재료에 대한 엄격한 기준을 담고 있습니다. 집에서 만드는 배식초와 머스터드 소스, 매일매일 담가두는 무김치, 살짝 두툼한 손칼국수 등이 일반 냉면집과 차별화된다. 한우와 한약재를 넣고 5시간 정도 끓인 맑은 국물은 콩소메처럼 깔끔한 맛을 낸다.",
       "score": 18,
@@ -5365,9 +5489,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "보름새는 섬에서 운영하는 농장에서 사육되는 흑우(흑우)를 맛볼 수 있는 서울 유일의 곳입니다. 흑우는 맛이 더 가늘고 고소하기 때문에 식감이 훨씬 더 단단합니다. 소금만 살짝 뿌려도 묵직하고 고소한 맛이 입안을 가득 채웁니다. 제주에서 직접 공수한 신선한 고기로 고기의 품질에 남다른 자부심을 갖고 있습니다. 서울에서 살코기, 담백한 맛의 소고기를 찾으신다면 보음새로 가보세요.",
       "lat": 37.509328,
       "lng": 127.056611,
@@ -5405,9 +5530,10 @@
       "phone": "+82260822727",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "Once up the tiny set of stairs of Borgo Hannam, you will be greeted with homemade dishes and liqueurs befitting the cosy space. From the bread freshly baked in the morning to pastas and desserts, everything is handmade by Chef Stefano Di Salvo. The kitchen's signature Caldaro soup, inspired by the fisherman's soup in Tuscany, has a rich, spicy flavour with the chef's own twist. 친근한 분위기와 함께 다양한 지역의 따뜻한 이탈리안 음식을 즐기기에 좋은 장소입니다.",
       "lat": 37.53687,
       "lng": 127.00187,
@@ -5434,7 +5560,7 @@
       "cuisine": "모던",
       "region": "부산",
       "area": "부산",
-      "address": "B1F Paradise Hotel, 296 Haeundaehaebyeon-ro, Haeundae-gu, Busan, 48099, South Korea",
+      "address": "B1, Paradise Hotel, 296 Haeundaehaebyeon-ro, Haeundae-gu, Busan, 48099, South Korea",
       "priceRange": "$$$$",
       "priceMin": 280000,
       "phone": "+82517492400",
@@ -5443,9 +5569,10 @@
         "Air conditioning",
         "Car park",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed,Valet parking",
       "description": "프리미엄급 한우가 이제 부산에서도 서비스되고 있습니다. 경험이 풍부한 직원이 매일 최고 등급의 암소(1++BMS9 등급)만을 손으로 선별하여 숙성시키고 완벽한 두께로 다듬어 다양한 맛을 만들어냅니다. Born and Bred에서는 15~19가지의 다양한 부위의 숯불구이 쇠고기를 맛볼 수 있는 오마카세 스타일 체험도 제공합니다. The menu is filled with creative dishes like beef sashimi and beef tacos. Make sure you arrive ready to indulge yourself.",
       "lat": 35.16013,
       "lng": 129.16468,
@@ -5454,7 +5581,7 @@
       "bookingUrl": "https://www.bandb.co.kr",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Born%20and%20Bred&keywordSearch=Born%20and%20Bred",
-      "naverMapUrl": "https://map.naver.com/p/search/Born%20and%20Bred%20B1F%20Paradise%20Hotel%2C%20296%20Haeundaehaebyeon-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048099%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/Born%20and%20Bred%20B1%2C%20Paradise%20Hotel%2C%20296%20Haeundaehaebyeon-ro%2C%20Haeundae-gu%2C%20Busan%2C%2048099%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.16468,35.16013,Born%20and%20Bred/walk?c=15.00,0,0,0,dh",
       "summary": "프리미엄급 한우가 이제 부산에서도 서비스되고 있습니다. 경험이 풍부한 직원이 매일 최고 등급의 암소(1++BMS9 등급)만을 손으로 선별하여 숙성시키고 완벽한 두께로 다듬어 다양한 맛을 만들어냅니다. Born and Bred에서는 15~19가지의 다양한 부위의 숯불구이 쇠고기를 맛볼 수 있는 오마카세 스타일 체험도 제공합니다.",
       "score": 18,
@@ -5481,9 +5608,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "프리미엄급 한우가 이제 부산에서도 서비스되고 있습니다. 경험이 풍부한 직원이 매일 최고 등급의 암소(1++BMS9 등급)만을 손으로 선별하여 숙성시키고 완벽한 두께로 다듬어 다양한 맛을 만들어냅니다. Born and Bred에서는 15~19가지의 다양한 부위의 숯불구이 쇠고기를 맛볼 수 있는 오마카세 스타일 체험도 제공합니다. The menu is filled with creative dishes like beef sashimi and beef tacos. Make sure you arrive ready to indulge yourself.",
       "lat": 37.56697,
       "lng": 127.04468,
@@ -5561,15 +5689,16 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "Original Numbers offers refined dining at a fair price under the slogan 'reasonable dining'. Grounded in French technique, the cuisine blends seasonal ingredients with umami-rich sauces such as sabayon and beurre blanc, reflecting contemporary trends and the chef's creativity. 요리는 음악적 이야기처럼 전개되어 일관되고 매력적인 미식 여행을 선사하며, 앤티크에서 영감을 받은 인테리어는 레스토랑의 몰입도 높은 분위기를 더욱 강화합니다.",
       "lat": 37.52509,
       "lng": 127.04071,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/original-numbers",
-      "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Cantique&keywordSearch=Cantique",
+      "websiteUrl": "https://cantiqueseoul.com/",
+      "bookingUrl": "https://cantiqueseoul.com/",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Cantique&keywordSearch=Cantique",
       "naverMapUrl": "https://map.naver.com/p/search/Cantique%2024%20Dosan-daero%2055-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006014%2C%20South%20Korea",
@@ -5596,14 +5725,16 @@
       "priceMin": 40000,
       "phone": "+82517519639",
       "hours": "",
-      "tags": [],
-      "facilities": "",
+      "tags": [
+        "Pets not allowed"
+      ],
+      "facilities": "Pets not allowed",
       "description": "1982년부터 소박하면서도 푸짐한 칼국수로 현지인들의 입맛을 충실하게 지켜온 곳입니다. 이 요리는 어디에서나 찾아볼 수 있지만, 이 식당의 변형 요리는 소박함에서 비롯된 특유의 고풍스러운 매력을 갖고 있습니다. 국물은 순하고 담백하며, 김치와 양파로 만든 특유의 매콤한 고명이 면수에 기분좋은 매운맛을 서서히 더해줍니다. 메뉴에는 여러 종류의 칼국수가 있습니다. 기분에 맞게 부분 크기를 선택할 수도 있습니다.",
       "lat": 35.18716,
       "lng": 129.10249,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/cha-ae-jeon-halmae-kalguksu",
-      "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Cha%20Ae%20Jeon%20Halmae%20Kalguksu&keywordSearch=Cha%20Ae%20Jeon%20Halmae%20Kalguksu",
+      "websiteUrl": "https://halme.co.kr/",
+      "bookingUrl": "https://halme.co.kr/",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Cha%20Ae%20Jeon%20Halmae%20Kalguksu&keywordSearch=Cha%20Ae%20Jeon%20Halmae%20Kalguksu",
       "naverMapUrl": "https://map.naver.com/p/search/Cha%20Ae%20Jeon%20Halmae%20Kalguksu%2070%20Gwajeong-ro%20191%20beonga-gil%2C%20Yeonje-gu%2C%20Busan%2C%2047558%2C%20South%20Korea",
@@ -5633,9 +5764,10 @@
       "phone": "+821026936392",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "조용한 곳에 자리잡은 Chaconne은 숨겨진 휴양지 같은 느낌을 줍니다. 한국의 제철 재료를 사용해 만든 음식은 프랑스 요리에 뿌리를 두고 있으며 셰프의 다양한 요리 여정을 반영하는 일본의 풍미가 가미되어 있습니다. 셰프의 특기는 다양한 과일을 사용하여 요리에 신맛과 단맛을 더하는 것입니다. 현대적이고 편안한 식사 공간은 쾌적한 분위기를 조성하며, 직원들의 사려 깊은 설명은 각 코스를 쉽게 감상할 수 있게 해줍니다.",
       "lat": 37.50274,
       "lng": 127.03376,
@@ -5710,9 +5842,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets allowed only in outdoor dining areas (patio/terrace)"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets allowed only in outdoor dining areas (patio/terrace)",
       "description": "프랑스어로 '우리 집'을 의미하는 Chez Nous Private Kitchen은 집 같은 환경에서 따뜻하고 풍성한 음식을 손님에게 제공하려는 셰프 오너 부부의 소망을 나타냅니다. 식당의 가정식 요리는 결코 평범하지 않습니다. 이는 마티유 몰레스(Mathieu Moles) 셰프가 프랑스의 주요 레스토랑과 호텔에서 총주방장으로 일한 경험을 반영합니다. 가리비 카르파치오와 트러플 에멀전을 곁들인 스테이크 타르타르 등 정통 프랑스 요리를 즐길 수 있는 아늑한 다이닝 공간입니다.",
       "lat": 37.53634,
       "lng": 126.98734,
@@ -5750,8 +5883,10 @@
       "priceMin": 80000,
       "phone": "+8227301045",
       "hours": "",
-      "tags": [],
-      "facilities": "",
+      "tags": [
+        "Pets not allowed"
+      ],
+      "facilities": "Pets not allowed",
       "description": "Chez Simon, 이 프랑스 비스트로는 꾸준한 속도로 성장해 왔습니다. 이 식당을 운영하는 부부는 새로운 재료를 찾기 위해 전 세계를 여행하기 위해 매년 일정 기간 동안 문을 닫습니다. 비록 셰프들이 전문적인 요리 교육을 받지 않았음에도 불구하고 요리에 대한 끊임없는 헌신과 겸손함이 성공을 거두었습니다. 이 프렌치 키친은 정통 레시피의 집대성인 평범하고 간단한 요리와 신선하고 세심하게 선별된 재료를 갖춘 코스 식사만을 제공합니다.",
       "lat": 37.54015,
       "lng": 126.99404,
@@ -5832,9 +5967,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "정성껏 만든 샤르퀴테리는 들리봉의 영혼입니다. 셰프는 이를 풍미 가득하고 시각적으로 눈에 띄는 요리에 주요 요소나 장식으로 활용하고, 숙련된 페어링 기술을 통해 각 재료의 특성을 강조합니다. 카운터에 앉은 손님들은 오픈형 주방에서 작업하는 모습을 지켜볼 수 있으며, 오래 된 캐비닛에 있는 샤르퀴트리가 테이블에서 참을성 있게 기다리는 모습을 볼 수 있습니다. 조용한 동네에 위치한 밝고 흰색 톤의 식사 공간은 레스토랑의 고요한 분위기를 더해줍니다.",
       "lat": 35.15758,
       "lng": 129.12153,
@@ -5906,9 +6042,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "용산에서 태어나고 자란 셰프와 그의 아내는 고요하고 미니멀한 공간에서 창의적인 한식 요리를 선보입니다. 레스토랑의 메뉴는 제철 재료와 사려 깊은 폐기물 제로 철학을 바탕으로 끊임없이 진화하고 있습니다. 메뉴에서 눈에 띄는 '오늘의 스크랩 전체'는 오늘의 남은 음식을 매우 향긋하고 깊은 맛이 나는 요리로 바꿔줍니다. It's hard to imagine a finer expression of conscious, creative dining than the one Doori offers.",
       "lat": 37.53795,
       "lng": 126.96352,
@@ -5942,19 +6079,19 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Cash only",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Cash only,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "처음부터 장인이 만든 파스타를 만드는 데 전념하는 Doughroom은 모든 이탈리아 음식 애호가를 위한 수호자입니다. 모든 파스타가 매일 신선하게 만들어지는 반죽실 자체가 의심할 여지 없이 레스토랑의 핵심입니다. 정통 이탈리아의 맛을 제공하는 동시에 현지 입맛에 친숙한 재료를 사용한 퓨전 요리도 제공합니다. 예를 들어 메밀 카넬로니가 있습니다. 예약 시 액션이 가득한 반죽 룸 테이블을 요청하는 것이 좋습니다.",
       "lat": 37.49379,
       "lng": 126.99333,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/doughroom",
       "websiteUrl": "https://www.soignerestaurantgroup.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/doughroom",
+      "bookingUrl": "https://www.soignerestaurantgroup.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/doughroom",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Doughroom&keywordSearch=Doughroom",
       "naverMapUrl": "https://map.naver.com/p/search/Doughroom%202F%2C%2099%20Donggwang-ro%2C%20Seocho-gu%2C%20Seoul%2C%2006584%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.99333,37.49379,Doughroom/walk?c=15.00,0,0,0,dh",
       "summary": "처음부터 장인이 만든 파스타를 만드는 데 전념하는 Doughroom은 모든 이탈리아 음식 애호가를 위한 수호자입니다. 모든 파스타가 매일 신선하게 만들어지는 반죽실 자체가 의심할 여지 없이 레스토랑의 핵심입니다. 정통 이탈리아의 맛을 제공하는 동시에 현지 입맛에 친숙한 재료를 사용한 퓨전 요리도 제공합니다.",
@@ -5968,8 +6105,7 @@
         "private-room",
         "parking",
         "under-100k"
-      ],
-      "catchtableShop": "doughroom"
+      ]
     },
     {
       "id": "elpic",
@@ -5989,9 +6125,10 @@
       "tags": [
         "Car park",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Car park,Counter dining,Valet parking",
+      "facilities": "Car park,Counter dining,Pets not allowed,Valet parking",
       "description": "한때 제주도의 유명한 그릴 하우스였던 ELPIC이 서울에 새 둥지를 틀었습니다. 드라이에이징, 웨트에이징, 밀랍에이징한 쇠고기 스테이크가 이 스테이크하우스의 대표 요리입니다. 제주도 앞바다에서 잡아올린 신선한 오징어 구이도 일품입니다. The method of grilling the steaks is unique: They are cooked over charcoal at a low temperature and cooled, with the process repeating for more than 30 minutes to maximise tenderness and juiciness. Pair the meat with wine for additional gastronomic indulgence.",
       "lat": 37.52237,
       "lng": 127.04659,
@@ -6029,10 +6166,11 @@
       "tags": [
         "Air conditioning",
         "Great view",
+        "Pets not allowed",
         "Terrace",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Great view,Terrace,Valet parking",
+      "facilities": "Air conditioning,Great view,Pets not allowed,Terrace,Valet parking",
       "description": "달걀과 밀가루로 뽑은 생면 파스타가 이 집의 핵심입니다. 카펠리니, 레지네티, 탈리아텔레, 리가토니, 파파르델레를 소스와 맞춰 내놓습니다. 해방촌 창가로 남산 노을을 보며 식사하면 특히 좋습니다. 1층은 프라이빗, 2층은 홀이라 소수 모임과 단체 모두 어울립니다.",
       "lat": 37.545342,
       "lng": 126.984447,
@@ -6073,9 +6211,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "흔히 부산집으로 불리는 곳으로, 대기 줄이 끊이지 않습니다. 국물 베이스의 서울식과 달리 언양불고기는 석쇠나 불에 구워 내며, 한우 등심의 고소한 맛에 새콤한 소스가 더해집니다. 광안리 바다가 보이는 자리에서 구운 고기를 밥과 함께 즐길 수 있습니다.",
       "lat": 35.14788,
       "lng": 129.11357,
@@ -6114,9 +6253,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
-        "Notable sake list"
+        "Notable sake list",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining,Notable sake list",
+      "facilities": "Air conditioning,Counter dining,Notable sake list,Pets not allowed",
       "description": "남천역 근처에 위치한 이로리 화로를 이용한 오마카세 전문 일식당입니다. 제철 생선 꼬치가 손님 앞에서 천천히 구워져 식욕을 돋우는 향기와 시각적 매력을 선사합니다. 정으뜸 셰프의 일본 요리 경험이 구현된 이 메뉴는 아름답게 구운 다양한 생선 요리와 함께 뚝배기 밥, 일본 전통의 맛을 선보이는 기타 세련된 요리를 자랑합니다.",
       "lat": 35.16043,
       "lng": 129.16043,
@@ -6304,9 +6444,10 @@
       "phone": "+821064443724",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets allowed everywhere"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets allowed everywhere",
       "description": "홍콩 요리를 좋아하고 독특한 홍콩 분위기를 경험하고 싶다면 차찬텡(홍콩 스타일 카페)에서 영감을 받은 이 식당에 주목해 보세요. 주인은 단지 홍콩에 대한 사랑 때문에 이 가게를 열었다고 말합니다. 이곳은 정통 홍콩 요리를 한국인의 입맛에 맞게 약간 변형한 요리를 제공합니다. 그럼에도 불구하고 그들의 맛과 비주얼은 현지 홍콩 요리 못지않게 훌륭합니다. 시그니처 메뉴에는 토마토와 햄이 듬뿍 들어간 기분 좋게 매콤한 토마토 누들 수프가 포함됩니다. 농축 우유와 시럽을 넉넉하게 바른 빵; 달콤한 나이차(밀크티); 그리고 동닝차(아이스 레몬티). 식당의 홍콩풍 비주얼은 덤!",
       "lat": 35.15875,
       "lng": 129.06444,
@@ -6343,9 +6484,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "프랑스어로 '성장하다'라는 뜻을 지닌 그랑디르는 일본에서 공부한 셰프와 프랑스에서 실력을 갈고 닦은 소믈리에가 만나 탄생한 브랜드다. 셰프는 고전적인 프랑스 요리와 일본식 기술을 결합하여 돼지고기 어깨살을 곁들인 옥수수 수프와 콩소메 젤리와 같은 조화로운 맛을 지닌 독특한 요리를 만듭니다. 이 요리에 좋은 와인 한 병을 곁들여 음식과 소스의 균형이 더욱 강화되는 것을 경험해 보세요.",
       "lat": 37.52771,
       "lng": 127.03949,
@@ -6383,9 +6525,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "2025년 강남 상업지구로 이전한 이 레스토랑은 이제 차분한 그린 톤, 유럽식 식기, 예술적인 가구로 정의된 세련된 공간을 차지하고 있습니다. 그 비전은 의도적으로 전통을 뛰어넘는 동시에 이탈리아 요리법에 뿌리를 두고 있습니다. 2년 동안 이탈리아에서 훈련을 받은 한국인 수석 셰프가 현지 및 제철 한식 재료를 메뉴에 능숙하게 결합하여 역동적인 계절 변화를 반영하는 모던 이탈리안 요리를 만듭니다. 일품요리와 테이스팅 메뉴로 제공되는 세심하게 만든 파스타는 부인할 수 없는 하이라이트입니다.",
       "lat": 37.52507,
       "lng": 127.04654,
@@ -6419,9 +6562,10 @@
       "phone": "+8227385688",
       "hours": "",
       "tags": [
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Car park",
+      "facilities": "Car park,Pets not allowed",
       "description": "광화문 국밥은 흑돼지 돼지고기를 사용해 깔끔하고 부드러운 돼지국밥을 맛볼 수 있는 곳이다. 순한 국물과 부드러운 돼지고기 조각, 넉넉한 부추 토핑이 균형이 잘 잡혀 향긋한 한 그릇을 만들어냅니다. 갓 지은 밥과 아삭아삭한 깍두기와 함께 먹으면 든든하고 만족스러운 식사가 됩니다. 어린이를 위한 부분이 적으므로 가족 친화적입니다. 번화한 사무실 지역에 위치해 있어 주중 점심 시간에는 긴 줄이 예상됩니다.",
       "lat": 37.5689,
       "lng": 126.97541,
@@ -6460,9 +6604,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "일본 요리를 전문으로 하는 한국인 셰프가 이끄는 이 레스토랑은 단순하면서도 사려 깊은 사케와 함께 스시를 곁들인 요리에 중점을 두고 있습니다. 신선함을 보장하기 위해 해산물을 주로 일본과 한국에서 조달하고, 샤리는 부드럽고 약간 쫄깃하며 절제된 산도와 균형을 이루고 있습니다. On occasion, guests may be served with the chef's signature kohada sushi. At the warm wood-toned counter, the chef prepares each piece by hand, creating an intimate and engaging experience. Separate lunch and dinner courses are offered, with the longer dinner menu ideal for those wishing to explore a wider range of ingredients.",
       "lat": 37.5275808,
       "lng": 127.0348773,
@@ -6535,9 +6680,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "해남천일관은 남도음식의 풍부한 전통을 변함없이 지켜왔습니다. 창립 일가인 이화영 대표의 리더십 하에 역사적인 천일식당의 유산을 이어가고 있습니다. 이씨의 가게를 차별화하는 자산은 가족과 함께하는 일상을 통해 축적된 검증된 메뉴와 레시피입니다. 반지김치, 갈비찜 등의 요리는 현대의 트렌드에도 변함없이 전통적인 남도의 맛을 그대로 담고 있습니다.",
       "lat": 37.49862,
       "lng": 127.00195,
@@ -6617,10 +6763,11 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking,Wheelchair access",
       "description": "허덕죽 셰프가 이끄는 하오빈은 샹들리에와 우아한 식기로 동양과 서양의 미학이 조화를 이루는 따뜻한 조명의 다이닝 룸에서 세련된 중국 요리를 제공합니다. 광둥식 훈련을 받은 셰프는 50년 이상의 경험을 바탕으로 다양한 지역 중국 요리를 선보입니다. 특히 그는 한국에 처음 소개한 요리인 부다점프오버더월(Buddha Jumps Over the Wall)을 시그니처 메뉴로 내놓는 등 국물 요리의 솜씨로 유명하다.",
       "lat": 37.5599583,
       "lng": 127.0024232,
@@ -6653,16 +6800,17 @@
       "cuisine": "모던",
       "region": "부산",
       "area": "부산",
-      "address": "4F, 200 Dalmaji-gil 117beon-na-gil, Haeundae-gu, Busan, 48117, South Korea",
+      "address": "4F, 200 Dalmaji-gil 117 beon-na-gil, Haeundae-gu, Busan, 48115, South Korea",
       "priceRange": "$$$",
       "priceMin": 150000,
       "phone": "+8250714801465",
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "이 레스토랑은 고전적인 프랑스 요리와 한국 요리에서 파생된 대담하고 현대적인 맛을 선보입니다. 요리 이름은 한국식이지만 소스와 플레이팅은 확실히 프랑스식이다. 소스의 균형을 맞추는 셰프의 놀라운 능력은 앞으로 더욱 유망한 작업이 될 것임을 시사합니다. 아늑한 카펫과 미니멀한 테이블은 음식과 마찬가지로 따뜻하고 차분하며 세련된 분위기를 연출합니다. 이곳은 좋은 음식과 와인을 즐기며 휴식을 취할 수 있는 사랑스럽고 조용한 장소입니다.",
       "lat": 35.1646,
       "lng": 129.1838,
@@ -6671,7 +6819,7 @@
       "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=IA%C3%A1n&keywordSearch=IA%C3%A1n",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=IA%C3%A1n&keywordSearch=IA%C3%A1n",
-      "naverMapUrl": "https://map.naver.com/p/search/IA%C3%A1n%204F%2C%20200%20Dalmaji-gil%20117beon-na-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048117%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/IA%C3%A1n%204F%2C%20200%20Dalmaji-gil%20117%20beon-na-gil%2C%20Haeundae-gu%2C%20Busan%2C%2048115%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.1838,35.1646,IA%C3%A1n/walk?c=15.00,0,0,0,dh",
       "summary": "이 레스토랑은 고전적인 프랑스 요리와 한국 요리에서 파생된 대담하고 현대적인 맛을 선보입니다. 요리 이름은 한국식이지만 소스와 플레이팅은 확실히 프랑스식이다. 소스의 균형을 맞추는 셰프의 놀라운 능력은 앞으로 더욱 유망한 작업이 될 것임을 시사합니다.",
       "score": 18,
@@ -6698,9 +6846,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "일 베키오(Il Vecchio)는 김민균 셰프와 김빈나 셰프 부부가 운영하는 현실적이고 가정적인 분위기의 레스토랑입니다. 신선한 현지 농산물과 해산물로 만든 이 식당의 시그니처 요리는 계절의 맛을 완벽하게 담아냅니다. 셰프 듀오의 꼼꼼한 요리는 모든 재료의 미묘한 맛, 향 및 질감을 이끌어내며, 반 건조된 신선한 파스타는 그 정확성을 보여줍니다. Il Vecchio의 지속적인 혁신은 고객에게 다양하면서도 신뢰할 수 있는 식사 경험을 제공하는 것을 목표로 하는 표준입니다.",
       "lat": 37.5763,
       "lng": 126.89462,
@@ -6739,15 +6888,16 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "신사동으로 이전한 이후 고기 애호가들의 성지인 이곳에 자리를 잡기 위해서는 더 많은 인내가 필요하다. 레스토랑의 메뉴는 고정 코스 요리로 구성되어 있습니다. 향긋하고 육즙이 풍부한 요리에는 메이플 시럽을 곁들인 두껍게 자른 베이컨과 참나무로 훈제한 쇠고기 갈비 등이 포함됩니다. 푹 끓인 갈비와 진하고 매콤한 국물이 어우러진 갈비라면은 맛의 균형이 완벽합니다. 음식은 맥주와 위스키와 잘 어울립니다.",
       "lat": 37.521151,
       "lng": 127.019274,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imok-smoke-dining",
-      "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Imok%20Smoke%20Dining&keywordSearch=Imok%20Smoke%20Dining",
+      "websiteUrl": "https://imoksmokedining.com",
+      "bookingUrl": "https://imoksmokedining.com",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Imok%20Smoke%20Dining&keywordSearch=Imok%20Smoke%20Dining",
       "naverMapUrl": "https://map.naver.com/p/search/Imok%20Smoke%20Dining%20B1%2C%206%20Apgujeong-ro%202-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006027%2C%20South%20Korea",
@@ -6814,9 +6964,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "생선 숙성 특허를 보유한 셰프가 생선의 특성과 상태에 따라 최적의 숙성 기간을 세심하게 결정합니다. 다양한 선택과 결합된 이러한 세심한 접근 방식은 일관적이면서도 다양한 식사 경험을 선사합니다. Depending on the ingredients available and the chef's approach, the proportion of sushi, sashimi, and other dishes in the omakase can vary. At Iwa, guests can enjoy a wide range of dishes made with flavourful aged ingredients in one sitting, with reasonable prices adding to the appeal.",
       "lat": 35.15959,
       "lng": 129.15384,
@@ -6853,10 +7004,11 @@
       "phone": "+8227989700",
       "hours": "",
       "tags": [
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Valet parking,Wheelchair access",
+      "facilities": "Pets not allowed,Valet parking,Wheelchair access",
       "description": "귀족을 뜻하는 중국어 발음에서 이름을 딴 광둥 요리 전문점입니다. 코스 이름도 중국의 작위를 따랐습니다. 간을 한 뒤 고온 오븐에 구운 차슈는 껍질은 바삭하고 속은 촉촉합니다. 딤섬 13종 가운데 창펀, 전복 슈마이, 춘권은 꼭 드셔 보세요.",
       "lat": 37.53744,
       "lng": 127.01277,
@@ -6972,9 +7124,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Shoes must be removed"
       ],
-      "facilities": "Air conditioning,Shoes must be removed",
+      "facilities": "Air conditioning,Pets not allowed,Shoes must be removed",
       "description": "이 소박하지만 분주한 레스토랑은 지난 10년 동안 간장게장만 판매하고 다른 어떤 음식도 제공하지 않았습니다. 서해안에서 공수한 가장 신선한 현지 꽃게만을 주방의 특별한 레시피인 간장 양념장과 함께 매일 조리합니다. 게는 매일 먹을 만큼만 준비되기 때문에 늦은 시간에 방문하시면 완판될 수도 있으니 참고하세요. 사전 예약을 적극 권장합니다.",
       "lat": 37.55055,
       "lng": 126.95577,
@@ -7050,9 +7203,10 @@
       "phone": "+8225349544",
       "hours": "",
       "tags": [
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Valet parking",
+      "facilities": "Pets not allowed,Valet parking",
       "description": "줄라이(July)는 서래마을에서 가장 오래된 파인 다이닝 레스토랑으로, 셰프가 여행에서 영감을 받아 유럽 요리를 현대적으로 재해석한 요리를 선보입니다. 그는 한국산 야채, 생선, 기타 제철 재료를 사용하여 기술적으로 세련되고 복잡한 현대 요리를 만듭니다. 이러한 예술성은 다양한 맛을 고전적인 소스 레시피와 결합하여 다양한 맛 프로필을 만드는 소스에서 분명하게 드러납니다. 우드 톤의 인테리어와 은은한 조명이 아늑한 식사 공간을 연출해 비즈니스 데이트와 로맨틱한 데이트 모두에 적합합니다.",
       "lat": 37.49475,
       "lng": 127.00008,
@@ -7089,9 +7243,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "키라메키(Kirameki)는 밥을 중심으로 한 시식 메뉴를 제공하는 일식 레스토랑입니다. 식사의 중심은 밥이 될 거라 예상했는데, 식사를 경험해 보니 다양한 요리로 구성되어 있었습니다. 메뉴는 일본식 일식을 중심으로 디자인되었으며 제철 재료를 사용한 가이세키 요리를 선보입니다. 세라믹 냄비 밥이 제공되면 향기로운 흰 쌀 국자 위에 작은 음식 한 조각이 제공되었습니다. 매콤한 맛이 입안에 즐겁게 남아있었습니다.",
       "lat": 37.51808,
       "lng": 127.02822,
@@ -7128,9 +7283,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets allowed everywhere",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets allowed everywhere,Valet parking",
       "description": "한국인 셰프(KO), 일본식 기술(JA), 중국의 영향(CHA)이 만든 일본 요리의 융합을 반영하여 이름 붙여진 코자차는 의도적으로 관습을 뛰어넘는 식사 경험을 제공합니다. 황실 시대의 비누 접시에 담긴 전복 샐러드부터 오사카식 하순까지 코스는 일식과 중식을 원활하게 번갈아 가며 진행됩니다. 셰프가 테이블에서 각 코스를 직접 선보이며 이야기와 연극적 감각을 더합니다. 레스토랑의 전용실 레이아웃은 전체적으로 친밀하고 몰입도 높은 경험을 보장합니다.",
       "lat": 37.52083,
       "lng": 127.05519,
@@ -7205,9 +7361,10 @@
       "phone": "+8225790538",
       "hours": "",
       "tags": [
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Counter dining",
+      "facilities": "Counter dining,Pets not allowed",
       "description": "쿠시카와를 오픈하게 된 윤석현 오너의 영감은 일본에 체류하면서 쿠시카츠(고기와 야채를 꼬치에 튀겨낸 요리)를 비롯한 인기 일식 요리의 감식가가 되면서부터 시작되었습니다. 구시카와의 오마카세 코스는 해산물, 고기, 야채를 재료로 한 12~14가지 종류의 꼬치 튀김으로 구성됩니다. 자신이 자란 고향에서 레스토랑을 운영하는 윤씨는 현지인의 입맛을 사로잡기 위해 노력하고 있으며, 손님들의 환한 얼굴에 떠오르는 즐거운 표정보다 더 큰 기쁨을 주는 것은 없다.",
       "lat": 37.48268,
       "lng": 127.04566,
@@ -7285,9 +7442,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "남천역 인근 골목의 프렌치 레스토랑입니다. 전지성 셰프가 제철 재료와 선명한 소스로 맛과 향의 균형을 맞춥니다. 장아찌나 젓갈 같은 발효 재료를 쓰기도 해, 섬세한 프렌치 안에서 한국적인 맛을 발견하는 재미가 있습니다.",
       "lat": 35.14477,
       "lng": 129.11062,
@@ -7325,9 +7483,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "채소·생선·달걀·유제품으로 구성하는 프렌치 페스커테리안 레스토랑입니다. 생태와 동물을 존중하는 마음으로 차렸고, 고기 육수 대신 버섯 채소 육수를, 케이크에는 밀가루 대신 콜리플라워와 페코리노를 씁니다. 감칠맛과 식감은 일반적인 레시피에 뒤지지 않습니다.",
       "lat": 37.52062,
       "lng": 127.02409,
@@ -7364,9 +7523,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "이북 요리를 현대적으로 재해석합니다. 대표 메뉴는 셰프 집안의 선지순대 요리입니다. 전통 조리와 새로운 재료를 넘나들며, 익숙하면서도 정제된 맛을 지향합니다. 한옥에서 가져온 보와 문으로 만든 작업대가 공간에 정취를 더합니다.",
       "lat": 37.5396777,
       "lng": 126.9431187,
@@ -7484,9 +7644,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "마나오(Manao)에 들어서면 태국에서 직접 가져온 다양한 예술품과 세련된 장식으로 더욱 강화된 이국적인 분위기가 여러분을 맞이할 것입니다. 프리 픽스(prix-fixe) 메뉴는 작은 분량의 여러 요리로 구성되어 있어 한 끼에 다양한 요리를 즐길 수 있습니다. 주방은 특유의 매운 맛을 지닌 정통 태국 요리를 훌륭하게 선보입니다. 주문하면 고기와 해산물을 숯불에 구워준다는 점도 이곳의 매력이다. 마나오(Manao)는 태국어로 \"석회\"를 의미하며 이름만큼 상쾌한 맛을 자랑합니다.",
       "lat": 37.53411,
       "lng": 127.00613,
@@ -7525,9 +7686,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "김영빈 셰프는 발효를 핵심으로 서양과 북유럽의 영향과 함께 한국과 아시아의 전통을 재해석합니다. 그는 발효를 통해 재료를 변형시키고 이를 요리에 엮어 미묘하고 다양한 방식으로 재료의 맛을 탐구합니다. 이러한 접근 방식은 산미와 감칠맛의 균형을 맞추려는 그의 목표를 반영합니다. 발효식품이 일상이 된 한국에서 발효에 대한 사려 깊은 탐구와 맛의 조화를 추구하는 메이터의 행보가 독특하면서도 흥미롭게 느껴진다.",
       "lat": 37.52337,
       "lng": 127.03464,
@@ -7585,6 +7747,47 @@
       "amenities": [
         "under-100k"
       ]
+    },
+    {
+      "id": "meerock-super",
+      "name": "Meerock Super",
+      "nameEn": "Meerock Super",
+      "stars": "selected",
+      "greenStar": false,
+      "ribbons": null,
+      "cuisine": "모던",
+      "region": "부산",
+      "area": "부산",
+      "address": "24-8 Millak-ro, Suyeong-gu, Busan, 48286, South Korea",
+      "priceRange": "$$",
+      "priceMin": 80000,
+      "phone": "+8250713713318",
+      "hours": "",
+      "tags": [
+        "Air conditioning",
+        "Counter dining",
+        "Pets not allowed"
+      ],
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
+      "description": "Meerok Super is a small six-seat restaurant that serves outsize creativity. The vegetables grown in the on-site vegetable patch, aged fish and meat, and seasonal ingredients are transformed into the day’s tasting menu. The grilled meat course, cooked over charcoal for aroma, texture, and juiciness, and served with rice, creates a seamless transition from Western to Korean flavours. Expect to be delighted by unexpected yet harmonious flavour combinations that change daily.",
+      "lat": 35.15891,
+      "lng": 129.12601,
+      "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/meerok-super",
+      "websiteUrl": "",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/meerocksuper",
+      "source": "michelin-csv",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/meerocksuper",
+      "naverMapUrl": "https://map.naver.com/p/search/Meerock%20Super%2024-8%20Millak-ro%2C%20Suyeong-gu%2C%20Busan%2C%2048286%2C%20South%20Korea",
+      "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12601,35.15891,Meerock%20Super/walk?c=15.00,0,0,0,dh",
+      "summary": "Meerok Super is a small six-seat restaurant that serves outsize creativity. The vegetables grown in the on-site vegetable patch, aged fish and meat, and seasonal ingredients are transformed into the day’s tasting menu. The grilled meat course, cooked over charcoal for aroma, text",
+      "score": 18,
+      "occasions": [
+        "value"
+      ],
+      "amenities": [
+        "under-100k"
+      ],
+      "catchtableShop": "meerocksuper"
     },
     {
       "id": "meerok-super",
@@ -7665,6 +7868,46 @@
       ]
     },
     {
+      "id": "mimimyunga",
+      "name": "Mimimyunga",
+      "nameEn": "Mimimyunga",
+      "stars": "selected",
+      "greenStar": false,
+      "ribbons": null,
+      "cuisine": "모던",
+      "region": "서울",
+      "area": "서울",
+      "address": "29 Gangnam-daero 160-gil, Gangnam-gu, Seoul, 06028, South Korea",
+      "priceRange": "$",
+      "priceMin": 40000,
+      "phone": "+827042335466",
+      "hours": "",
+      "tags": [
+        "Air conditioning",
+        "Counter dining",
+        "Pets not allowed"
+      ],
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
+      "description": "Mimi Myeonga is best known for its noodle dishes topped with playful garnishes and served in a generous helping of broth. Diners can choose hot or cold soba dishes depending on the season. In winter, warm up with a brimming bowl of noodles with broth, crowned with shrimp, conger eel, fried eggplant, and grilled mackerel. In summer, try the refreshing and nutty option topped with sea urchin and sweet marinated tomato. Mimi Myeonga infuses its delightfully springy noodles with distinctive seasonal flavors.",
+      "lat": 37.52003,
+      "lng": 127.02108,
+      "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mimi-myeonga",
+      "websiteUrl": "",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mimimyunga&keywordSearch=Mimimyunga",
+      "source": "michelin-csv",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mimimyunga&keywordSearch=Mimimyunga",
+      "naverMapUrl": "https://map.naver.com/p/search/Mimimyunga%2029%20Gangnam-daero%20160-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006028%2C%20South%20Korea",
+      "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.02108,37.52003,Mimimyunga/walk?c=15.00,0,0,0,dh",
+      "summary": "Mimi Myeonga is best known for its noodle dishes topped with playful garnishes and served in a generous helping of broth. Diners can choose hot or cold soba dishes depending on the season. In winter, warm up with a brimming bowl of noodles with broth, crowned with shrimp, conger ",
+      "score": 18,
+      "occasions": [
+        "value"
+      ],
+      "amenities": [
+        "under-100k"
+      ]
+    },
+    {
       "id": "moment-local",
       "name": "Moment Local",
       "nameEn": "Moment Local",
@@ -7716,9 +7959,10 @@
       "phone": "+827044047978",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "물랭(Moulin)은 서촌의 조용한 거리에 위치한 프렌치 레스토랑이다. 매력적인 빈티지한 공간 디자인이 손님을 맞이하며, 윤예랑 셰프가 선보이는 제철 풍미가 가득한 프렌치 요리를 맛보실 수 있습니다. 프랑스 전통 기법과 한국의 제철 재료가 만나 재료의 미묘한 맛과 풍성한 소스의 균형을 유지합니다. 레스토랑 개업 이후 번호가 매겨진 일련의 시음 메뉴는 각각의 이야기를 말하며 식사하는 사람들이 다음에 나올 음식에 대한 기대감을 갖게 합니다.",
       "lat": 37.5814682,
       "lng": 126.9718836,
@@ -7745,25 +7989,26 @@
       "cuisine": "한식",
       "region": "서울",
       "area": "서울",
-      "address": "3 Hoenamu-ro, Yongsan-gu, Seoul, 04343, South Korea",
+      "address": "Areumnuri Building, 3 Hoenamu-ro, Yongsan-gu, Seoul, 04343, South Korea",
       "priceRange": "$$",
       "priceMin": 80000,
-      "phone": "+821099655112",
+      "phone": "+821045923609",
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "안씨의 수제 막걸리는 한국의 반주 문화를 현대적인 시각으로 재해석하여 다양한 종류의 막걸리와 이를 보완하는 요리를 제공합니다. 시그니처 메뉴로는 새젓 김치와 함께 제공되는 집에서 만든 두부, 삼겹살, 명란 등 대조되는 질감과 층층이 있는 맛이 돋보이는 메뉴입니다. 현대적인 기술로 세련되게 다듬어진 메뉴에는 계절에 맞는 작은 접시와 코스 옵션이 있으며, 한국의 오래된 술이 교대로 선택되어 제공되므로 편안한 식사와 즐거운 모임 모두에 적합합니다.",
       "lat": 37.53858,
       "lng": 126.9874,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mr-ahn-s-craft-makgeolli-1192580",
-      "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mr.%20Ahn%27s%20Craft%20Makgeolli&keywordSearch=Mr.%20Ahn%27s%20Craft%20Makgeolli",
+      "websiteUrl": "https://www.ahnmak.com/",
+      "bookingUrl": "https://www.ahnmak.com/",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mr.%20Ahn%27s%20Craft%20Makgeolli&keywordSearch=Mr.%20Ahn%27s%20Craft%20Makgeolli",
-      "naverMapUrl": "https://map.naver.com/p/search/Mr.%20Ahn%27s%20Craft%20Makgeolli%203%20Hoenamu-ro%2C%20Yongsan-gu%2C%20Seoul%2C%2004343%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/Mr.%20Ahn%27s%20Craft%20Makgeolli%20Areumnuri%20Building%2C%203%20Hoenamu-ro%2C%20Yongsan-gu%2C%20Seoul%2C%2004343%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.9874,37.53858,Mr.%20Ahn%27s%20Craft%20Makgeolli/walk?c=15.00,0,0,0,dh",
       "summary": "안씨의 수제 막걸리는 한국의 반주 문화를 현대적인 시각으로 재해석하여 다양한 종류의 막걸리와 이를 보완하는 요리를 제공합니다. 시그니처 메뉴로는 새젓 김치와 함께 제공되는 집에서 만든 두부, 삼겹살, 명란 등 대조되는 질감과 층층이 있는 맛이 돋보이는 메뉴입니다. 현대적인 기술로 세련되게 다듬어진 메뉴에는 계절에 맞는 작은 접시와 코스 옵션이 있으며, 한국의 오래된 술이 교대로 선택되어 제공되므로 편안한 식사와 즐거운 모임 모두에 적합합니다.",
       "score": 18,
@@ -7870,19 +8115,20 @@
       "address": "17 Teogye-ro 48-gil, Jung-gu, Seoul, 04619, South Korea",
       "priceRange": "$$",
       "priceMin": 80000,
-      "phone": "+821083506743",
+      "phone": "+821075594817",
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "한국계 미국인 셰프 오스틴 강은 음식이 약이라는 한국인의 믿음에 따라 직접 발효식품과 장을 직접 준비합니다. 밀가루를 사용하지 않은 표고버섯, 멸치젓 아이올리를 곁들인 새우전 등 전통 한식에 현대적인 감각을 가미한 요리를 선보입니다. 부드럽게 녹는 닭고기를 감귤 향과 허브 향이 나는 밥과 함께 곁들여 반찬과 잘 어울립니다. 메인 요리는 하루 전에 미리 주문하세요.",
       "lat": 37.56181,
       "lng": 127.00053,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mukjung",
-      "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mukjung&keywordSearch=Mukjung",
+      "websiteUrl": "https://www.mukjung.com",
+      "bookingUrl": "https://www.mukjung.com",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Mukjung&keywordSearch=Mukjung",
       "naverMapUrl": "https://map.naver.com/p/search/Mukjung%2017%20Teogye-ro%2048-gil%2C%20Jung-gu%2C%20Seoul%2C%2004619%2C%20South%20Korea",
@@ -7952,14 +8198,16 @@
       "priceMin": 40000,
       "phone": "+8227765348",
       "hours": "",
-      "tags": [],
-      "facilities": "",
+      "tags": [
+        "Pets not allowed"
+      ],
+      "facilities": "Pets not allowed",
       "description": "Myeongdong Kyoja is a family-owned place in operation since 1966. The restaurant, which offers only four items on the menu, specializes in dumplings and noodle soup. An impressive number of patrons flock here daily, largely because all the dishes, including its signature garlic-laden kimchi, are made in-house. 심플한 장식과 서비스는 저렴한 가격에 푸짐한 양으로 제공됩니다.",
       "lat": 37.56347,
       "lng": 126.984552,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeongdong-kyoja",
-      "websiteUrl": "https://www.mdkj.co.kr/en",
-      "bookingUrl": "https://www.mdkj.co.kr/en",
+      "websiteUrl": "https://www.mdkj.co.kr/",
+      "bookingUrl": "https://www.mdkj.co.kr/",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Myeongdong%20Kyoja&keywordSearch=Myeongdong%20Kyoja",
       "naverMapUrl": "https://map.naver.com/p/search/Myeongdong%20Kyoja%2029%20Myeongdong%2010-gil%2C%20Jung-gu%2C%20Seoul%2C%2004537%2C%20South%20Korea",
@@ -7986,14 +8234,15 @@
       "address": "3F, 13-12 Seolleung-ro 158-gil, Gangnam-gu, Seoul, 06014, South Korea",
       "priceRange": "$$$$",
       "priceMin": 280000,
-      "phone": "+8225115046",
+      "phone": "+821044539118",
       "hours": "",
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "뉴욕 레스토랑 경험을 바탕으로 현주 림 셰프가 누아메리칸 프렌치를 풀어냅니다. 재료 선택과 구성이 분명하고, 시그니처 트러플은 바삭한 껍질 안에 발효 버섯·트러플 크림을 담습니다. 마지막 초콜릿 폼이 인상에 남습니다.",
       "lat": 37.52635,
       "lng": 127.041513,
@@ -8030,9 +8279,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed",
       "description": "부산은 돼지국밥의 원조에 걸맞게 다양한 돼지국밥을 제공합니다. 모든 레스토랑은 정통 맛을 그대로 유지하면서 수프 국물에 고유한 맛을 더합니다. 남막집의 고기육수는 야채육수의 비율이 높아 무겁기보다는 담백하고 깔끔한 맛이 납니다. 이 상징적인 국물 외에도 메뉴에는 고기가 들어간 칼국수(손으로 자른 국수)가 포함되어 있습니다. 돼지국밥의 고기육수로 만든 생면을 곁들인 칼국수; 삶은 돼지고기 조각; 그리고 삼겹살 구이. 모던한 다이닝 공간에서 뒷맛이 최소화된 만족스러운 돼지국밥을 즐기고 싶다면 나막집이 제격이다.",
       "lat": 35.13461,
       "lng": 129.11187,
@@ -8069,8 +8319,10 @@
       "priceMin": 40000,
       "phone": "+8227773131",
       "hours": "",
-      "tags": [],
-      "facilities": "",
+      "tags": [
+        "Pets not allowed"
+      ],
+      "facilities": "Pets not allowed",
       "description": "유동인구가 끊이지 않는 인구 밀집 사무실 건물 사이의 작은 골목에 자리잡은 이 오랜 기관의 본관은 최근 대대적인 리모델링을 거쳤습니다. 정통 평양냉메밀면과 쇠고기 전골로 남녀노소 모두에게 오랜 사랑을 받아온 남포면옥은 변함없는 좋은 음식과 친절한 서비스로 매력을 이어가고 있습니다. 의자 좌석과 바닥 좌석 모두 이용 가능합니다.",
       "lat": 37.567269,
       "lng": 126.981609,
@@ -8107,19 +8359,20 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "ON은 셰프의 부드럽고 사려 깊은 접근 방식이 반영된 따뜻하고 편안한 요리를 제공합니다. 고객의 프라이버시를 염두에 두고 설계된 친밀한 공간은 몇 개의 테이블만 수용할 수 있으며 엄격하게 예약제로 운영됩니다. 메뉴는 제철 재료를 중심으로 두 가지 종류의 천천히 건조된 토마토와 루비 자몽을 결합하여 밝고 우아한 균형을 이루는 시그니처 야채 요리를 선보입니다. 식사 내내 셰프가 각 테이블을 직접 방문하여 모든 요리의 의도를 설명함으로써 따뜻하고 매력적인 식사 경험을 선사합니다.",
-      "lat": 37.52192,
-      "lng": 127.04938,
+      "lat": 37.52285,
+      "lng": 127.0434,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/on565623",
       "websiteUrl": "",
       "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ON&keywordSearch=ON",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=ON&keywordSearch=ON",
       "naverMapUrl": "https://map.naver.com/p/search/ON%203F%2C%20Mijun%20Building%2C%2048%20Seolleung-ro%20148-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006064%2C%20South%20Korea",
-      "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.04938,37.52192,ON/walk?c=15.00,0,0,0,dh",
+      "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0434,37.52285,ON/walk?c=15.00,0,0,0,dh",
       "summary": "ON은 셰프의 부드럽고 사려 깊은 접근 방식이 반영된 따뜻하고 편안한 요리를 제공합니다. 고객의 프라이버시를 염두에 두고 설계된 친밀한 공간은 몇 개의 테이블만 수용할 수 있으며 엄격하게 예약제로 운영됩니다. 메뉴는 제철 재료를 중심으로 두 가지 종류의 천천히 건조된 토마토와 루비 자몽을 결합하여 밝고 우아한 균형을 이루는 시그니처 야채 요리를 선보입니다.",
       "score": 18,
       "occasions": [],
@@ -8147,9 +8400,10 @@
         "Car park",
         "Counter dining",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Car park,Counter dining,Interesting wine list,Pets not allowed,Valet parking",
       "description": "OPNNG에서는 전반적인 분위기를 즐기면서 구하기 힘든 희귀한 와인으로 입맛을 즐겁게 해보세요. 이름은 \"미식과 와인을 통해 새로운 맛의 풍경을 열다\"를 상징합니다. 와인바나 레스토랑이라기보다는 갤러리에 가까운 이 고급 다이닝 공간은 아치형 입구, 유명 예술가들의 그림, 500종 이상의 다양한 와인을 보관할 수 있는 넓은 와인 저장고로 손님들에게 깊은 인상을 남깁니다. 수제 파스타 요리와 세련된 일품 요리를 선보입니다.",
       "lat": 37.51844,
       "lng": 127.03105,
@@ -8187,15 +8441,16 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "외고집 설렁탕은 고집 센 설렁탕이라는 뜻으로 깊고 감칠맛이 나는 맛이 특징이다. 1++등급 한우만을 사용하여 만든 육수는 진하면서도 깔끔하며, 수육은 입에서 사르르 녹습니다. 꼼꼼하게 손질한 도가니는 쫄깃한 식감과 깔끔한 ​​맛이 일품이며, 부드러운 한우수육에 대파를 듬뿍 얹은 것이 시그니처 메뉴이다. 시어머니의 레시피를 계승하고, 자신의 노하우로 다듬어온 주인장.",
       "lat": 37.51097,
       "lng": 127.05388,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/oegojip-sellongtang",
-      "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Oegojip%20Seolleongtang&keywordSearch=Oegojip%20Seolleongtang",
+      "websiteUrl": "https://www.oegojip.co.kr",
+      "bookingUrl": "https://www.oegojip.co.kr",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Oegojip%20Seolleongtang&keywordSearch=Oegojip%20Seolleongtang",
       "naverMapUrl": "https://map.naver.com/p/search/Oegojip%20Seolleongtang%20555%20Samseong-ro%2C%20Gangnam-gu%2C%20Seoul%2C%2006155%2C%20South%20Korea",
@@ -8234,9 +8489,9 @@
       "lng": 127.037424,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/one-degree-north",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/one_degree_north_starfield_avenue_gran_seoul",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/onedegreenorth",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/one_degree_north_starfield_avenue_gran_seoul",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/onedegreenorth",
       "naverMapUrl": "https://map.naver.com/p/search/One%20Degree%20North%208%20Hakdong-ro%2043-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006061%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.037424,37.516773,One%20Degree%20North/walk?c=15.00,0,0,0,dh",
       "summary": "'1도 북은 싱가포르의 위도를 나타냅니다. 이름에 걸맞게 인기 있는 싱가포르 요리와 아시아 스타일의 바비큐를 선보입니다. 셰프는 현지 맛을 재현하기 위해 싱가포르에서 직접 아폴로 오븐을 수입하기도 했습니다.",
@@ -8247,7 +8502,7 @@
       "amenities": [
         "under-100k"
       ],
-      "catchtableShop": "one_degree_north_starfield_avenue_gran_seoul"
+      "catchtableShop": "onedegreenorth"
     },
     {
       "id": "onyva",
@@ -8268,17 +8523,18 @@
         "Air conditioning",
         "Counter dining",
         "Interesting wine list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Interesting wine list,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Interesting wine list,Pets not allowed,Valet parking",
       "description": "조용한 골목에 자리잡은 Onyva는 편안하고 환영받는 식사 공간에 대한 셰프의 비전을 구현합니다. 프랑스 요리에 뿌리를 두고 있으면서도 한국식 재료를 창의적으로 접목해 독특한 맛을 선사하는 메뉴입니다. 구운 장어와 아삭아삭한 생강, 캐러멜라이즈한 양파를 가득 넣어 식감과 깊이가 뛰어난 메밀 갈레트가 특히 눈에 띕니다. 6코스 시음 메뉴가 기본으로 제공되지만, 와인과 짝을 이루는 일품 요리 옵션은 오후 9시 이후에 더 저렴한 가격으로 제공됩니다.",
       "lat": 37.52515,
       "lng": 127.0457,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/onyva",
       "websiteUrl": "https://www.onyva.kr",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/onyva",
+      "bookingUrl": "https://www.onyva.kr",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/onyva",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Onyva&keywordSearch=Onyva",
       "naverMapUrl": "https://map.naver.com/p/search/Onyva%20B1%2C%2015%20Dosan-daero%2075-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006015%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.0457,37.52515,Onyva/walk?c=15.00,0,0,0,dh",
       "summary": "조용한 골목에 자리잡은 Onyva는 편안하고 환영받는 식사 공간에 대한 셰프의 비전을 구현합니다. 프랑스 요리에 뿌리를 두고 있으면서도 한국식 재료를 창의적으로 접목해 독특한 맛을 선사하는 메뉴입니다. 구운 장어와 아삭아삭한 생강, 캐러멜라이즈한 양파를 가득 넣어 식감과 깊이가 뛰어난 메밀 갈레트가 특히 눈에 띕니다.",
@@ -8290,8 +8546,7 @@
         "parking",
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "onyva"
+      ]
     },
     {
       "id": "osteria-orzo",
@@ -8350,9 +8605,10 @@
       "phone": "+82517587123",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "현재 Outro by Vito로 이름을 바꾼 이 레스토랑은 광안리 해변 근처로 이전하여 현대적인 우아함으로 외관과 장식을 새롭게 단장했습니다. 이러한 변화에도 불구하고 시그니처 파스타 요리는 맛이 향상되었다는 점만 유지했습니다. 이제 집에서 만든 파스타는 밀가루 함량이 더 높고 발효 과정을 거칩니다. 쫄깃한 식감과 소스와의 완벽한 조화가 요리를 더욱 맛있게 만들어줍니다. 메뉴에는 샐러드, 고기 및 기타 잘 만들어진 음식도 포함되어 있습니다. 경험을 완성하기 위해 식사하는 사람들은 편안하고 세련된 분위기에서 천연 와인 한 잔을 즐길 수 있습니다.",
       "lat": 35.15835,
       "lng": 129.12786,
@@ -8390,9 +8646,10 @@
       "phone": "+821065508912",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "근지점은 위성이 지구에 가장 가까운 궤도상의 지점을 의미합니다. 레스토랑은 식사하는 사람들이 음식과 와인에 더 가까이 다가갈 수 있기를 바라는 마음에서 명명되었습니다. 신가영, 임홍근 셰프 부부가 운영하는 이 레스토랑은 집에서 직접 만든 신선한 파스타를 선보입니다. 카바텔리, 안다리노스, 피치 등 한국에서는 보기 힘든 식감과 모양을 지닌 다양한 파스타를 맛볼 수 있다. 봉골레와 피치, 랍스터 파스타와 안다리노스 등 익숙하면서도 독특한 조합을 경험해 보세요.",
       "lat": 37.51126,
       "lng": 127.04949,
@@ -8433,10 +8690,11 @@
         "Air conditioning",
         "Car park",
         "Great view",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Great view,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Great view,Pets not allowed,Valet parking,Wheelchair access",
       "description": "세계적으로 유명한 프랑스 셰프 피에르 가니에르(Pierre Gagnaire)는 2008년 롯데호텔 신관 옥상에 자신의 이름을 딴 컨템포러리 파인 다이닝 레스토랑을 오픈했습니다. 무라노 샹들리에와 골드 트림 벽으로 장식된 우아한 다이닝 공간은 클래식한 프렌치 럭셔리를 물씬 풍깁니다. 80% 현지 재료로 만든 예술적으로 선보이는 음식은 파리 출신 셰프의 창의적인 스타일을 존중합니다. 250개 이상의 라벨이 있는 와인 저장고 디스플레이도 인상적입니다.",
       "lat": 37.56529,
       "lng": 126.98103,
@@ -8597,9 +8855,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "램지는 한국의 식재료를 현대 프랑스의 시각으로 재해석하여 'New Korean French'라는 세련된 비전을 제시합니다. 시음 메뉴는 우아하고 다층적인 아뮤즈 부슈부터 정밀하게 조리된 생선 및 고기 코스에 이르기까지 고전적인 프랑스식 진행 방식을 따릅니다. 각 요리는 균형, 절제, 아름답게 표현된 소스로 정의됩니다. 바닥에서 천장까지 이어지는 창문을 통해 광안대교와 바다의 탁 트인 전망을 감상할 수 있어 레스토랑의 세련된 요리 서사를 더욱 돋보이게 하는 고요하고 마치 공중에 떠 있는 듯한 식사 경험을 선사합니다.",
       "lat": 35.15333,
       "lng": 129.12528,
@@ -8635,9 +8894,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "조용한 주택가에 자리잡은 Restaurant OY는 수수하고 고요한 외관으로 주변 환경과 자연스럽게 조화를 이룹니다. 프랑스 주방 베테랑 셰프 오세훈과 르 꼬르동 블루 출신 윤아영 셰프가 운영하는 레스토랑으로, 우아하고 절제된 프랑스 요리를 선보입니다. 오씨는 맛있는 코스를 맡고 윤씨는 디저트를 만든다. 재료에 대한 깊은 이해와 세련된 기술을 통해 섬세한 콩 수프, 풍부한 소스를 곁들인 부드러운 돼지고기 안심, 고급스러운 퐁당 오 쇼콜라 등 단순하고 균형 잡히고 세련된 요리가 탄생합니다.",
       "lat": 37.522219,
       "lng": 127.04329,
@@ -8673,9 +8933,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "지난 몇 년 동안 프리미에 더 중점을 두고 간소화된 전채요리 선택이 서울의 이탈리아 다이닝 현장에서 분명한 트렌드가 되었습니다. 이러한 변화에 맞춰 레스토랑은 북부 이탈리아의 뿌리와 셰프의 개인적인 철학, 감성, 스타일을 그대로 담은 간결한 메뉴를 선보입니다. 뛰어난 요리로는 타자린(tajarin)과 카시오 에 페페(cacio e pepe)가 있으며, 풍부한 맛과 버터와 치즈의 매혹적인 조화가 특징입니다. 주방의 다른 파스타 요리도 소스와 양념의 균형이 잘 잡혀있습니다. 포니테일 무 절임도 또 다른 하이라이트로 입안에 오래도록 향수를 불러일으킵니다.",
       "lat": 37.52318,
       "lng": 127.04655,
@@ -8758,9 +9019,10 @@
         "Air conditioning",
         "Car park",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed,Valet parking",
       "description": "SIIO에서는 한국의 제철 식재료를 활용한 창의적인 요리를 통해 수석 셰프의 경험을 엿볼 수 있으며, 호화로운 맛으로 식사를 즐겁게 해드립니다. SIIO의 요금은 틀에서 벗어나 표현의 자유를 포용합니다. 이 고급 식당에서는 새로운 요리가 요리 문화와 기술의 용광로를 나타냅니다. 그러나 이러한 자유분방하고 신선한 음식의 겉치레 뒤에는 한국의 뚜렷한 사계절을 반영하는 신중한 재료 선택이 있습니다. 세심한 규칙에 따라 미묘한 맛의 완벽한 균형이 결정됩니다.",
       "lat": 37.5205428,
       "lng": 127.0391949,
@@ -8841,10 +9103,11 @@
         "Air conditioning",
         "Car park",
         "Cash only",
+        "Pets allowed only in outdoor dining areas (patio/terrace)",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Cash only,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Cash only,Pets allowed only in outdoor dining areas (patio/terrace),Valet parking,Wheelchair access",
       "description": "수십 년 동안 삼원 가든은 한국의 바비큐 문화를 변화시켰으며 편안한 요리와 고급 요리 사이의 복잡한 균형으로 명성을 얻었습니다. 다양한 부위의 최고급 한우가 직원들의 노련한 그릴 솜씨와 만나 즐거운 미식 경험을 선사합니다. 또한, 한국적인 미를 담은 높은 천장과 유리벽이 어우러져 아름답게 조경된 야외정원은 탁 트인 느낌을 더해줍니다. 이 요리의 랜드마크를 방문하여 훌륭한 맛이 가득한 식사를 즐겨보세요.",
       "lat": 37.52499,
       "lng": 127.03297,
@@ -8885,9 +9148,10 @@
         "Car park",
         "Counter dining",
         "Notable sake list",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Notable sake list,Valet parking",
+      "facilities": "Air conditioning,Car park,Counter dining,Notable sake list,Pets not allowed,Valet parking",
       "description": "유성엽 셰프의 일식 요리에 대한 헌신은 산로에서 빛을 발합니다. 공간을 장식하는 은은하고 시크한 오브제들은 메뉴와 다이닝 환경을 통해 표현되는 셰프의 감성과 조화를 이룹니다. 제철 재료가 그의 세련된 기술과 요리 공예에 대한 열정과 만나 미묘한 맛이 연속적으로 펼쳐지며 식사 내내 부드럽게 입맛을 즐겁게 합니다. 경험을 완성하기 위해 서비스는 그의 일식 요리를 정의하는 깨끗하고 우아한 맛만큼 세련되었습니다.",
       "lat": 37.52417,
       "lng": 127.04978,
@@ -8923,17 +9187,18 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Car park"
+        "Car park",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park",
+      "facilities": "Air conditioning,Car park,Pets not allowed",
       "description": "서울의 정수를 담은 요리 여행을 제시한다는 비전을 바탕으로 제철 재료와 무한한 창의성을 결합하여 훌륭하고 독특한 요리를 식탁에 선보입니다. 다양한 맛을 느낄 수 있는 재료와 소스를 활용해 매력을 더하며, 서울의 다양한 음식 문화가 공존하는 모습을 반영합니다. 현대적이고 생동감 넘치는 다이닝 공간은 활기 넘치는 요리에 걸맞은 조화로움을 만들어냅니다.",
       "lat": 37.55919,
       "lng": 127.00359,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/seoul-dining",
       "websiteUrl": "https://www.seoul-dining.com",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/seoul-dining",
+      "bookingUrl": "https://www.seoul-dining.com",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/seoul-dining",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Seoul%20Dining&keywordSearch=Seoul%20Dining",
       "naverMapUrl": "https://map.naver.com/p/search/Seoul%20Dining%202F%2C%20Designhouse%2C%20272%20Dongho-ro%2C%20Jung-gu%2C%20Seoul%2C%2004617%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00359,37.55919,Seoul%20Dining/walk?c=15.00,0,0,0,dh",
       "summary": "서울의 정수를 담은 요리 여행을 제시한다는 비전을 바탕으로 제철 재료와 무한한 창의성을 결합하여 훌륭하고 독특한 요리를 식탁에 선보입니다. 다양한 맛을 느낄 수 있는 재료와 소스를 활용해 매력을 더하며, 서울의 다양한 음식 문화가 공존하는 모습을 반영합니다. 현대적이고 생동감 넘치는 다이닝 공간은 활기 넘치는 요리에 걸맞은 조화로움을 만들어냅니다.",
@@ -8941,8 +9206,7 @@
       "occasions": [],
       "amenities": [
         "parking"
-      ],
-      "catchtableShop": "seoul-dining"
+      ]
     },
     {
       "id": "seoul-salon",
@@ -8960,9 +9224,10 @@
       "phone": "+16466284628",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets allowed everywhere"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets allowed everywhere",
       "description": "성인 아케이드 같은 느낌을 주는 코리아타운의 이곳은 창고 바닥, 건메탈 그레이 마감, 네온 액센트를 갖추고 있습니다. 우리에게 Atomix를 준 같은 그룹의 음식은 모두 재미 있고 게임적이며, 바질과 스트라시아텔라를 곁들인 한국 떡이나 얇은 반죽에 튀긴 새우를 곁들인 치즈 블록을 곁들인 영향이 뒤섞인 요리입니다. 아마도 이 모든 것을 말해주는 요리는 기발한 말라 삼겹살일 것입니다. 이 요리는 보기에도 수수께끼이지만 부인할 수 없을 만큼 맛있습니다. 땅콩 버터 카샤사와 패션푸르트를 결합하는 방법을 아는 재능 있는 바에서는 이러한 맛있는 요리를 제공합니다. 식사가 끝나면 바나나 크림, 헤이즐넛, 오렌지 제스트를 곁들인 바나나 빙수로 상쾌한 피날레를 장식합니다.",
       "lat": 40.7484004,
       "lng": -73.9866175,
@@ -8988,16 +9253,17 @@
       "cuisine": "오마카세",
       "region": "서울",
       "area": "서울",
-      "address": "B1 #22, 75 Keunumul-ro, Mapo-gu, Seoul, 04158, South Korea",
+      "address": "3F, 65, Gangnam-daero 152-gil, Gangnam-gu, Seoul, 06036, South Korea",
       "priceRange": "$$",
       "priceMin": 80000,
-      "phone": "+827086760218",
+      "phone": "+821094739023",
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "소바주(Sobajuu)는 메밀을 주재료로 한 창작 일식 요리를 선보이는 곳입니다. 처음에는 두 형제가 운영했지만 지금은 동생이 운영하고 있습니다. 다양한 조리 기술을 사용하여 각 코스마다 메밀의 질감과 맛이 다릅니다. 예를 들어, 참치와 해초 소스를 곁들인 직접 만든 소바 롤과 함께 갈레트라고 불리는 프랑스식 메밀 팬케이크와 생선 구이를 제공합니다. 현대적이면서도 아늑한 공간은 깔끔한 요리 표현과 결합되어 셰프의 헌신과 세심한 배려를 반영합니다.",
       "lat": 37.54126,
       "lng": 126.94629,
@@ -9006,7 +9272,7 @@
       "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sobajuu&keywordSearch=Sobajuu",
       "source": "michelin-csv",
       "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Sobajuu&keywordSearch=Sobajuu",
-      "naverMapUrl": "https://map.naver.com/p/search/Sobajuu%20B1%20%2322%2C%2075%20Keunumul-ro%2C%20Mapo-gu%2C%20Seoul%2C%2004158%2C%20South%20Korea",
+      "naverMapUrl": "https://map.naver.com/p/search/Sobajuu%203F%2C%2065%2C%20Gangnam-daero%20152-gil%2C%20Gangnam-gu%2C%20Seoul%2C%2006036%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/126.94629,37.54126,Sobajuu/walk?c=15.00,0,0,0,dh",
       "summary": "소바주(Sobajuu)는 메밀을 주재료로 한 창작 일식 요리를 선보이는 곳입니다. 처음에는 두 형제가 운영했지만 지금은 동생이 운영하고 있습니다. 다양한 조리 기술을 사용하여 각 코스마다 메밀의 질감과 맛이 다릅니다.",
       "score": 18,
@@ -9035,9 +9301,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed",
       "description": "'작은 공간'과 '소고기를 먹는 곳'이라는 이중적 의미를 지닌 이름인 소공간은 한식에 뿌리를 둔 정성 가득한 메뉴를 선보이고 있다. 이전에 서양요리를 하던 셰프가 결국 한식으로 전향한 것이다. 그는 이제 완벽하게 맞춤 제작된 양복을 입은 사람의 기쁨으로 요리를 한다고 한다. 그 편안함은 그의 요리에 반영됩니다. 우아한 플레이팅, 독창적인 레시피, 그리고 48시간 동안 끓인 곰탕과 전통 냄비에 지은 밥과 같은 세련된 한식 요리입니다. 어린이를 위한 작은 곰탕 한 그릇도 준비되어 있어 온 가족이 함께 식사하기 좋습니다.",
       "lat": 35.16168,
       "lng": 129.16738,
@@ -9062,7 +9329,7 @@
     {
       "id": "sonnet",
       "name": "Sonnet",
-      "nameEn": "Sonnet",
+      "nameEn": "SONNET",
       "stars": "selected",
       "greenStar": false,
       "ribbons": null,
@@ -9077,9 +9344,10 @@
       "tags": [
         "Air conditioning",
         "Counter dining",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Counter dining,Valet parking",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed,Valet parking",
       "description": "소네트는 프랑스어로 '짧은 노래'로 번역되는데, 작은 접시를 전문으로 하는 레스토랑의 적절한 이름입니다. 한 입 크기의 음식부터 정교한 요리 기술을 사용해 만든 디저트까지 다양한 메뉴로 프랑스 요리를 캐주얼하게 재해석한 메뉴를 제공합니다. 닭 간 무스를 채운 코코아 롤에 송로버섯과 라즈베리 잼을 얹어 두 가지 맛의 균형을 맞추고, 신선한 조개와 캐비아를 곁들인 메밀 파스타는 은은한 향기를 선사합니다.",
       "lat": 37.52628,
       "lng": 127.03704,
@@ -9153,20 +9421,21 @@
       "address": "5F, 25-12 Daesagwan-ro 31-gil, Yongsan-gu, Seoul, 04401, South Korea",
       "priceRange": "$$",
       "priceMin": 80000,
-      "phone": "+8227973655",
+      "phone": "+821025336832",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "이 '테이블'은 셰프의 고향인 충남 태안의 최적의 맛을 담은 다양한 제철 식재료를 사용합니다. 지역에 대한 애정과 고객에게 가장 신선하고 건강한 음식을 제공하려는 진정한 열정이 그가 그러한 선택을 한 이유입니다. 요리사는 자신의 고향 재료를 능숙하게 흥미로운 요리로 변형할 수 있으며, 때로는 요리에 대한 개입을 최소화합니다. 이곳을 방문하는 사람들은 태안의 멋이 깃들어 있고 부르고뉴 와인이 강한 와인 리스트와 함께 이 유럽 요리의 매력을 맛보게 될 것입니다.",
       "lat": 37.53468,
       "lng": 127.00523,
       "michelinUrl": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/table-for-four",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/tableforfour",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Table%20for%20Four&keywordSearch=Table%20for%20Four",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/tableforfour",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/map/search-map?showTabs=true&bottomSheetHeightType=PARTIAL_MAP&serviceType=INTEGRATION&keyword=Table%20for%20Four&keywordSearch=Table%20for%20Four",
       "naverMapUrl": "https://map.naver.com/p/search/Table%20for%20Four%205F%2C%2025-12%20Daesagwan-ro%2031-gil%2C%20Yongsan-gu%2C%20Seoul%2C%2004401%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/127.00523,37.53468,Table%20for%20Four/walk?c=15.00,0,0,0,dh",
       "summary": "이 '테이블'은 셰프의 고향인 충남 태안의 최적의 맛을 담은 다양한 제철 식재료를 사용합니다. 지역에 대한 애정과 고객에게 가장 신선하고 건강한 음식을 제공하려는 진정한 열정이 그가 그러한 선택을 한 이유입니다. 요리사는 자신의 고향 재료를 능숙하게 흥미로운 요리로 변형할 수 있으며, 때로는 요리에 대한 개입을 최소화합니다.",
@@ -9177,8 +9446,7 @@
       "amenities": [
         "under-100k",
         "wine"
-      ],
-      "catchtableShop": "tableforfour"
+      ]
     },
     {
       "id": "the-green-table",
@@ -9198,9 +9466,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Great view"
+        "Great view",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Great view",
+      "facilities": "Air conditioning,Car park,Great view,Pets not allowed",
       "description": "김은희 셰프는 야채와 곡물에 프랑스 요리의 정밀함을 적용하여 전통 장아찌와 세심하게 조화를 이룹니다. 보리, 흑미, 귀리를 기본으로 한 그녀의 리조또 스타일 구성은 뿌리채소를 강조하고 섬세하게 표현된 야채 스톡 소스와 결합되어 인내심을 갖고 끓여서 조용한 깊이를 드러냅니다. 시시각각 변하는 창경궁의 풍경은 장소감과 평온함을 선사하며, 세심하면서도 눈에 거슬리지 않는 서비스는 전반적인 식사 경험을 미묘하게 높여줍니다.",
       "lat": 37.57781,
       "lng": 126.98829,
@@ -9278,9 +9547,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "요리의 우수성에 대한 김대천 셰프의 변함없는 헌신과 최고의 재료만을 사용하겠다는 그의 고집은 Toc Toc의 요리에 분명히 반영되어 있습니다. 김 셰프는 각 재료의 순수하고 자연스러운 맛을 이끌어내기 위한 기술의 정확성을 강조하며 고품질 농산물의 가치에 대한 깊은 존경심을 강조합니다. 그의 독특한 요리는 모든 접시에 담긴 정성과 창의성의 증거입니다. 코스 메뉴 외에도 Toc Toc은 신중하게 선별된 일품 요리를 제공하여 손님들이 레스토랑이 제공하는 모든 맛을 경험할 수 있도록 합니다.",
       "lat": 37.52237,
       "lng": 127.05429,
@@ -9321,10 +9591,11 @@
         "Air conditioning",
         "Car park",
         "Great view",
+        "Pets not allowed",
         "Valet parking",
         "Wheelchair access"
       ],
-      "facilities": "Air conditioning,Car park,Great view,Valet parking,Wheelchair access",
+      "facilities": "Air conditioning,Car park,Great view,Pets not allowed,Valet parking,Wheelchair access",
       "description": "롯데호텔 37층에 위치한 중식당으로 세련된 동양풍 분위기 속에서 탁 트인 시내 전망을 감상할 수 있습니다. 메뉴는 딤섬부터 현지 중국 요리까지 다양하며 특히 해산물에 중점을 두어 다양한 취향을 수용할 수 있습니다. 시그니처 하이라이트는 송이버섯과 전복, 다진 돼지고기 조림으로, 버섯의 은은한 향과 전복의 깊은 감칠맛이 돼지고기의 풍미를 더해 줍니다. 다양한 크기의 우아한 프라이빗 다이닝룸은 가족 모임이나 비즈니스 행사에 적합한 선택입니다.",
       "lat": 37.56531,
       "lng": 126.981,
@@ -9365,9 +9636,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed",
       "description": "셰프는 매일 공급되는 해산물을 중심으로 다양한 맛을 강조하는 오마카세를 만듭니다. 일본 요리의 핵심인 계절성을 그대로 유지하면서 한국의 식재료를 최고로 활용합니다. 현지 해산물은 단순하고 정통 요리법에 뿌리를 둔 요리의 중심을 차지합니다. 셰프의 시그니처 요리로는 스리나가시 스타일이나 제철 재료로 만든 소스를 곁들인 소면 요리가 있습니다. 컴팩트한 사이즈에도 불구하고 바 중심의 레이아웃으로 편안하고 여유로운 분위기를 연출합니다.",
       "lat": 35.16283,
       "lng": 129.16043,
@@ -9562,9 +9834,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "숙련된 셰프들의 분주한 손길이 솜씨 좋게 닭고기를 굽고, 한국식 토종닭 꼬치구이의 고소한 향이 공간 전체를 가득 채웁니다. 야키토리 키유의 목표는 야키토리의 맛을 한 단계 더 끌어올리는 것입니다. 다양한 약초를 먹고 자란 자연산 닭을 사용하여 건강하고 질 좋은 닭고기를 제공하고 있습니다. 메뉴에는 산란계를 도살해야만 얻을 수 있는 생계란이 포함되어 있어 재료의 신선함을 돋보이게 한다.",
       "lat": 37.54059,
       "lng": 126.95149,
@@ -9602,9 +9875,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "셰프는 매일 신선한 토종닭을 준비하며, 다양한 부위를 숯불에 구워 야키토리 기술을 통해 새의 독특한 맛을 선보입니다. 균형이 잘 잡힌 매리네이드는 고기의 고소함과 고소한 풍미를 더욱 높여줍니다. 수란을 곁들인 쓰쿠네는 부드럽고 육즙이 풍부해 네기마와 함께 가장 인기 있는 메뉴 중 하나입니다. 오마카세 가격은 시간에 따라 달라지며, 주류를 주문해야 한다는 점을 참고하세요.",
       "lat": 37.56461,
       "lng": 126.92449,
@@ -9680,17 +9954,18 @@
       "phone": "+82517586011",
       "hours": "",
       "tags": [
-        "Air conditioning"
+        "Air conditioning",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning",
+      "facilities": "Air conditioning,Pets not allowed",
       "description": "광안리 해수욕장 근처에 위치한 용강찌는 우육면으로 유명한 대만 음식점입니다. 공간 전체에 걸쳐 응집력 있는 디자인과 사려 깊은 장식이 대만의 분위기를 자아냅니다. 시그니처 수프의 따뜻함이 이 식당의 캐주얼하고 이국적인 분위기와 잘 어울립니다. 은은한 신맛과 감칠맛을 선사하는 국물과 두툼하고 기분 좋은 질감의 면이 이 상징적인 수프를 어떤 계절에도 편안한 선택으로 만들어줍니다. 용강찌에는 이 시그니처 요리 외에도 입맛을 사로잡는 다양한 국수와 반찬이 준비되어 있습니다.",
       "lat": 35.15639,
       "lng": 129.12424,
       "michelinUrl": "https://guide.michelin.com/en/busan-region/busan_1025838/restaurant/yongkangzzie",
       "websiteUrl": "",
-      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yongkangzzie_daegu",
+      "bookingUrl": "https://app.catchtable.co.kr/ct/shop/yongkangzzie_busanstation",
       "source": "michelin-csv",
-      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yongkangzzie_daegu",
+      "catchtableUrl": "https://app.catchtable.co.kr/ct/shop/yongkangzzie_busanstation",
       "naverMapUrl": "https://map.naver.com/p/search/Yongkangzzie%2010%20Gwanganhaebyeon-ro%20277%20beon-gil%2C%20Suyeong-gu%2C%20Busan%2C%2048287%2C%20South%20Korea",
       "naverDirectionsUrl": "https://map.naver.com/p/directions/-/-/129.12424,35.15639,Yongkangzzie/walk?c=15.00,0,0,0,dh",
       "summary": "광안리 해수욕장 근처에 위치한 용강찌는 우육면으로 유명한 대만 음식점입니다. 공간 전체에 걸쳐 응집력 있는 디자인과 사려 깊은 장식이 대만의 분위기를 자아냅니다. 시그니처 수프의 따뜻함이 이 식당의 캐주얼하고 이국적인 분위기와 잘 어울립니다.",
@@ -9701,7 +9976,7 @@
       "amenities": [
         "under-100k"
       ],
-      "catchtableShop": "yongkangzzie_daegu"
+      "catchtableShop": "yongkangzzie_busanstation"
     },
     {
       "id": "yoon-haeundae-galbi",
@@ -9721,9 +9996,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining",
+      "facilities": "Air conditioning,Car park,Counter dining,Pets not allowed",
       "description": "해운대갈비 전문점의 글로벌 브랜드로 시작된 윤해운대갈비는 한식의 정통성을 지키면서도 현대 한식 트렌드를 반영한 ​​차별화된 요리를 선보이고 있습니다. 바비큐를 마친 후 그릴에서 국수를 즐길 수 있는 특별한 그릴이 특징입니다. 생갈비는 한정수량이니 ​​미리 주문하시는 것도 잊지 마세요. 고급스럽고 트렌디한 식사 공간은 다양한 행사에 적합합니다. 카운터 스타일의 바비큐 공간은 데이트에 딱 맞습니다.",
       "lat": 37.50436,
       "lng": 127.00362,
@@ -9764,9 +10040,10 @@
         "Car park",
         "Counter dining",
         "Great view",
-        "Interesting wine list"
+        "Interesting wine list",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Car park,Counter dining,Great view,Interesting wine list",
+      "facilities": "Air conditioning,Car park,Counter dining,Great view,Interesting wine list,Pets not allowed",
       "description": "조화를 의미하는 문자와 연속성을 의미하는 접미사 '-ing'을 따서 명명된 율링은 새로운 셰프의 지휘 하에 현대 프랑스 요리를 향해 진화하고 있습니다. 간단하면서도 정밀한 조리 기술과 부산의 다양한 현지 식재료가 만나 익숙하면서도 새로운 느낌을 주는 요리를 만들어냅니다. 사려 깊게 구성된 페어링은 식사 경험을 더욱 향상시킵니다. 긴 카운터에 앉으면 동백섬과 광안대교가 한눈에 보인다. 일몰 시간에 예약하면 특히 기억에 남는 환경을 제공합니다.",
       "lat": 35.15872,
       "lng": 129.17067,
@@ -9843,9 +10120,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
-        "Counter dining"
+        "Counter dining",
+        "Pets not allowed"
       ],
-      "facilities": "Air conditioning,Counter dining",
+      "facilities": "Air conditioning,Counter dining,Pets not allowed",
       "description": "Zero Base의 셰프는 전통 일본 요리를 재해석한 요리를 선보입니다. 방문할 때마다 그날의 해산물에 따라 다양한 요리가 제공되어 새로운 즐거움을 선사합니다. 셰프는 일본 요리의 한계를 뛰어넘고 자신의 업적을 손님들과 공유합니다. 다시와 가쓰오부시, 그리고 셰프의 아버지가 재배한 곡물로 지은 쌀밥의 세심한 균형은 레스토랑의 독특한 철학을 반영합니다. 깔끔하고 모던한 인테리어는 클래식한 요리와 대비되어 흥미로운 분위기를 자아내며, 셰프와의 여유로운 대화는 즐거운 경험을 더해줍니다.",
       "lat": 35.15741,
       "lng": 129.12097,
@@ -9919,9 +10197,10 @@
       "hours": "",
       "tags": [
         "Air conditioning",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Valet parking",
+      "facilities": "Air conditioning,Pets not allowed,Valet parking",
       "description": "다양성, 맛, 기쁨은 이 레스토랑 이름의 기본이 되는 세 가지 D입니다. Trid는 이러한 요소에 중점을 둡니다. 사실, 그러한 기준을 충족시키기 위한 끊임없는 요리의 노력이 가장 강하게 느껴지는 곳이 바로 이곳입니다. 수석 셰프는 다양한 문화, 다양한 식사 환경을 경험해 왔으며, 이를 통해 그는 새로운 맛과 재료의 조합을 추구하면서 대담하고 흥미로운 선택을 할 수 있었습니다. 공간적 아늑함과 세련된 서비스, 우아한 디자인의 오픈형 주방이 레스토랑의 음식과 잘 어울리며 조화로운 식사 경험을 선사합니다.",
       "lat": 37.5267383,
       "lng": 127.0416702,
@@ -9957,9 +10236,10 @@
       "tags": [
         "Air conditioning",
         "Car park",
+        "Pets not allowed",
         "Valet parking"
       ],
-      "facilities": "Air conditioning,Car park,Valet parking",
+      "facilities": "Air conditioning,Car park,Pets not allowed,Valet parking",
       "description": "에파누이는 3개월에 한 번씩 신진 작가들의 그림으로 벽을 장식해 청담동 뒷골목에 아름다운 프랑스 요리에 걸맞은 갤러리 같은 분위기를 불어넣는다. 주방 팀의 시그니처 요리에는 부드러운 샴페인 바닐라 소스를 곁들인 랍스터 라비올리와 바삭바삭한 빵가루로 둘러싸인 푸아그라 마브레가 포함됩니다. 아마도 레스토랑의 예술 작품에 대한 고개를 끄덕이면서 프레젠테이션도 섬세하고 생동감 넘칩니다. 권지훈 셰프가 추구하는 균형잡힌 맛과 고품격 플레이팅은 눈과 입맛을 즐겁게 해줄 것입니다.",
       "lat": 37.52187,
       "lng": 127.04254,
